@@ -4,47 +4,47 @@
 
 ### Started Default
 started:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Saya bercocok tanam <strong>Organic</strong>"
+    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya suka  <strong>Kuliner</strong>"
 
 ### Started Personal
 started-personal:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Saya bercocok tanam <strong>Organic</strong>"
+    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya suka <strong>Kuliner</strong>"
   image: "assets/img/man.jpg"
   
 ### Started Image
 started-image:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Saya bercocok tanam <strong>Organic</strong>"
+    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya suka <strong>Kuliner</strong>"
   image: "assets/img/started_image_p.jpg"
   
 ### Started Video
 started-video:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
-  video: "https://youtu.be/S4L8T2kFFck"
+    - "Saya bercocok tanam <strong>Organic</strong>"
+    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya suka <strong>Kuliner</strong>"
+  video: "https://youtu.be/FN24Fm4DtTE"
   image: "assets/img/started_image_p.jpg"
   
 ### Started Slider
 started-slider:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Saya bercocok tanam <strong>Organic</strong>"
+    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya suka <strong>Kuliner</strong>"
   images:
     - "assets/img/started_image.jpg"
     - "assets/img/started_image2.jpg"

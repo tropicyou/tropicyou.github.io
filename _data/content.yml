@@ -6,25 +6,25 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Halo! Saya Joni Sugiono. Desainer web dari Malang, Jawa - Timur, . Saya memiliki pengalaman yang bagus dalam desain dan pembuatan situs web, saya juga mahir wordpress. Saya ingin berbagi pengalaman dengan anda tentang keahlian saya.</p>"
   list:
     - label: "Age"
       value: "24"
 
     - label: "Residence"
-      value: "USA"
+      value: "INDONESIA"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "Malang Jawa Timur"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "087886565462"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "mail@tropi.cyou"
 
   download:
     text: "Download CV"
@@ -64,8 +64,8 @@ pricing:
   items:
     - icon: "fas fa-star"
       name: "Basic"
-      price: "39"
-      price_before: "$"
+      price: "139k"
+      price_before: "Rp"
       price_after: "hour"
       list:
         - value: "Web Development"
@@ -83,8 +83,8 @@ pricing:
           
     - icon: "fas fa-rocket"
       name: "Premium"
-      price: "59"
-      price_before: "$"
+      price: "159k"
+      price_before: "Rp"
       price_after: "hour"
       list:
         - value: "Web Development"
@@ -159,7 +159,7 @@ skills:
         - label: "German"
           value: "70" #0-100 progress in %
 
-        - label: "Italian"
+        - label: "Mandarin"
           value: "55" #0-100 progress in %
 
         - label: "French"
@@ -212,7 +212,7 @@ facts:
   title: "Interests"
   items:
     - icon: "fas fa-baseball-ball"
-      name: "Basketball"
+      name: "Internet"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
     - icon: "fas fa-campground"
@@ -232,7 +232,7 @@ team:
   title: "Our Team"
   items:
     - image: "assets/img/team/team1.jpg"
-      name: "Alejandro Abeyta"
+      name: "Louis"
       role: "Web Developer"
       social:
         - url: "https://www.pinterest.com/"
@@ -258,12 +258,12 @@ testimonials:
   title: "Testimonials"
   items:
     - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
+      name: "Sukadi"
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       
     - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
+      name: "Vibianto"
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
@@ -301,15 +301,15 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "+ (231) 456 67 89"
+      value: "087886565462"
 
     - label: "Email"
       icon:  "fas fa-envelope"
-      value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
+      value: "<a href='mailto:mail@tropi.cyou'>mail@tropi.cyou</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "Perum Bale Bale Cluster Kav B No 02 Jln Kemantren RT 06 RW 03 Bandungrejosari 65147 Kota Malang Jawa Timur"
     
     - label: "Freelance Available"
       icon: "fas fa-user-tie"
