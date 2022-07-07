@@ -2,7 +2,7 @@ backend:
   name: github
   repo: tropicyou/tropicyou.github.io
   branch: master
-  site_domain: www.tropi.cyou
+  site_domain: tropicyou.netlify.app
 media_folder: "img/"
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog
