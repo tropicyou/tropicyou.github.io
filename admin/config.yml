@@ -1,10 +1,10 @@
 backend:
   name: github
   repo: tropicyou/tropicyou.github.io
-  branch: master
-  site_domain: tropicyou.netlify.app
-media_folder: "assets/images" 
-publish_mode : "editorial workflow"
+  branch: main
+  site_domain: https://www.tropi.cyou
+media_folder: "assets/images"
+publish_mode: editorial_workflow
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog
     label: "Blog" # Used in the UI
