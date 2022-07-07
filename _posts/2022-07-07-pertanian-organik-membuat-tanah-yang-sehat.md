@@ -1,12 +1,12 @@
 ---
-title: Pertanian Organik Membuat Tanah yang Sehat
 layout: post
-date: '2022-07-07 10:11:30'
+title: Pertanian Organik Membuat Tanah yang Sehat
+tags:
+  - organic
+author: Ailbert Louis
+date: 2022-07-07 10:11:30
 New field 4: pertanian
 image: assets/img/blog/tomat_organic_1060x900.jpg
-author: Ailbert Louis
-tags:
-- organic
 ---
 
 **Pertanian organik membuat tanah yang sehat**
@@ -27,4 +27,4 @@ def print_hi(name)
 end
 print_hi('Ryan')
 #=> prints 'Hi, Ryan' to STDOUT.
-```
+`
