@@ -4,7 +4,7 @@
 
 ### Started Default
 started:
-  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
     - "Saya suka IoT <strong>mobile apps</strong>"
@@ -12,16 +12,16 @@ started:
 
 ### Started Personal
 started-personal:
-  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
     - "Saya suka IoT <strong>mobile apps</strong>"
     - "Saya suka <strong>Kuliner</strong>"
-  image: "assets/img/HOME_800X800.jpg"
+  image: "assets/img/home_profile.jpg"
   
 ### Started Image
 started-image:
-  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
     - "Saya suka IoT <strong>mobile apps</strong>"
@@ -30,7 +30,7 @@ started-image:
   
 ### Started Video
 started-video:
-  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
     - "Saya suka IoT <strong>mobile apps</strong>"
@@ -40,7 +40,7 @@ started-video:
   
 ### Started Slider
 started-slider:
-  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani and <br />Front-end Developer Berdomisili Malang Jawa Timur."
+  title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
     - "Saya suka IoT <strong>mobile apps</strong>"

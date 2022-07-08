@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
-So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
+Sebuah kebutuhan pada perubahan bagaimana kita bisa menananam di tanah & kolam ikan. Serta mendesain semua kebun / sawah, sehingga kita bisa belajar dan menemukan metode yang pas tentang bagaimana kita mengolahanya. Pada akhirnya bisa meningkatkan produksi pangan sekaligus tetap menjaga kelestarian alam.
