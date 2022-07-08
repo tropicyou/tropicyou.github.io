@@ -9,9 +9,6 @@ tags:
 image: assets/img/blog/tomat_organic_1060x900.jpg
 category:
   - pertanian
-  - perkebunan
-  - bibit
-  - buah
 ---
 
 **Pertanian organik membuat tanah yang sehat**
