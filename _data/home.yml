@@ -7,7 +7,7 @@ started:
   title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
-    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya hobi <strong>Merajut</strong>"
     - "Saya suka  <strong>Kuliner</strong>"
 
 ### Started Personal
@@ -15,7 +15,7 @@ started-personal:
   title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
-    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya hobi <strong>Merajut</strong>"
     - "Saya suka <strong>Kuliner</strong>"
   image: "assets/img/home_profile.jpg"
   
@@ -24,7 +24,7 @@ started-image:
   title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
-    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya hobi <strong>Merajut</strong>"
     - "Saya suka <strong>Kuliner</strong>"
   image: "assets/img/started_image_p.jpg"
   
@@ -33,7 +33,7 @@ started-video:
   title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
-    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya hobi <strong>Merajut</strong>"
     - "Saya suka <strong>Kuliner</strong>"
   video: "https://youtu.be/csyCeLujSHg"
   image: "assets/img/started_image_p.jpg"
@@ -43,7 +43,7 @@ started-slider:
   title: "Hello, Saya <strong>Ailbert Louis Cario</strong>, Petani dan <br />Penjual Kuliner Sayuran Organic Berdomisili di Malang Jawa Timur."
   typed:
     - "Saya bercocok tanam <strong>Organic</strong>"
-    - "Saya suka IoT <strong>mobile apps</strong>"
+    - "Saya hobi <strong>Merajut</strong>"
     - "Saya suka <strong>Kuliner</strong>"
   images:
     - "assets/img/started_image.jpg"

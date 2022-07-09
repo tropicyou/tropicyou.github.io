@@ -21,7 +21,7 @@ about:
       value: "Malang Jawa Timur"
 
     - label: "Phone"
-      value: "087886565462"
+      value: "087765451798"
 
     - label: "E-mail"
       value: "mail@tropi.cyou"
@@ -301,7 +301,7 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "087886565462"
+      value: "087765451798"
 
     - label: "Email"
       icon:  "fas fa-envelope"
@@ -311,9 +311,9 @@ contacts_info:
       icon: "fas fa-map-marker-alt"
       value: "Perum Bale Bale Cluster Kav B No 02 Jln Kemantren RT 06 RW 03 Bandungrejosari 65147 Kota Malang Jawa Timur"
     
-    - label: "Freelance Available"
+    - label: "Rajutan / Cross Stitch"
       icon: "fas fa-user-tie"
-      value: "I am available for Freelance hire"
+      value: "Kami menerima Pesanan Rajutan Online"
 
 ### Contact Form [ contacts-form ]
 contacts_form:

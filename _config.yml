@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Tropic You - Hobby, Pertanian Organic Hydroponic, Kuliner, & IoT "
+title: "Tropic You - Hobby, Pertanian Organic Hydroponic, Kuliner, & Merajut "
 email: "mail@tropi.cyou"
-description: "Aneka Hobby / Kuliner / IoT / Bercocok Tanam Organic & Hidroponik"
+description: "Aneka Hobby / Kuliner / Rajutan / Bercocok Tanam Organic & Hidroponik"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
