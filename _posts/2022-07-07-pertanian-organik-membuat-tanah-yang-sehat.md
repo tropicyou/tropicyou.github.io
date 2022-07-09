@@ -1,17 +1,14 @@
 ---
-title: Pertanian Organik Membuat Tanah yang Sehat
 layout: post
 author: Ailbert Louis
-date: '2022-07-07 10:11:30 +0000'
+date: 2022-07-07 10:11:30 +0000
 New field 4: pertanian
+title: Pertanian Organik Membuat Tanah yang Sehat
 tags:
-- organic
+  - organic
 image: assets/img/blog/tomat_organic_1060x900.jpg
 category:
-- pertanian
-- perkebunan
-- bibit
-- buah
+  - pertanian
 ---
 
 **Pertanian organik membuat tanah yang sehat**
