@@ -1,11 +1,12 @@
 ---
 layout: post
-category: Design
-title: Two Before Arrow Not Relied
-tags: code
+category:
+  - pupuk
+title: Mengenal Unsur Hara Pupuk NPK dan Pengaruhnya Terhadap Tanaman
+tags: []
 date: 2020-07-20
 image: assets/img/blog/blog_4.jpg
-author: Ryan Adlard
+author: Ailbert Louis
 ---
 
 So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
