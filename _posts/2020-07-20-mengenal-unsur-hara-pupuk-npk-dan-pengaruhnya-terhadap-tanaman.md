@@ -1,0 +1,69 @@
+---
+title: Mengenal Unsur Hara Pupuk NPK dan Pengaruhnya Terhadap Tanaman
+layout: post
+category:
+- pupuk
+tags: []
+date: '2020-07-20'
+image: assets/img/blog/blog_4.jpg
+author: Ailbert Louis
+---
+
+Ciri-ciri tanaman yang kekurangan unsur hara N P dan K dan manfaat dari masing-masing unsur, serta Kapan waktu yang paling tepat di dalam penggunaan dari masing-masing unsur hara tersebut. 
+Hal ini berlaku pada hampir semua jenis tanaman
+Pupuk ada yang bersifat makro dan juga ada yang bersifat mikro. 
+
+> Makro artinya pupuk tersebut dibutuhkan dalam jumlah yang besar, sedangkan micro artinya dibutuhkan di dalam jumlah yang kecil. 
+
+**NPK merupakan singkatan dari Nitrogen Phosfor dan Kalium** yang merupakan *unsur hara makro* yang dibutuhkan dalam jumlah yang besar.
+
+Nitrogen lebih banyak dibutuhkan tanaman saat tanaman pada masuk masa pertumbuhan atau disebut juga dengan masa vegetatif karena Nitrogen itu berfungsi sebagai pembentuk dari Protein Asam Amino, Klorofil, Asam Nukleat dan senyawa-senyawa lainnya termasuk padatan.
+Pada tanaman padi misalnya fungsi Nitrogen berguna di dalam merangsang pertumbuhan pada fase vegetatif dan memberikan warna hijau pada tanaman dan juga dapat meningkatkan jumlah anakan tanaman dan berlaku juga pada hampir semua jenis tanaman yaitu Nitrogen berfungsi sebagai penghijau daun tanaman tetapi perlu di garis bawahi bahwa ***kadar Nitrogen yang berlebihan itu bisa beresiko fatal karena  bisa menyebabkan terserang hama ataupun penyakit dikarenakan tanaman yang punya kadar Nitrogen yang berlebihan.*** Terlebih lagi pada saat musim hujan karena hujan sendiri sudah memiliki banyak kandungan Nitrogen maka pemupukan Nitrogen cukup dari air hujan apabila ingin menambahkan pemupukan Nitrogen jangan terlalu banyak.
+
+**Tanaman apabila kekurangan unsur Nitrogen pasti akan mati karena akan mengakibatkan daun tanaman menguning 
+Karena Nitrogen itu berfungsi sebagai penghijau daun**
+selain tanaman menguning juga pertumbuhannya menjadi lambat kemudian **kurus bahkan kerdil** 
+
+Apabila menjumpai tanaman bergejala seperti seperti di atas bisa di pastikan ke**kurangan unsur hara Nitrogen**
+Bisa diberikan pupuk yang mengandung Nitrogen misalnya contoh 
+* **Urea**![Urea](/assets/img/blog/Pupuk_Urea.jpg) 
+* **ZA** ![ZA](/assets/img/blog/Pupuk_ZA.jpg) 
+* **Kalium Nitrat**![Kalium Nitrat](/assets/img/blog/Kalium_Nitrat.jpg)yang komposisinya Kalium dan Nitrat 
+
+
+ Bisa juga **NPK yang berkadar Nitrogen tinggi** atau bisa menggunakan pupuk organik cair PGPR yang isinya bakteri penambat Nitrogen yang bisa ngambil Nitrogen dari udara kemudian masukkan ke dalam tanah
+*bisa juga mencampur pupuk organik PGPR dengan pupuk kimia atau pupuk sintetis*.
+
+**Unsur hara yang kedua yaitu Phosfor.** 
+Phosfor merupakan unsur hara yang **berperan mulai dari fase vegetatif tanaman sampai dengan masa generatif tanaman** artinya Phosfor berperan pada saat fase awal tanaman sampai dengan akhir fase tanaman dan Phosfor itu sangat berperan di dalam pembentukan protein, pembelahan sel tanaman, berperan juga sebagai perangsang perkembangan akar Super Kuat, batang tanaman kemudian, dapat mempercepat pematangan buah dan secara otomatis dapat memperbaiki dari kualitas hasil tanaman.
+Yang perlu digarisbawahi adalah bahwa penyerapan unsur hara Phosfor itu cenderung lambat sehingga biasanya **pupuk yang memiliki kandungan unsur hara Phosfor itu diberikan sebagai pupuk dasar** atau sebagai campuran pada media tanam menggunakan pot atau polybag.
+**Ciri - ciri atau gejala tanaman yang mengalami kekurangan unsur hara Phosfor** itu biasanya ditandai dengan bagian tanaman
+**daun berwarna Ungu** sehingga *menyebabkan terhambatnya pertumbuhan dari tanaman, perakaran tanaman tidak bisa berkembang sehingga akan mempengaruhi produksi dari tanaman*
+
+apabila menemukan gejala yang semacam keunguan tadi pemberian Phosfor yang **slow rilis semacam TSP sudah terlambat atau tidak relevan lagi perlu diberikan pupuk Phosfor yang sifatnya fast release** atau cepat penyerapanya Misalnya 
+* **Pupuk Meroke MAP**![Pupuk Meroke MAP](/assets/img/blog/Pupuk_Meroke_MAP.jpeg)
+* **ULTRADAP**![ULTRADAP](/assets/img/blog/Pupuk-Pak-Tani-Ultradap.jpg)
+* **MKP** ![MKP](/assets/img/blog/MKP) yang mempunyai unsur hara Nitrogen dan juga Phosfor
+
+**Unsur hara yang ketiga yaitu Kalium.**
+
+*Fungsi Kalium sangat banyak dan vital yaitu membantu transportasi dari hasil fotosintesis dari daun keseluruh jaringan tanaman,mencegah bunga dan buah agar tidak mudah gugur. *
+
+Salah satu contoh **kekurangan Kalium adalah bunga dan buah tanaman mudah gugur atau rontok maka perbanyak pupuk yang mengandung Kalium juga bisa memperlebat buah. meningkatkan daya tahan tanaman terhadap resiko serangan penyakit artinya untuk meminimalisir resiko penyakit maka bisa maksimalkan dalam pemberian unsur hara Kalium**. 
+
+Ketika tanaman mengalami kekurangan unsur hara Kalium maka gejala yaitu kebalikan dari Nitrogen yang  bedanya kalau Nitrogen maka **kuningnya membentuk huruf V atau bisa sampai keseluruhan daun tanaman dimulai dari pinggir helai daun sehingga terlihat seperti bentuk huruf V terbalik**
+
+**Kalium sangat penting dibutuhkan pada saat masa generatif** tanaman sehingga ketika tanaman 
+kekurangan unsur hara Kalium maka sudah pasti **produksi tanaman pasti tidak maksimal **
+
+Pastikan pada masa generatif atau masa pembuahan terutama untuk tanaman yang dipanen
+buahnya misalnya buah yang kecil-kecil cabe, tomat, jagung maupun buah yang ukuran besar seperti mangga, jambu dll. 
+Pemberian Kalium pada saat masa generatif hasilnya juga pasti akan lebih melimpah
+berikut adalah pupuk yang bisa di gunakan
+* **KCL**![KCL](/assets/img/blog/KCL.jpg)
+* **Kalium Nitrat**![Kalium Nitrat](/assets/img/blog/Kalium_Nitrat.jpg)yang komposisinya Kalium dan Nitrat 
+* **ZK** ![ZK](/assets/img/blog/Pupuk_ZK.jpg)
+* **NPK** ![NPK](/assets/img/blog/blog_4.jpg)yang tinggi kadar Kaliumnya atau pupuk organik cair yang tinggi kadar Kaliumnya.
+
+Sumber saduran Youtube : [Penyuluh Pertanian Lapangan
+](https://youtu.be/nsPgLVFI9yQ)
