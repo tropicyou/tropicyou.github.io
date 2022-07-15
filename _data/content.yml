@@ -309,7 +309,7 @@ contacts_info:
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "Perum Bale Bale Cluster Kav B No 02 Jln Kemantren RT 06 RW 03 Bandungrejosari 65147 Kota Malang Jawa Timur"
+      value: "Jln Kemantren Bandungrejosari 65147 Kota Malang Jawa Timur"
     
     - label: "Rajutan / Cross Stitch"
       icon: "fas fa-user-tie"
