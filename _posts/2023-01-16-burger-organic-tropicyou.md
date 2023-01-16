@@ -1,12 +1,13 @@
 ---
-title: Burger Organic TropicYou
 layout: post
-author: Irene
-date: '2023-01-16 11:35:17'
+category:
+  - jajanan
+title: Burger Organic TropicYou
 tags:
-- organic
-- burger
-category: jajanan
+  - organic
+  - burger
+author: Irene
+date: 2023-01-16 11:35:17
 image: assets/img/blog/BurgerOrganic.jpg
 ---
 
