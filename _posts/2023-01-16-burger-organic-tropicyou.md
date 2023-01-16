@@ -8,6 +8,7 @@ tags:
   - burger
 author: Irene
 date: 2023-01-16 11:35:17
+thumbnail: /assets/img/burgerorganic.jpg
 image: assets/img/blog/BurgerOrganic.jpg
 ---
 
