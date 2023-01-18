@@ -4,7 +4,7 @@
 
 ### Main Settings
 settings:
-  logo_text: "Ailbert <strong>Louis</strong>"
+  logo_text: "Priv4te <strong>Saint</strong>"
   logo_hover_text: "Download <strong>CV</strong>"
   quick_colors: "" # select quick color schemes: "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow". If empty colors taken from _sass/ryancv/settings.scss
 
