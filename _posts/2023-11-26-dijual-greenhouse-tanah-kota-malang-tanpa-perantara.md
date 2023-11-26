@@ -18,7 +18,7 @@ image: "/assets/img/blog/thumbnail-greenHouse.png"
 Deskripsi:
 * **Luas Tanah: 800 M2.**
 * **Sertifikat: SHM / Siap Bangun.**
-* **Alamat: Bandungrejosari, Sukun, Malang.**
+* **Alamat: Kemantren Bandungrejosari, Sukun, Malang.**
 * **GPS Koordinat: -7.9962337, 112.6066795**
 * **[Lihat Lokasi di Aplikasi Google Map Klik disini](https://maps.app.goo.gl/iMobdA4uSxqPqvWN9)**
 * **Akses Jalan: Belum ada**
