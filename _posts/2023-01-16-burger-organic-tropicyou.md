@@ -1,15 +1,15 @@
 ---
+title: Burger Organic TropicYou
 layout: post
 category:
-  - jajanan
-title: Burger Organic TropicYou
+- jajanan
 tags:
-  - organic
-  - burger
+- organic
+- burger
 author: Irene
-date: 2023-01-16 11:35:17
-thumbnail: /assets/img/burgerorganic.jpg
-image: assets/img/blog/BurgerOrganic.jpg
+date: '2023-01-16 11:35:17 +0000'
+thumbnail: "/assets/img/burgerorganic.jpg"
+image: "/assets/img/blog/BurgerOrganic.jpg"
 ---
 
 Sudah tidak diragukan lagi bahwa Burger adalah makanan yang sangat bergizi.
