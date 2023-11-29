@@ -2,7 +2,7 @@ backend:
   name: github
   repo: tropicyou/tropicyou.github.io
   branch: main
-  site_domain: tropicyou.netlify.app
+  site_domain: tropicyou.github.io
 media_folder: "assets/img"
 publish_mode: editorial_workflow
 collections:
