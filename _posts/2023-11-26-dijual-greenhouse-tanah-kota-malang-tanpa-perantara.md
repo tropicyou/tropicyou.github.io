@@ -18,14 +18,14 @@ image: "/assets/img/blog/thumbnail-greenHouse.png"
 Deskripsi:
 * **Luas Tanah: 800 M2.**
 * **Sertifikat: SHM / Siap Bangun.**
-* **Alamat: Kemantren Bandungrejosari, Sukun, Malang.**
+* **Alamat: Bandungrejosari, Sukun, Malang.**
 * **GPS Koordinat: -7.9962337, 112.6066795**
 * **[Lihat Lokasi di Aplikasi Google Map Klik disini](https://maps.app.goo.gl/iMobdA4uSxqPqvWN9)**
 * **Akses Jalan: Belum ada**
 * **Pengairan: Sebelah timur mepet kali utama. Sumur bor kedalaman +/- 32M pompa submersible 1/2 PK debit air melimpah.**
 * **Listrik: PLN 450 VA Tarif B2**
 * **Green House ukuran 6x12 Meter, Gazebo, Gudang kecil untuk peralatan dll.**
-* **Harga: 1.95jt/m2.Nett (Global) **
+* **Harga: 1.95jt/m2 Nett Global.**
 * **Cek Lokasi :**
 * **Web Video :** [Preview Suasana dan Lokasi
 ](https://www.tropi.cyou/index-video/)
