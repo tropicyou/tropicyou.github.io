@@ -25,7 +25,7 @@ Deskripsi:
 * **Pengairan: Sebelah timur mepet kali utama. Sumur bor kedalaman +/- 32M pompa submersible 1/2 PK debit air melimpah.**
 * **Listrik: PLN 450 VA Tarif B2**
 * **Green House ukuran 6x12 Meter, Gazebo, Gudang kecil untuk peralatan dll.**
-* **Harga: 1.95jt/m2 Nett Global.**
+* **Harga: 1.95jt/m2 Nego Global.**
 * **Cek Lokasi :**
 * **Web Video :** [Preview Suasana dan Lokasi
 ](https://www.tropi.cyou/index-video/)
