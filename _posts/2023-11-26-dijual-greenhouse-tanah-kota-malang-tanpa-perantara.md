@@ -2,10 +2,15 @@
 title: DI JUAL SEGERA TANAH / GREEN HOUSE DI KOTA MALANG TANPA PERANTARA
 layout: post
 category:
-- greenhouse
-tags:
 - tanah
+- property
 - dijual
+tags:
+- kavling
+- greenhouse
+- malang kota
+- kolam renang
+- pertanian
 author: Hao
 date: '2023-11-26 20:19:59'
 thumbnail: "/assets/img/thumbnail-greenHouse.png"
