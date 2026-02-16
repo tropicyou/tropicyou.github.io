@@ -1,18 +1,13 @@
-# Footer configuration file
-##
-### param "social" - Social Links, icon class name you can find here https://ionicons.com/v2/
-### param "copy" - Copyright text
-
 main:
   social:
-    - title: "Pinterest"
-      icon: "fab fa-pinterest"
-      url: "https://www.pinterest.com/"
-    - title: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://instagram.com/irenenatadihardja"
-    - title: "Dribbble"
-      icon: "fab fa-dribbble"
-      url: "https://dribbble.com/"
-  text1: "E: mail@tropi.cyou"
-  text2: "T: 087765451798"
+    - title: Pinterest
+      icon: fab fa-pinterest
+      url: 'https://pin.it/hCfogwE4A'
+    - title: Instagram
+      icon: fab fa-instagram
+      url: 'https://instagram.com/irenenatadihardja'
+    - title: Dribbble
+      icon: fab fa-dribbble
+      url: 'https://dribbble.com/'
+  text1: 'E: mail@tropi.cyou'
+  text2: 'T: 087765451798'
