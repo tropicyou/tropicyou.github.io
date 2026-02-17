@@ -1,27 +1,12 @@
 ---
-title: DI JUAL TANAH UNTUK KAVLING STRATEGIS DI MALANG KOTA - SIAP BANGUN
-layout: post
-category:
-- tanah
-- kavling
-- kota malang
-tags:
-- dijual
-- kolam renang
-- investasi
-- pertanian
-- greenhouse
-author: Thao
-date: '2026-02-16 20:30:00'
-thumbnail: assets/img/thumbnail-greenHouse.png
-image: assets/img/thumbnail-greenHouse.png
+title: Tanah Untuk Kavling Strategis Malang
 ---
 
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanah Untuk  Kavling Strategis Malang</title>
+    <title>Tanah Untuk Kavling Strategis Malang</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
     <style>
@@ -460,7 +445,7 @@ image: assets/img/thumbnail-greenHouse.png
             <div class="map-section">
                 <a href="https://maps.app.goo.gl/iMobdA4uSxqPqvWN9" class="map-link" target="_blank">
                     <i class="material-icons">directions</i>
-                    <span>Lihat Lokasi di Google Maps</span>````
+                    <span>Lihat Lokasi di Google Maps</span>
                     <i class="material-icons" style="margin-left: auto;">arrow_forward</i>
                 </a>
                 <div class="gps-coords">
@@ -490,4 +475,4 @@ image: assets/img/thumbnail-greenHouse.png
         </div>
     </div>
 </body>
-</html>
+</html>``
