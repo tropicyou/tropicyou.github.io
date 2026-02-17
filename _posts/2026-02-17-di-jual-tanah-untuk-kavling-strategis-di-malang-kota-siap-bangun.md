@@ -15,6 +15,7 @@ tags:
 - kolam renang
 - greenhouse
 - dijual
+- investasi
 ---
 
 **DI JUAL GREEN HOUSE / TANAH DI KOTA MALANG TANPA PERANTARA**
@@ -34,4 +35,4 @@ Deskripsi:
 * **Cek Lokasi :**
 * **Web Video :** [Preview Suasana dan Lokasi
 ](https://www.tropi.cyou/index-video/)
-* **Hubungi Langsung Pemilik:** [Klik disini untuk Whatsapp](https://wa.me/6287886565462)
+* **Hubungi Langsung Pemilik:** [Klik disini untuk Whatsapp](https://wa.me/6287765451798)
