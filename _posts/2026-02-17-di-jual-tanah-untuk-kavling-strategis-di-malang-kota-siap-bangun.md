@@ -9,7 +9,7 @@ author: Thao
 date: '2026-02-17 16:11:11'
 thumbnail: assets/img/thumbnail-greenHouse.png
 image: assets/img/thumbnail-greenHouse.png
-layout: home
+layout: post
 tags:
 - pertanian
 - kolam renang
