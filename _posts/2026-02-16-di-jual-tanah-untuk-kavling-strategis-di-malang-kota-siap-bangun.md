@@ -1,21 +1,20 @@
 ---
 title: DI JUAL TANAH UNTUK KAVLING STRATEGIS DI MALANG KOTA - SIAP BANGUN
+layout: post
 category:
 - tanah
 - kavling
+- malang
+tags:
 - dijual
-- malangkota
+- kolam renang
+- investasi
+- pertanian
+- greenhouse
 author: Thao
-date: '2026-02-17 16:11:11'
+date: '2026-02-16 20:38:11'
 thumbnail: assets/img/thumbnail-greenHouse.png
 image: assets/img/thumbnail-greenHouse.png
-layout: post
-tags:
-- pertanian
-- kolam renang
-- greenhouse
-- dijual
-- investasi
 ---
 
 **DI JUAL GREEN HOUSE / TANAH DI KOTA MALANG TANPA PERANTARA**
