@@ -4,7 +4,7 @@ category:
 - tanah
 - kavling
 - dijual
-- malang kota
+- malangkota
 author: Thao
 date: '2026-02-17 16:11:11'
 thumbnail: assets/img/thumbnail-greenHouse.png
