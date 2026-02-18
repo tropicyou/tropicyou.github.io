@@ -1,27 +1,29 @@
-<!DOCTYPE html>
-title: DI JUAL TANAH UNTUK KAVLING STRATEGIS DI MALANG KOTA - SIAP BANGUN
+---
+title: Di Jual Tanah Untuk Kavling Strategis Di Malang Kota Siap Bangun
 layout: post
 category:
+- dijual
 - tanah
 - kavling
-- kota malang
+- malang_kota
 tags:
-- dijual
-- kolam renang
+- property
+- strategis
 - investasi
-- pertanian
-- greenhouse
-author: Thao
-date: '2026-02-16 20:30:00'
-thumbnail: assets/img/thumbnail-greenHouse.png
-image: assets/img/thumbnail-greenHouse.png
+- kolam
+- renang
+- perikanan
+- lahan
+date: '2026-02-17 03:29:03'
+image: assets/img/501c0e77b42d.png
+author: Hao
 ---
 
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanah Untuk  Kavling Strategis Malang</title>
+    <title>Tanah Untuk Kavling Strategis Malang</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
     <style>
@@ -35,23 +37,23 @@ image: assets/img/thumbnail-greenHouse.png
             font-family: 'Roboto', sans-serif;
             background: linear-gradient(135deg, #e8f5e9 0%, #e1f5fe 100%);
             min-height: 100vh;
-            padding: 20px;
+            padding: 10px;
         }
         
         .poster-container {
             max-width: 720px;
             margin: 0 auto;
             background: white;
-            border-radius: 24px;
+            border-radius: 20px;
             overflow: hidden;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.15);
-            min-height: 1200px;
+            box-shadow: 0 15px 45px rgba(0,0,0,0.15);
+            min-height: auto;
         }
         
         .header {
             background: linear-gradient(135deg, #2e7d32 0%, #00897b 100%);
             color: white;
-            padding: 40px 30px;
+            padding: 30px 20px;
             position: relative;
             overflow: hidden;
         }
@@ -61,8 +63,8 @@ image: assets/img/thumbnail-greenHouse.png
             position: absolute;
             top: -50%;
             right: -20%;
-            width: 300px;
-            height: 300px;
+            width: 250px;
+            height: 250px;
             background: rgba(255,255,255,0.1);
             border-radius: 50%;
         }
@@ -72,8 +74,8 @@ image: assets/img/thumbnail-greenHouse.png
             position: absolute;
             bottom: -30%;
             left: -10%;
-            width: 200px;
-            height: 200px;
+            width: 180px;
+            height: 180px;
             background: rgba(255,255,255,0.08);
             border-radius: 50%;
         }
@@ -81,12 +83,12 @@ image: assets/img/thumbnail-greenHouse.png
         .sale-badge {
             background: #ff6b35;
             color: white;
-            padding: 8px 20px;
-            border-radius: 30px;
+            padding: 8px 16px;
+            border-radius: 25px;
             font-weight: 700;
             display: inline-block;
-            margin-bottom: 15px;
-            font-size: 14px;
+            margin-bottom: 12px;
+            font-size: 13px;
             text-transform: uppercase;
             letter-spacing: 1px;
             animation: pulse 2s infinite;
@@ -99,100 +101,145 @@ image: assets/img/thumbnail-greenHouse.png
         
         .title {
             font-family: 'Montserrat', sans-serif;
-            font-size: 42px;
+            font-size: 32px;
             font-weight: 800;
             line-height: 1.2;
-            margin-bottom: 15px;
+            margin-bottom: 12px;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            position: relative;
+            z-index: 1;
         }
         
         .location {
             display: flex;
             align-items: center;
-            gap: 8px;
-            font-size: 18px;
+            gap: 6px;
+            font-size: 16px;
             opacity: 0.95;
+            position: relative;
+            z-index: 1;
         }
         
         .location i {
-            font-size: 22px;
+            font-size: 20px;
+        }
+        
+        .image-container {
+            position: relative;
+            width: 100%;
         }
         
         .main-image {
             width: 100%;
             height: 280px;
             object-fit: cover;
-            position: relative;
-        }
-        
-        .image-container {
-            position: relative;
-            padding: 0;
+            display: block;
         }
         
         .price-tag {
             position: absolute;
-            bottom: 20px;
-            right: 20px;
+            bottom: 15px;
+            right: 15px;
             background: rgba(255,107,53,0.95);
             color: white;
-            padding: 15px 30px;
-            border-radius: 16px;
+            padding: 12px 20px;
+            border-radius: 12px;
             font-weight: 800;
-            font-size: 32px;
-            box-shadow: 0 8px 24px rgba(255,107,53,0.4);
+            font-size: 26px;
+            box-shadow: 0 6px 18px rgba(255,107,53,0.4);
             font-family: 'Montserrat', sans-serif;
         }
         
         .price-note {
-            font-size: 14px;
+            font-size: 12px;
             font-weight: 400;
             opacity: 0.9;
         }
         
         .content {
-            padding: 30px;
+            padding: 20px;
+        }
+        
+        .gallery-section {
+            margin-bottom: 20px;
+        }
+        
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+        }
+        
+        .gallery-item {
+            position: relative;
+            border-radius: 10px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .gallery-item:hover {
+            transform: scale(1.05);
+        }
+        
+        .gallery-item img {
+            width: 100%;
+            height: 100px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .gallery-label {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(transparent, rgba(0,0,0,0.7));
+            color: white;
+            padding: 20px 8px 8px;
+            font-size: 11px;
+            font-weight: 600;
         }
         
         .section-title {
             font-family: 'Montserrat', sans-serif;
-            font-size: 24px;
+            font-size: 20px;
             font-weight: 700;
             color: #2e7d32;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 8px;
         }
         
         .section-title i {
-            font-size: 28px;
+            font-size: 24px;
         }
         
         .specs-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
-            margin-bottom: 30px;
+            gap: 12px;
+            margin-bottom: 25px;
         }
         
         .spec-card {
             background: linear-gradient(135deg, #f1f8e9 0%, #e8f5e9 100%);
-            padding: 20px;
-            border-radius: 16px;
+            padding: 15px;
+            border-radius: 12px;
             border-left: 4px solid #2e7d32;
         }
         
         .spec-label {
-            font-size: 13px;
+            font-size: 12px;
             color: #666;
-            margin-bottom: 5px;
+            margin-bottom: 4px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
         
         .spec-value {
-            font-size: 22px;
+            font-size: 20px;
             font-weight: 700;
             color: #2e7d32;
             font-family: 'Montserrat', sans-serif;
@@ -200,14 +247,14 @@ image: assets/img/thumbnail-greenHouse.png
         
         .facilities {
             background: linear-gradient(135deg, #e0f2f1 0%, #e8f5e9 100%);
-            padding: 25px;
-            border-radius: 16px;
-            margin-bottom: 30px;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 25px;
         }
         
         .facility-item {
             display: flex;
-            align-items: center;
+            align-items: flex-start;
             gap: 12px;
             padding: 12px 0;
             border-bottom: 1px solid rgba(46,125,50,0.1);
@@ -218,15 +265,20 @@ image: assets/img/thumbnail-greenHouse.png
         }
         
         .facility-icon {
-            width: 40px;
-            height: 40px;
+            width: 38px;
+            height: 38px;
             background: white;
             border-radius: 10px;
             display: flex;
             align-items: center;
             justify-content: center;
             color: #00897b;
-            box-shadow: 0 2px 8px rgba(0,137,123,0.15);
+            box-shadow: 0 2px 6px rgba(0,137,123,0.15);
+            flex-shrink: 0;
+        }
+        
+        .facility-icon i {
+            font-size: 20px;
         }
         
         .facility-text {
@@ -236,114 +288,120 @@ image: assets/img/thumbnail-greenHouse.png
         .facility-title {
             font-weight: 600;
             color: #263238;
-            font-size: 16px;
+            font-size: 15px;
+            margin-bottom: 3px;
         }
         
         .facility-desc {
-            font-size: 13px;
+            font-size: 12px;
             color: #666;
-            margin-top: 2px;
+            line-height: 1.4;
         }
         
         .map-section {
             background: #f5f5f5;
-            padding: 20px;
-            border-radius: 16px;
-            margin-bottom: 30px;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 25px;
         }
         
         .map-link {
             display: flex;
             align-items: center;
-            gap: 12px;
-            padding: 15px;
+            gap: 10px;
+            padding: 12px;
             background: white;
-            border-radius: 12px;
+            border-radius: 10px;
             text-decoration: none;
             color: #1976d2;
             font-weight: 600;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             transition: all 0.3s;
             border: 2px solid transparent;
+            font-size: 14px;
         }
         
-        .map-link:hover {
+        .map-link:active {
             border-color: #1976d2;
-            transform: translateX(5px);
+        }
+        
+        .map-link span {
+            flex: 1;
         }
         
         .gps-coords {
             font-family: 'Courier New', monospace;
-            font-size: 13px;
+            font-size: 12px;
             color: #666;
             background: white;
-            padding: 12px;
+            padding: 10px;
             border-radius: 8px;
             text-align: center;
         }
         
         .contact-section {
             background: linear-gradient(135deg, #00897b 0%, #2e7d32 100%);
-            padding: 30px;
-            border-radius: 20px;
+            padding: 25px 20px;
+            border-radius: 16px;
             text-align: center;
             color: white;
         }
         
         .contact-title {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 700;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             font-family: 'Montserrat', sans-serif;
         }
         
         .wa-button {
             display: inline-flex;
             align-items: center;
-            gap: 10px;
+            gap: 8px;
             background: #25d366;
             color: white;
-            padding: 16px 40px;
-            border-radius: 50px;
+            padding: 14px 30px;
+            border-radius: 40px;
             text-decoration: none;
             font-weight: 700;
-            font-size: 18px;
+            font-size: 16px;
             transition: all 0.3s;
-            box-shadow: 0 8px 24px rgba(37,211,102,0.4);
+            box-shadow: 0 6px 18px rgba(37,211,102,0.4);
         }
         
-        .wa-button:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 12px 32px rgba(37,211,102,0.5);
+        .wa-button:active {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 22px rgba(37,211,102,0.5);
         }
         
         .wa-button i {
-            font-size: 24px;
+            font-size: 22px;
         }
         
         .footer {
             background: #263238;
             color: white;
-            padding: 20px 30px;
+            padding: 15px 20px;
             text-align: center;
-            font-size: 13px;
+            font-size: 12px;
             opacity: 0.9;
         }
         
         .highlight-box {
             background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
             border-left: 4px solid #ff6b35;
-            padding: 15px 20px;
-            border-radius: 12px;
-            margin-bottom: 25px;
+            padding: 12px 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
             display: flex;
-            align-items: center;
-            gap: 12px;
+            align-items: flex-start;
+            gap: 10px;
         }
         
         .highlight-box i {
             color: #ff6b35;
-            font-size: 28px;
+            font-size: 24px;
+            flex-shrink: 0;
         }
         
         .highlight-text {
@@ -351,6 +409,186 @@ image: assets/img/thumbnail-greenHouse.png
             font-weight: 600;
             color: #e65100;
             line-height: 1.5;
+            font-size: 14px;
+        }
+        
+        /* Mobile Responsive */
+        @media (max-width: 480px) {
+            body {
+                padding: 5px;
+            }
+            
+            .poster-container {
+                border-radius: 12px;
+            }
+            
+            .header {
+                padding: 25px 15px;
+            }
+            
+            .title {
+                font-size: 26px;
+            }
+            
+            .location {
+                font-size: 14px;
+            }
+            
+            .main-image {
+                height: 220px;
+            }
+            
+            .price-tag {
+                font-size: 22px;
+                padding: 10px 16px;
+                bottom: 10px;
+                right: 10px;
+            }
+            
+            .price-note {
+                font-size: 11px;
+            }
+            
+            .content {
+                padding: 15px;
+            }
+            
+            .gallery-grid {
+                gap: 6px;
+            }
+            
+            .gallery-item img {
+                height: 80px;
+            }
+            
+            .gallery-label {
+                font-size: 10px;
+                padding: 15px 6px 6px;
+            }
+            
+            .section-title {
+                font-size: 18px;
+                margin-bottom: 12px;
+            }
+            
+            .specs-grid {
+                gap: 10px;
+                margin-bottom: 20px;
+            }
+            
+            .spec-card {
+                padding: 12px;
+            }
+            
+            .spec-label {
+                font-size: 11px;
+            }
+            
+            .spec-value {
+                font-size: 18px;
+            }
+            
+            .facilities {
+                padding: 15px;
+                margin-bottom: 20px;
+            }
+            
+            .facility-item {
+                padding: 10px 0;
+            }
+            
+            .facility-icon {
+                width: 34px;
+                height: 34px;
+            }
+            
+            .facility-icon i {
+                font-size: 18px;
+            }
+            
+            .facility-title {
+                font-size: 14px;
+            }
+            
+            .facility-desc {
+                font-size: 11px;
+            }
+            
+            .map-section {
+                padding: 12px;
+                margin-bottom: 20px;
+            }
+            
+            .map-link {
+                padding: 10px;
+                font-size: 13px;
+                margin-bottom: 6px;
+            }
+            
+            .gps-coords {
+                font-size: 11px;
+                padding: 8px;
+            }
+            
+            .contact-section {
+                padding: 20px 15px;
+                border-radius: 12px;
+            }
+            
+            .contact-title {
+                font-size: 16px;
+                margin-bottom: 12px;
+            }
+            
+            .wa-button {
+                padding: 12px 24px;
+                font-size: 15px;
+            }
+            
+            .wa-button i {
+                font-size: 20px;
+            }
+            
+            .highlight-box {
+                padding: 10px 12px;
+                margin-bottom: 18px;
+            }
+            
+            .highlight-box i {
+                font-size: 22px;
+            }
+            
+            .highlight-text {
+                font-size: 13px;
+            }
+            
+            .footer {
+                padding: 12px 15px;
+                font-size: 11px;
+            }
+        }
+        
+        /* Tablet */
+        @media (min-width: 481px) and (max-width: 768px) {
+            .poster-container {
+                max-width: 640px;
+            }
+            
+            .header {
+                padding: 35px 25px;
+            }
+            
+            .title {
+                font-size: 36px;
+            }
+            
+            .main-image {
+                height: 250px;
+            }
+            
+            .price-tag {
+                font-size: 28px;
+            }
         }
     </style>
 </head>
@@ -366,7 +604,7 @@ image: assets/img/thumbnail-greenHouse.png
         </div>
         
         <div class="image-container">
-            <img src="https://sfile.chatglm.cn/images-ppt/239e788a1473.jpg" alt="Greenhouse" class="main-image">
+            <img src="https://sfile.chatglm.cn/images-ppt/db51009a4568.jpg" alt="Greenhouse dengan Pemandangan Gunung" class="main-image">
             <div class="price-tag">
                 950 Juta
                 <div class="price-note">NEGO • Tanpa Perantara</div>
@@ -374,6 +612,27 @@ image: assets/img/thumbnail-greenHouse.png
         </div>
         
         <div class="content">
+            <div class="gallery-section">
+                <div class="section-title">
+                    <i class="material-icons">photo_library</i>
+                    Pemandangan Sekitar
+                </div>
+                <div class="gallery-grid">
+                    <div class="gallery-item">
+                        <img src="https://sfile.chatglm.cn/images-ppt/501c0e77b42d.png" alt="Greenhouse">
+                        <div class="gallery-label">Green House</div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://sfile.chatglm.cn/images-ppt/9641990c24bb.jpg" alt="Sawah">
+                        <div class="gallery-label">Sawah & Gunung</div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://sfile.chatglm.cn/images-ppt/58af6e23015a.jpg" alt="Perumahan">
+                        <div class="gallery-label">Perumahan</div>
+                    </div>
+                </div>
+            </div>
+            
             <div class="highlight-box">
                 <i class="material-icons">stars</i>
                 <div class="highlight-text">
@@ -460,16 +719,13 @@ image: assets/img/thumbnail-greenHouse.png
             <div class="map-section">
                 <a href="https://maps.app.goo.gl/iMobdA4uSxqPqvWN9" class="map-link" target="_blank">
                     <i class="material-icons">directions</i>
-                    <span>Lihat Lokasi di Google Maps</span>````
-                    <i class="material-icons" style="margin-left: auto;">arrow_forward</i>
+                    <span>Lihat Lokasi di Google Maps</span>
+                    <i class="material-icons">arrow_forward</i>
                 </a>
-                <div class="gps-coords">
-									
-									<div class="map-section">
                 <a href="https://youtu.be/csyCeLujSHg" class="map-link" target="_blank">
-                    <i class="material-icons">directions</i>
+                    <i class="material-icons">play_circle</i>
                     <span>Preview Suasana dan Lokasi</span>
-                    <i class="material-icons" style="margin-left: auto;">arrow_forward</i>
+                    <i class="material-icons">arrow_forward</i>
                 </a>
                 <div class="gps-coords">
                     📍 Koordinat GPS: -7.9962337, 112.6066795
