@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-admin
+  - jekyll-sitemap
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -40,4 +41,3 @@ exclude:
 sass:
   style: compressed
 markdown: kramdown
-google-site-verification: 32ww_y7nlZgSYl6CCm7qRqZJNXDIq-xTiDKIQewN7TA
