@@ -1,14 +1,11 @@
 ---
-title: rajutan-custom
----
-
----
-type: content
-category_slug: f-rajutan
-category: Rajutan
 title: Rajutan Custom (Crochet)
-image: /assets/img/works/rajutan-amigurumi.jpg
+category: Rajutan          # changed from filter
+category_slug: rajutan     # for CSS class
+type: content                # or "image" if you don't need the pop-up text
+image: /assets/img/works/rajutan-custom.jpg
 button_url: /kontak/
+
 ---
 
 Kami menerima pesanan berbagai kerajinan rajutan tangan dengan kualitas premium:

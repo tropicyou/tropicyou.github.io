@@ -12,12 +12,12 @@ settings:
 portfolio:
   filters:
     - name: Properti
-      slug: f-properti
+      slug: properti
     - name: Rajutan
-      slug: f-rajutan
+      slug: rajutan
     - name: Pertanian
-      slug: f-pertanian
+      slug: pertanian
     - name: Kuliner
-      slug: f-kuliner
+      slug: kuliner
     - name: Galeri
-      slug: f-gallery
+      slug: gallery

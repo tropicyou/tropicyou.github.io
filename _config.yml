@@ -33,7 +33,7 @@ formsubmit_email: mail@tropi.cyou
 collections:
   works:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /:collection/:path/
 # Archives Settings
 jekyll-archives:
   enabled:
