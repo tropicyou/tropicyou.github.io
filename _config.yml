@@ -1,18 +1,40 @@
-title: 'TropicYou - Hobby, Pertanian Organic Hydroponic, Kuliner, & Merajut '
+# Site Settings
+title: "TropicYou - Hobi, Pertanian Organik, Hidroponik, Kuliner & Properti"
 email: mail@tropi.cyou
-description: Aneka Hobby / Kuliner / Rajutan / Bercocok Tanam Organic & Hidroponik
-author: Admin
-baseurl: ''
-url: ''
-date_format: '%d %B %Y'
+description: >-
+  Temukan aneka hobi menarik: tutorial merajut, kuliner, 
+  panduan bercocok tanam organik & hidroponik, serta listing properti 
+  seperti tanah kavling strategis di Kota Malang.
+author: Admin TropicYou
+baseurl: ""
+url: "https://www.tropi.cyou" # 🔥 PENTING: Isi dengan domain utama Anda
+date_format: "%d %B %Y"
+
+# SEO & Social
+lang: id # Menentukan bahasa utama website
+twitter_username: # Isi jika ada
+facebook_username: # Isi jika ada
+instagram_username: tropi.you # Contoh, sesuaikan
+github_username: # Isi jika ada
+
+# Build Settings
 paginate: 9
-paginate_path: '/blog/page:num/'
-permalink: pretty
-disqus_comments: 'yes'
+paginate_path: "/blog/page:num/"
+permalink: /:categories/:year/:month/:day/:title/ # 🔥 URL lebih pendek & rapi
+
+# Comments (Jika masih relevan)
+disqus_comments: "yes"
 disqus_shortname: glitche-jekyll-theme
+
+# Form Submission
 formsubmit_email: mail@tropi.cyou
+
+# Collections
 collections:
-  - works
+  works:
+    output: true
+    permalink: /portfolio/:path/
+# Archives Settings
 jekyll-archives:
   enabled:
     - categories
@@ -21,15 +43,19 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: '/categories/:name/'
-    tag: '/tags/:name/'
+    category: "/kategori/:name/" # Gunakan bahasa Indonesia
+    tag: "/tag/:name/"
+
+# 🔥 Daftar Plugin (Pastikan semua terinstal di Gemfile)
 plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-admin
   - jekyll-sitemap
+  - jekyll-admin
+
+# Exclude files
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -38,6 +64,9 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
+  - README.md
+
+# SASS & Markdown
 sass:
   style: compressed
 markdown: kramdown

@@ -1,268 +1,236 @@
 about:
-  image: assets/img/man2.jpg
+  image: assets/img/man2.jpg # Ganti dengan foto Anda atau tim
   text: >-
-    <p>Halo! Saya THao. Desainer web dari Malang, Jawa - Timur, . Saya memiliki
-    pengalaman yang bagus dalam desain dan pembuatan situs web, saya juga mahir
-    wordpress. Saya ingin berbagi pengalaman dengan anda tentang keahlian
-    saya.</p>
+    <p>Halo! Saya THao, penggiat hobi dan properti dari Malang, Jawa Timur. 
+    Di TropicYou, kami percaya bahwa hidup berkualitas dimulai dari 
+    lingkungan dan aktivitas yang dekat dengan alam. Kami hadir untuk berbagi 
+    inspirasi seputar pertanian organik, hidroponik, kuliner lezat, serta 
+    kerajinan rajutan tangan.</p>
+    <p>Kami juga membantu Anda menemukan properti idaman, seperti tanah 
+    kavling strategis di Malang Kota yang siap bangun dan cocok untuk 
+    investasi maupun hunian dengan konsep hijau. Mari berkebun, berkarya, 
+    dan berinvestasi bersama!</p>
   list:
-    - label: Age
-      value: 24
-    - label: Residence
+    - label: Usia
+      value: 24 # Bisa diganti dengan tahun berdiri
+    - label: Domisili
       value: INDONESIA
-    - label: Freelance
-      value: Available
-    - label: Address
-      value: Malang Jawa Timur
-    - label: Phone
+    - label: Status
+      value: Available / Siap Melayani
+    - label: Alamat
+      value: Bandungrejosari, Sukun, Malang Jawa Timur # Disarankan lebih spesifik
+    - label: Telepon
       value: 087765451798
     - label: E-mail
       value: mail@tropi.cyou
   download:
-    text: Download CV
+    text: Download Company Profile / CV # Ubah sesuai kebutuhan
     link: 'https://drive.google.com/'
 services:
-  title: Services
+  title: Layanan Kami # Ubah judul jadi Bahasa Indonesia
   items:
-    - icon: fas fa-code
-      name: Web Development
+    - icon: fas fa-seedling # Ikon yang lebih relevan (tanaman)
+      name: Pertanian Organik & Hidroponik
       text: >-
-        Modern and mobile-ready website that will help you reach all of your
-        marketing.
-    - icon: fas fa-music
-      name: Music Writing
-      text: 'Music copying, writing, creating, transcription, arranging and services.'
-    - icon: fas fa-ad
-      name: Advetising
+        Konsultasi dan pendampingan budidaya tanaman organik. Tersedia green house 6x12 meter untuk pengembangan.
+    - icon: fas fa-cut # Ikon gunting untuk rajutan
+      name: Pesanan Rajutan (Crochet)
       text: >-
-        Advertising services include television, radio, print, mail, and web
-        apps.
-    - icon: fas fa-gamepad
-      name: Game Development
-      text: 'Developing memorable and unique mobile android, ios and video games.'
-    - icon: fas fa-camera
-      name: Photography
+        Menerima pesanan berbagai kerajinan rajutan tangan, dari aksesoris hingga dekorasi rumah. Kualitas premium.
+    - icon: fas fa-utensils # Ikon kuliner
+      name: Resep & Kuliner Nusantara
       text: >-
-        Our in-house photography services team made up of professional
-        photographers.
-    - icon: fas fa-mobile-alt
-      name: Android Application
+        Berbagi resep rumahan autentik dan rekomendasi kuliner menarik dari berbagai daerah di Indonesia.
+    - icon: fas fa-home # Ikon rumah/properti
+      name: Jual Properti Strategis
       text: >-
-        Games, playing music, handle network transactions, interacting content
-        etc.
+        Menyediakan listing properti pilihan, seperti tanah kavling siap bangun di Malang Kota. SHM, fasilitas lengkap.
+    - icon: fas fa-tree # Ikon alam
+      name: Konsultasi Investasi Lahan
+      text: >-
+        Bantu Anda menganalisis potensi lahan untuk investasi, kavling, pertanian, atau perluasan rumah.
+    - icon: fas fa-ruler-combined # Ikon bangunan
+      name: Kavling Siap Bangun
+      text: >-
+        Info tanah kavling strategis dengan spesifikasi jelas (luas, SHM, listrik, sumber air) cocok untuk hunian hijau.
+# Ubah 'pricing' menjadi 'featured_properties' atau 'produk_unggulan' jika tema mendukung.
+# Jika tidak, kita manfaatkan strukturnya untuk menampilkan properti.
 pricing:
-  title: Pricing
+  title: Properti & Produk Unggulan # Judul baru
   items:
-    - icon: fas fa-star
-      name: Basic
-      price: 139k
+    - icon: fas fa-map-marked-alt # Ikon peta
+      name: Tanah Kavling Strategis Malang # Nama Properti
+      price: 950 Juta # Harga
       price_before: Rp
-      price_after: hour
+      price_after: Nego
       list:
-        - value: Web Development
+        - value: Luas 790 m²
           disable: 'no'
-        - value: Advetising
+        - value: SHM, Siap Bangun
           disable: 'no'
-        - value: Game Development
+        - value: Green House 6x12 m
           disable: 'no'
-        - value: Music Writing
-          disable: 'yes'
-        - value: Photography
-          disable: 'yes'
-      button: Buy Now
-      link: contact/
-    - icon: fas fa-rocket
-      name: Premium
-      price: 159k
-      price_before: Rp
-      price_after: hour
+        - value: Sumur Bor 32 m
+          disable: 'no'
+        - value: Lokasi Bandungrejosari
+          disable: 'no'
+      button: Detail Properti
+      link: /dijual/tanah/kavling/malang_kota/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/ # Link langsung
+    - icon: fas fa-tshirt # Ikon baju/rajutan
+      name: Rajutan Custom (Amigurumi)
+      price: 100k
+      price_before: Mulai
+      price_after: /pcs
       list:
-        - value: Web Development
+        - value: Boneka Rajut
           disable: 'no'
-        - value: Advetising
+        - value: Taplak Meja
           disable: 'no'
-        - value: Game Development
+        - value: Syal & Topi
           disable: 'no'
-        - value: Music Writing
+        - value: Sesuai permintaan
           disable: 'no'
-        - value: Photography
+        - value: Bahan Premium
           disable: 'no'
-      button: Buy Now
-      link: contact/
+      button: Pesan Sekarang
+      link: contact/ # Arahkan ke kontak
 resume:
   experience:
-    title: Experience
+    title: Proyek & Pengalaman # Judul baru
     items:
-      - year: 2013 - Present
-        name: Art Director - Facebook Inc
+      - year: 2026 - Sekarang
+        name: Pengembangan Kavling Organik - Malang Kota
         text: >-
-          Collaborate with creative and development teams on the execution of
-          ideas.
-      - year: 2011 - 2012
-        name: Front-end Developer - Google Inc
+          Menyediakan tanah kavling dengan fasilitas green house dan sumur bor untuk mendukung gaya hidup berkelanjutan.
+      - year: 2024 - 2025
+        name: Komunitas Rajut Nusantara
         text: >-
-          Monitored technical aspects of the front-end delivery for several
-          projects.
-      - year: 2009 - 2010
-        name: Senior Developer - Abc Inc
-        text: Optimize website performance using latest technology.
+          Berkolaborasi dengan perajin lokal untuk menciptakan produk rajutan berkualitas dan memberdayakan masyarakat.
+      - year: 2023 - 2024
+        name: Pilot Project Hidroponik Skala Rumah
+        text: >-
+          Mengembangkan sistem hidroponik sederhana untuk kebutuhan rumah tangga dan berbagi panduan secara online.
   education:
-    title: Education
+    title: Keahlian Inti
     items:
-      - year: 2006 - 2008
-        name: Art University of New York
+      - year: Keahlian 1
+        name: Analisis Lahan & Properti
         text: >-
-          Bachelor's Degree in Computer Science ABC Technical Institute,
-          Jefferson, Missouri
-      - year: 2005 - 2006
-        name: Programming Course
-        text: 'Coursework - Git, WordPress, Javascript, iOS, Android.'
-      - year: 2004 - 2005
-        name: Web Design Course
+          Memahami aspek legal (SHM), potensi pengembangan, dan nilai investasi tanah di kawasan Malang Raya.
+      - year: Keahlian 2
+        name: Budidaya Organik
+        text: 'Praktik pertanian tanpa pestisida, pembuatan kompos, dan manajemen green house.'
+      - year: Keahlian 3
+        name: Desain & Rajutan
         text: >-
-          Converted Photoshop layouts to web pages using HTML, CSS, and
-          JavaScript
+          Kreativitas dalam menciptakan pola rajutan (crochet) dari barang fungsional hingga dekoratif.
 skills:
   columns:
     - type: default
-      title: Design Skills
+      title: Bidang Usaha
       items:
-        - label: Web Design
-          value: 70
-        - label: Illustrations
-          value: 90
-        - label: Photoshop
+        - label: Properti & Kavling
+          value: 80 # Nilai bisa disesuaikan
+        - label: Pertanian Organik
+          value: 85
+        - label: Hidroponik
           value: 75
-        - label: Graphic Design
-          value: 80
+        - label: Kuliner Nusantara
+          value: 70
     - type: dotted
-      title: Languages Skills
+      title: Area Layanan
       items:
-        - label: English
+        - label: Malang Kota
+          value: 100
+        - label: Malang Kabupaten
           value: 90
-        - label: German
-          value: 70
-        - label: Mandarin
-          value: 55
-        - label: French
-          value: 85
+        - label: Batu
+          value: 80
+        - label: Surabaya (Konsultasi)
+          value: 60
     - type: circles
-      title: Coding Skills
+      title: Metode Komunikasi
       items:
-        - label: WordPress
-          value: 95
-        - label: PHP / MYSQL
-          value: 75
-        - label: Angular / JavaScript
-          value: 85
-        - label: HTML / CSS
+        - label: WhatsApp
+          value: 100
+        - label: Telepon
           value: 90
+        - label: Email
+          value: 80
+        - label: Media Sosial
+          value: 85
     - type: list
-      title: Knowledge
+      title: Layanan yang Tersedia
       items:
-        - label: Website hosting
+        - label: Konsultasi Properti
           value: ''
-        - label: iOS and android apps
+        - label: Pemesanan Rajutan
           value: ''
-        - label: Create logo design
+        - label: Panduan Bertanam
           value: ''
-        - label: Design for print
+        - label: Info Kavling Strategis
           value: ''
-        - label: Modern and mobile-ready
+        - label: Resep Masakan
           value: ''
-        - label: Advertising services include
+        - label: Survei Lahan
           value: ''
-        - label: Graphics and animations
-          value: ''
-        - label: Search engine marketing
+        - label: Desain Taman Sederhana
           value: ''
 facts:
-  title: Interests
+  title: Minat & Aktivitas # Bisa juga "Aktivitas Kami"
   items:
-    - icon: fas fa-baseball-ball
-      name: Internet
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    - icon: fas fa-campground
-      name: Camping
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    - icon: fas fa-chess-knight
-      name: Chess
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    - icon: fas fa-headphones
-      name: Music
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-team:
-  title: Our Team
-  items:
-    - image: assets/img/team/team1.jpg
-      name: Louis
-      role: Web Developer
-      social:
-        - url: 'https://www.pinterest.com/'
-          icon: fab fa-pinterest
-        - url: 'https://www.instagram.com/'
-          icon: fab fa-instagram
-        - url: 'https://dribbble.com/'
-          icon: fab fa-dribbble
-    - image: assets/img/team/team2.jpg
-      name: Peter Green
-      role: Back-end Developer
-      social:
-        - url: 'https://www.pinterest.com/'
-          icon: fab fa-pinterest
-        - url: 'https://www.instagram.com/'
-          icon: fab fa-instagram
-        - url: 'https://dribbble.com/'
-          icon: fab fa-dribbble
+    - icon: fas fa-seedling
+      name: Bertani Organik
+      text: 'Menjelajahi teknik pertanian alami dan hidroponik untuk kehidupan yang lebih sehat.'
+    - icon: fas fa-mountain
+      name: Eksplorasi Alam
+      text: 'Mencari lokasi-lokasi potensial untuk properti dengan pemandangan sawah dan gunung.'
+    - icon: fas fa-chess-knight # Atau ikon lain
+      name: Kerajinan Tangan
+      text: 'Mengembangkan desain rajutan baru yang unik dan diminati pasar.'
+    - icon: fas fa-utensils
+      name: Kuliner Tradisional
+      text: 'Mencicipi dan membagikan resep kuliner autentik dari berbagai daerah.'
+
 testimonials:
-  title: Testimonials
+  title: Kata Mereka
   items:
     - image: assets/img/testimonials/rev1.jpg
-      name: Sukadi
-      role: Art Director
+      name: Pak Sukadi
+      role: Pembeli Properti
       text: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum
-        dolor sit amet, consectetur adipiscing elit.
-    - image: assets/img/testimonials/rev1.jpg
-      name: Vibianto
-      role: Art Director
+        Prosesnya cepat dan transparan. Informasi tanahnya detail, sesuai dengan iklan. Ada green house-nya juga, jadi nilai plus buat saya yang hobi tanaman.
+    - image: assets/img/testimonials/rev2.jpg # Ganti nama file
+      name: Ibu Vibianto
+      role: Pembeli Rajutan
       text: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum
-        dolor sit amet, consectetur adipiscing elit.
+        Rajutannya rapi dan sesuai pesanan. Pengirimannya cepat. Terima kasih TropicYou!
+
 clients:
-  title: Clients
+  title: Mitra & Platform
   items:
-    - url: 'https://www.google.com'
-      image: assets/img/clients/client1.png
-    - url: 'https://www.google.com'
-      image: assets/img/clients/client2.png
-    - url: 'https://www.google.com'
-      image: assets/img/clients/client3.png
-    - url: 'https://www.google.com'
-      image: assets/img/clients/client4.png
-text:
-  title: Custom Text
-  text: >-
-    <p> Now there is more fashion. There is no so-called trends. Now chase after
-    anything not necessary — nor for fashionable color nor the shape, nor for
-    style. Think about the content that you want to invest in a created object,
-    and only then will form. The thing is your spirit. A spirit unlike forms
-    hard copy. </p> <p> Here choose yourself like that, without any looking
-    back, do your personal, home, small fashion, and all will be well. </p>
+    - url: 'https://www.olx.co.id/'
+      image: assets/img/clients/partner-olx.png # Anda perlu gambar ini
+    - url: 'https://www.rumah123.com/'
+      image: assets/img/clients/partner-rumah123.png
+    - url: 'https://www.instagram.com/'
+      image: assets/img/clients/partner-instagram.png
+    - url: 'https://www.tokopedia.com/'
+      image: assets/img/clients/partner-tokopedia.png
 contacts_info:
-  title: Contacts Info
+  title: Info Kontak
   list:
-    - label: Phone
+    - label: Telepon (Properti & Konsultasi)
       icon: fas fa-phone
       value: 087765451798
-    - label: Email
+    - label: Email (Semua Keperluan)
       icon: fas fa-envelope
       value: '<a href=''mailto:mail@tropi.cyou''>mail@tropi.cyou</a>'
-    - label: Address
+    - label: Alamat (Kantor / Sekretariat)
       icon: fas fa-map-marker-alt
-      value: Jln Kemantren Bandungrejosari 65147 Kota Malang Jawa Timur
-    - label: Rajutan / Cross Stitch
-      icon: fas fa-user-tie
-      value: Kami menerima Pesanan Rajutan Online
+      value: Jln Kemantren, Bandungrejosari 65147, Kota Malang, Jawa Timur
+    - label: Pesanan Rajutan
+      icon: fas fa-palette
+      value: 'Terima pesanan via chat (karya unik dan personal)'
 contacts_form:
-  title: Contact Form
+  title: Formulir Kontak

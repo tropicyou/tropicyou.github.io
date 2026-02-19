@@ -11,20 +11,13 @@ settings:
 ### Portfolio Filters Settings
 portfolio:
   filters:
-    - name: "Video"
-      slug: "f-video"
-
-    - name: "Music"
-      slug: "f-music"
-
-    - name: "Links"
-      slug: "f-link"
-
-    - name: "Image"
-      slug: "f-image"
-
-    - name: "Gallery"
-      slug: "f-gallery"
-
-    - name: "Content"
-      slug: "f-content"
+    - name: Properti
+      slug: f-properti
+    - name: Rajutan
+      slug: f-rajutan
+    - name: Pertanian
+      slug: f-pertanian
+    - name: Kuliner
+      slug: f-kuliner
+    - name: Galeri
+      slug: f-gallery

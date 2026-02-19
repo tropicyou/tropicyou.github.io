@@ -1,5 +1,6 @@
 ---
-title: Di Jual Tanah Untuk Kavling Strategis Di Malang Kota Siap Bangun
+title: Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang
+  Kota
 layout: post
 category:
 - dijual
@@ -17,13 +18,17 @@ tags:
 date: '2026-02-17 03:29:03'
 image: assets/img/501c0e77b42d.png
 author: Hao
+meta_description: Tanah untuk  kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
+  Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi,
+  kolam renang, pertanian. Hubungi pemilik!
 ---
 
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanah Untuk Kavling Strategis Malang</title>
+    <title>Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota</title>
+    <meta name="description" content="Tanah kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam renang, pertanian. Hubungi pemilik!">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
     <style>
@@ -298,6 +303,30 @@ author: Hao
             line-height: 1.4;
         }
         
+        .deskripsi-lengkap {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            border-left: 4px solid #2e7d32;
+            line-height: 1.6;
+        }
+        
+        .deskripsi-lengkap p {
+            margin-bottom: 12px;
+            color: #333;
+        }
+        
+        .deskripsi-lengkap ul {
+            margin-left: 20px;
+            margin-bottom: 12px;
+            color: #555;
+        }
+        
+        .deskripsi-lengkap li {
+            margin-bottom: 6px;
+        }
+        
         .map-section {
             background: #f5f5f5;
             padding: 15px;
@@ -514,6 +543,11 @@ author: Hao
                 font-size: 11px;
             }
             
+            .deskripsi-lengkap {
+                padding: 15px;
+                margin-bottom: 20px;
+            }
+            
             .map-section {
                 padding: 12px;
                 margin-bottom: 20px;
@@ -604,9 +638,9 @@ author: Hao
         </div>
         
         <div class="image-container">
-            <img src="https://sfile.chatglm.cn/images-ppt/db51009a4568.jpg" alt="Greenhouse dengan Pemandangan Gunung" class="main-image">
+            <img src="https://sfile.chatglm.cn/images-ppt/db51009a4568.jpg" alt="Greenhouse 6x12 meter dan pemandangan gunung di atas tanah kavling Malang Kota" class="main-image">
             <div class="price-tag">
-                950 Juta
+                850 Juta
                 <div class="price-note">NEGO • Tanpa Perantara</div>
             </div>
         </div>
@@ -619,15 +653,15 @@ author: Hao
                 </div>
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="https://sfile.chatglm.cn/images-ppt/501c0e77b42d.png" alt="Greenhouse">
+                        <img src="https://sfile.chatglm.cn/images-ppt/501c0e77b42d.png" alt="Green house 6x12 meter di atas tanah kavling Bandungrejosari">
                         <div class="gallery-label">Green House</div>
                     </div>
                     <div class="gallery-item">
-                        <img src="https://sfile.chatglm.cn/images-ppt/9641990c24bb.jpg" alt="Sawah">
+                        <img src="https://sfile.chatglm.cn/images-ppt/9641990c24bb.jpg" alt="Pemandangan sawah dan gunung dari lokasi tanah dijual di Sukun Malang">
                         <div class="gallery-label">Sawah & Gunung</div>
                     </div>
                     <div class="gallery-item">
-                        <img src="https://sfile.chatglm.cn/images-ppt/58af6e23015a.jpg" alt="Perumahan">
+                        <img src="https://sfile.chatglm.cn/images-ppt/58af6e23015a.jpg" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
                         <div class="gallery-label">Perumahan</div>
                     </div>
                 </div>
@@ -662,6 +696,22 @@ author: Hao
                     <div class="spec-label">Listrik</div>
                     <div class="spec-value">450 VA</div>
                 </div>
+            </div>
+            
+            <!-- DESKRIPSI LENGKAP SEO-FRIENDLY -->
+            <div class="deskripsi-lengkap">
+                <h2 style="color: #2e7d32; font-size: 18px; margin-bottom: 12px; font-weight: 700;">Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota</h2>
+                <p><strong>Lokasi strategis</strong> di <strong>Bandungrejosari, Kecamatan Sukun, Malang Kota</strong> ini menawarkan peluang investasi properti yang menjanjikan. Dengan luas tanah 790 m² berstatus SHM (Sertifikat Hak Milik), tanah ini siap bangun dan cocok untuk berbagai keperluan seperti:</p>
+                <ul>
+                    <li><strong>Investasi properti</strong> jangka panjang dengan potensi kenaikan harga tinggi.</li>
+                    <li><strong>Kavlingan</strong> untuk dijual kembali atau dibangun perumahan cluster.</li>
+                    <li><strong>Kolam renang pribadi</strong> atau kolam ikan komersial.</li>
+                    <li><strong>Pertanian organik</strong> dengan greenhouse 6x12 meter yang sudah tersedia.</li>
+                    <li><strong>Perluasan halaman rumah</strong> atau tempat istirahat (villa).</li>
+                </ul>
+                <p><strong>Keunggulan lokasi:</strong> Mepet perumahan padat penduduk, dekat dengan akses jalan utama, dan dikelilingi pemandangan sawah serta gunung yang asri. Jarak tempuh ke pusat kota Malang hanya sekitar 15-20 menit, dekat dengan kampus, rumah sakit, dan pusat perbelanjaan.</p>
+                <p><strong>Fasilitas lengkap</strong> yang sudah ada di atas tanah: greenhouse 6x12 meter siap pakai, sumur bor kedalaman 32 meter dengan pompa submersible 1/2 PK (debit air melimpah), gazebo untuk bersantai, gudang penyimpanan alat, serta lokasi yang mepet kali utama di sebelah timur sebagai sumber air alami.</p>
+                <p><strong>Mengapa memilih tanah ini?</strong> Harga kompetitif (Rp 850 juta, bisa nego), tanpa perantara (langsung pemilik), listrik 450 VA terpasang, dan sertifikat SHM atas nama pribadi (aman dan legal). Cocok untuk Anda yang mencari <strong>tanah kavling di Malang Kota</strong> dengan harga terjangkau namun fasilitas lengkap.</p>
             </div>
             
             <div class="section-title">
@@ -730,6 +780,7 @@ author: Hao
                 <div class="gps-coords">
                     📍 Koordinat GPS: -7.9962337, 112.6066795
                 </div>
+                <p style="margin-top: 10px; font-size: 13px; color: #555;">Lokasi strategis: dekat dengan perumahan warga, akses mudah ke Jl. Raya Bandungrejosari, 10 menit ke Universitas Muhammadiyah Malang, 15 menit ke pusat kota.</p>
             </div>
             
             <div class="contact-section">
@@ -738,11 +789,12 @@ author: Hao
                     <i class="material-icons">chat</i>
                     WhatsApp Sekarang
                 </a>
+                <p style="margin-top: 12px; font-size: 13px; opacity: 0.9;">* Tanpa perantara, harga nego langsung pemilik</p>
             </div>
         </div>
         
         <div class="footer">
-            <p>© 2026 TropicYou • Tanpa Perantara • Harga Terjangkau</p>
+            <p>© 2026 TropicYou • Tanah Kavling Malang Kota • SHM • Siap Bangun • Tanpa Perantara</p>
         </div>
     </div>
 </body>
