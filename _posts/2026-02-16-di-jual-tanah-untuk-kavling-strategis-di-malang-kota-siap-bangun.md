@@ -636,7 +636,7 @@ author: Hao
             <div class="highlight-box">
                 <i class="material-icons">stars</i>
                 <div class="highlight-text">
-                    Lokasi mepet perumahan padat! Cocok untuk kavlingan, kolam ikan, pertanian organik, atau perluasan halaman rumah
+                    Lokasi mepet perumahan padat! Cocok untuk investasi, kavlingan, kolam renang, kolam ikan, pertanian, atau perluasan halaman rumah.
                 </div>
             </div>
             
