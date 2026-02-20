@@ -16,7 +16,7 @@ tags:
 - perikanan
 - lahan
 date: '2026-02-17 03:29:03'
-image: assets/img/501c0e77b42d.png
+image: assets/img/blog/501c0e77b42d.jpg
 author: Hao
 meta_description: Tanah untuk  kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
   Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi,
@@ -638,7 +638,7 @@ meta_description: Tanah untuk  kavling 790 m² SHM di Bandungrejosari, Sukun, Ma
         </div>
         
         <div class="image-container">
-            <img src="https://sfile.chatglm.cn/images-ppt/db51009a4568.jpg" alt="Greenhouse 6x12 meter dan pemandangan gunung di atas tanah kavling Malang Kota" class="main-image">
+            <img src="/assets/img/blog/db51009a4568.jpg" alt="Greenhouse 6x12 meter dan pemandangan gunung di atas tanah kavling Malang Kota" class="main-image">
             <div class="price-tag">
                 850 Juta
                 <div class="price-note">NEGO • Tanpa Perantara</div>
@@ -653,15 +653,15 @@ meta_description: Tanah untuk  kavling 790 m² SHM di Bandungrejosari, Sukun, Ma
                 </div>
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="https://sfile.chatglm.cn/images-ppt/501c0e77b42d.png" alt="Green house 6x12 meter di atas tanah kavling Bandungrejosari">
+                        <img src="/assets/img/blog/501c0e77b42d.jpg" alt="Green house 6x12 meter di atas tanah kavling Bandungrejosari">
                         <div class="gallery-label">Green House</div>
                     </div>
                     <div class="gallery-item">
-                        <img src="https://sfile.chatglm.cn/images-ppt/9641990c24bb.jpg" alt="Pemandangan sawah dan gunung dari lokasi tanah dijual di Sukun Malang">
+                        <img src="/assets/img/blog/9641990c24bb.jpg" alt="Pemandangan sawah dan gunung dari lokasi tanah dijual di Sukun Malang">
                         <div class="gallery-label">Sawah & Gunung</div>
                     </div>
                     <div class="gallery-item">
-                        <img src="https://sfile.chatglm.cn/images-ppt/58af6e23015a.jpg" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
+                        <img src="/assets/img/blog/58af6e23015a.jpg" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
                         <div class="gallery-label">Perumahan</div>
                     </div>
                 </div>
