@@ -1,19 +1,12 @@
 ---
-title: Koleksi Rajutan Tangan & Boneka Amigurumi Custom Unik | Tropi.cyou
-layout: post
-category:
-- rajutan_tangan
-- custom_crochet
-- hadiah_unik
-tags:
-- bonekaamigurumi
-- kerajinan_tangan
-- boneka_rajut
-meta_description: Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik
-  dan menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di
-  Tropi.cyou!
-author: Irene N
-image: "/assets/img/crochet/girl-doll.png"
+layout: default
+category: Galeri
+category_slug: gallery
+type: gallery
+title: "Koleksi Rajutan Tangan & Boneka Amigurumi Custom Unik | Tropi.cyou"
+description: "Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik dan menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di Tropi.cyou!"
+image: /assets/img/crochet/girl-doll.png
+keywords: [rajutan tangan, boneka amigurumi, custom crochet, hadiah unik, kerajinan tangan, jual boneka rajut, Tropi.cyou]
 gallery:
   - url: /assets/img/crochet/anime-puff.png
     alt: "Boneka Rajutan Karakter Anime Puff Lucu - Custom Amigurumi"
@@ -134,32 +127,195 @@ gallery:
     title: "Rajut Taiyaki Cat"
 ---
 
-category: Galeri
-category_slug: gallery
-type: gallery
-image: /assets/img/crochet/girl-doll.png
-keywords: [rajutan tangan, boneka amigurumi, custom crochet, hadiah unik, kerajinan tangan, jual boneka rajut, Tropi.cyou]
+<!-- CSS STYLING (Embedded for Portability) -->
+<style>
+  /* Hero Section */
+  .hero-text {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  .hero-text h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+  .hero-text p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.7;
+  }
 
----
-description: "Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik dan menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di Tropi.cyou!"
-Lebih dari sekadar benang yang disimpul, setiap karya di sini adalah **doa dan cerita** yang ditenun dengan cinta. Selamat datang di galeri **Tropi.cyou**, tempat di mana kehangatan bertemu dengan kreativitas tanpa batas.
+  /* Gallery Grid Layout */
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+  }
 
-Apakah Anda sedang mencari hadiah yang *meaningful* atau sekadar ingin memanjakan diri dengan barang-barang cantik? Galeri rajutan tangan kami hadir untuk mengisi ruang hati Anda dengan kelembutan.
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: #fff;
+  }
 
-### Mengapa Rajutan Tangan Pilihan Tepat untuk Anda?
+  .gallery-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  }
 
-Rajutan tangan bukan sekadar tren, ia adalah abadi. Berikut alasan mengapa koleksi kami layak menjadi pilihan Anda:
+  .gallery-item img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.5s ease;
+  }
 
-*   ✨ **100% Handmade & Eksklusif**: Setiap simpul dibuat dengan tangan secara manual. Artinya? Tidak ada dua karya yang *persis* sama. Anda akan memiliki barang yang benar-benar unik dan satu-satunya.
-*   🧶 **Kualitas Premium & Aman**: Kami menggunakan benang pilihan kualitas terbaik yang lembut di kulit, *hypoallergenic*, dan tahan lama. Cocok untuk anak-anak maupun sebagai pajangan dekorasi rumah.
-*   🎨 **Custom Request (Request Warna/Karakter)**: Ingin warna favorit Anda? Atau mendesain karakter imajinatif sendiri? Ceritakan pada kami, dan kami akan mewujudkannya menjadi nyata.
+  .gallery-item:hover img {
+    transform: scale(1.05);
+  }
 
-### Jelajahi Koleksi Kami
+  .gallery-caption {
+    padding: 15px;
+    text-align: center;
+    background: #fff;
+  }
+  
+  .gallery-caption h3 {
+      font-size: 1rem;
+      margin: 0;
+      color: #333;
+  }
 
-Dari **boneka amigurumi** yang siap menjadi sahabat tidur si kecil, hingga **aksesori gantungan kunci** yang *stylish* untuk melengkapi tas kesayangan Anda. Galeri di atas menampilkan berbagai pilihan yang siap memanjakan mata Anda.
+  /* Features Section */
+  .features-section {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 40px 0;
+  }
 
-**Jangan biarkan momen istimewa berlalu begitu saja.** Jadikan rajutan tangan sebagai bukti cinta dan perhatian untuk diri sendiri maupun orang tersayang.
+  .features-list {
+    list-style: none;
+    padding: 0;
+  }
 
-Siap memiliki karya seni benang yang menghangatkan hati? 🧶✨
+  .features-list li {
+    padding: 10px 0;
+    font-size: 1.05rem;
+    border-bottom: 1px dashed #ddd;
+  }
+  .features-list li:last-child { border-bottom: none; }
 
-[**💬 Hubungi Kami Sekarang via WhatsApp/Instagram**] untuk konsultasi desain dan pemesanan. Cepat respon dan pengerjaan profesional!```
+  /* CTA Button */
+  .cta-button {
+    display: inline-block;
+    background-color: #ff6b6b;
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: background 0.3s;
+    margin-top: 20px;
+  }
+  .cta-button:hover {
+    background-color: #e05252;
+    color: #fff;
+  }
+</style>
+
+<!-- LIGHTBOX2 SCRIPT (CDN) -->
+<!-- Menggunakan Lightbox2 agar gambar bisa diklik membesar -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script>
+  // Konfigurasi Lightbox
+  lightbox.option({
+    'resizeDuration': 200,
+    'wrapAround': true,
+    'albumLabel': "Gambar %1 dari %2"
+  })
+</script>
+
+<!-- SCHEMA.ORG JSON-LD (Untuk SEO Rich Snippet) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "image": "{{ page.image | absolute_url }}",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {% for item in page.gallery %}
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index }},
+          "item": {
+            "@type": "ImageObject",
+            "name": "{{ item.title }}",
+            "contentUrl": "{{ item.url | absolute_url }}",
+            "description": "{{ item.alt }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
+
+<!-- KONTEN HALAMAN -->
+<article class="post-content">
+  
+  <!-- Hero Section -->
+  <header class="hero-text">
+    <h1>Lebih dari Sekadar Benang, Ini Cerita Cinta</h1>
+    <p>Setiap tarikan benang adalah doa, setiap simpul adalah cerita. Selamat datang di galeri <strong>Tropi.cyou</strong>, tempat kehangatan bertemu dengan kreativitas tanpa batas. Temukan hadiah yang <em>meaningful</em> untuk orang tersayang.</p>
+  </header>
+
+  <!-- Gallery Section -->
+  <section class="gallery-container">
+    <div class="gallery-grid">
+      {% for item in page.gallery %}
+        <div class="gallery-item">
+          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
+          <a href="{{ item.url }}" data-lightbox="gallery-crochet" data-title="{{ item.title }}">
+            <img src="{{ item.url }}" alt="{{ item.alt }}" loading="lazy">
+          </a>
+          <div class="gallery-caption">
+            <h3>{{ item.title }}</h3>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="features-section">
+    <h2>Mengapa Memilih Rajutan Tangan Kami?</h2>
+    <p>Rajutan tangan bukan sekadar tren, ia adalah abadi. Berikut alasan mengapa koleksi kami layak menjadi pilihan Anda:</p>
+    <ul class="features-list">
+      <li>✨ <strong>100% Handmade & Eksklusif</strong>: Dibuat manual tangan. Tidak ada dua karya yang persis sama, hanya milik Anda.</li>
+      <li>🧶 <strong>Kualitas Premium & Aman</strong>: Benang pilihan terbaik yang lembut, hypoallergenic, dan tahan lama.</li>
+      <li>🎨 <strong>Custom Request</strong>: Warna favorit atau karakter impian? Ceritakan pada kami, kami wujudkan.</li>
+    </ul>
+  </section>
+
+  <!-- Call to Action -->
+  <div style="text-align: center; margin-top: 40px;">
+    <p><strong>Jangan biarkan momen istimewa berlalu begitu saja.</strong></p>
+    <p>Siap memiliki karya seni benang yang menghangatkan hati? 🧶✨</p>
+    <!-- Ganti '#' dengan link WhatsApp Anda -->
+    <a href="https://wa.me/628123456789?text=Halo%20Tropi.cyou,%20saya%20tertarik%20dengan%20koleksi%20rajutan..." class="cta-button" target="_blank">
+      💬 Pesan Sekarang via WhatsApp
+    </a>
+  </div>
+
+</article>
