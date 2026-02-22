@@ -17,11 +17,11 @@ layout: default
     <div class="centrize full-width">
         <div class="vertical-center">
             <div class="started-content">
-                <h1 class="h-title">{{ ui_text.archive }}: {{ page.title }}</h1>
+                <h1 class="h-title">{{ ui_text.archive }}: {{ artikel.title }}</h1>
                 <div class="h-subtitles">
                     <div class="h-subtitle typing-bread">
                         <p class="breadcrumbs">
-                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / {{ page.title }}
+                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / {{ artikel.title }}
                         </p>
                     </div>
                     <span class="typed-bread"></span>
@@ -35,14 +35,14 @@ layout: default
 
 </div>
 
-<div class="section blog">
+<div class="section artikel">
     <div class="content">
         <div class="title"><div class="title_inner">{{ ui_text.latest_posts }}</div></div>
         
-        <div class="blog-items">
+        <div class="artikel-items">
             {% for post in page.posts %}
-            <div class="blog-col">
-                <div class="blog-item content-box">
+            <div class="artikel-col">
+                <div class="artikel-item content-box">
                     <div class="post">
                         <div class="image"> 
                             <a class="post-thumbnail" href="{{ post.url }}"> 

@@ -43,7 +43,7 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: "/kategori/:name/" # Gunakan bahasa Indonesia
+    category: "/kategori/:name/"
     tag: "/tag/:name/"
 
 # 🔥 Daftar Plugin (Pastikan semua terinstal di Gemfile)
