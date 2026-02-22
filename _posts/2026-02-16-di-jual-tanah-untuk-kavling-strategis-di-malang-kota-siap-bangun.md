@@ -6,7 +6,6 @@ category:
 - dijual
 - tanah
 - kavling
-- malang_kota
 tags:
 - property
 - strategis
@@ -15,6 +14,7 @@ tags:
 - renang
 - perikanan
 - lahan
+- malang
 date: '2026-02-17 03:29:03'
 image: assets/img/blog/501c0e77b42d.jpg
 author: Hao
