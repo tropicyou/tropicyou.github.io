@@ -4,7 +4,7 @@ category: Properti
 category_slug: properti
 type: content
 image: /assets/img/works/tanah-kavling-malang.jpg
-button_url: /dijual/tanah/kavling/malang_kota/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/
+button_url: /dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/
 ---
 🚀 **PENAWARAN TERBATAS – LANGSUNG PEMILIK, TANPA PERANTARA**
 

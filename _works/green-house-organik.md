@@ -4,7 +4,7 @@ category: Pertanian          # changed from filter
 category_slug: pertanian     # for CSS class
 type: content                # or "image" if you don't need the pop-up text
 image: /assets/img/works/green-house-organik.jpg
-button_url: /kategori/pertanian/
+button_url: /index-video/
 
 ---
 

@@ -4,7 +4,7 @@ category: Rajutan          # changed from filter
 category_slug: rajutan     # for CSS class
 type: content                # or "image" if you don't need the pop-up text
 image: /assets/img/works/rajutan-custom.jpg
-button_url: /kontak/
+button_url: https://www.tropi.cyou/galeri/rajutan_tangan/crochet/hadiah_unik/2026/02/22/koleksi-rajutan-tangan-boneka-amigurumi-custom-unik-tropicyou/
 
 ---
 
