@@ -43,8 +43,8 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: "/kategori/:name/"
-    tag: "/tag/:name/"
+    category: "/categories/:name/"
+    tag: "/tags/:name/"
 
 # 🔥 Daftar Plugin (Pastikan semua terinstal di Gemfile)
 plugins:

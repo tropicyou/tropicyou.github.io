@@ -17,11 +17,11 @@ layout: default
     <div class="centrize full-width">
         <div class="vertical-center">
             <div class="started-content">
-                <h1 class="h-title">{{ ui_text.archive }}: {{ artikel.title }}</h1>
+                <h1 class="h-title">{{ ui_text.archive }}: {{ page.title }}</h1>
                 <div class="h-subtitles">
                     <div class="h-subtitle typing-bread">
                         <p class="breadcrumbs">
-                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / {{ artikel.title }}
+                            <a href="{{ '/' | relative_url }}">{{ ui_text.home }}</a> / {{ page.title }}
                         </p>
                     </div>
                     <span class="typed-bread"></span>
@@ -62,7 +62,7 @@ layout: default
                             <div class="date"> 
                                 {{ post.date | date: site.date_format }}
                             </div> 
-                            <!--<div class="categories">{{ post.categories | join: ", " }}</div>-->
+                            
                             <a href="{{ post.url }}" class="name">{{ post.title }}</a>
                             <div class="single-post-text">
                                 {{ post.excerpt }}

@@ -10,7 +10,7 @@ layout: default
 	{% assign author = page.author %}
 {% endif %}
 
-{% assign blog_url = 'blog/' %}
+{% assign artikel_url = 'artikel/' %}
 
 <!-- Section Started -->
 <div class="section started section-title" id="section-post">
@@ -30,7 +30,7 @@ layout: default
                 <div class="h-subtitles">
                     <div class="h-subtitle typing-bread">
                         <p class="breadcrumbs">
-                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / <a href="{{ blog_url | relative_url }}">{{ ui_text.blog }}</a>
+                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / <a href="{{ artikel_url | relative_url }}">{{ ui_text.artikel }}</a>
                         </p>
                     </div>
                     <span class="typed-bread"></span>
@@ -43,7 +43,7 @@ layout: default
     <a href="#" class="mouse_btn" style="display: none;"><span class="icon fas fa-chevron-down"></span></a>
 </div>
 
-<div class="section blog">
+<div class="section artikel">
     <div class="content">
 
         <div class="post">
