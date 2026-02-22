@@ -18,8 +18,8 @@ instagram_username: tropi.you # Contoh, sesuaikan
 github_username: # Isi jika ada
 
 # Build Settings
-paginate: 9
-paginate_path: "/blog/page:num/"
+paginate: 5
+paginate_path: "/artikel/page:num/"
 permalink: /:categories/:year/:month/:day/:title/ # 🔥 URL lebih pendek & rapi
 
 # Comments (Jika masih relevan)

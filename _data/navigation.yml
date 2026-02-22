@@ -24,8 +24,8 @@ main:
   - title: Portfolio
     url: portfolio/
     parent: 0
-  - title: Blog
-    url: blog/
+  - title: Artikel
+    url: artikel/
     parent: 0
   - title: Contacts
     url: contacts/
