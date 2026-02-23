@@ -33,6 +33,8 @@ collections:
   works:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
 # Archives Settings
 jekyll-archives:
   enabled:
@@ -69,3 +71,8 @@ exclude:
 sass:
   style: compressed
 markdown: kramdown
+kramdown:
+  input: GFM          # Use GitHub Flavored Markdown
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: true      # Automatically generate IDs for headings (good for anchor links)
