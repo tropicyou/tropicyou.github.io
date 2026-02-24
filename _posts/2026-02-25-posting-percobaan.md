@@ -1,25 +1,13 @@
 ---
 layout: post
-title: "posting percobaan"
+title: posting percobaan
 date: 2026-02-25 01:48:23 +0700
-categories: percobaan
-tags: tesssss
+categories: 
+- dijual
+- tanah
+- kavling
+tags: 
+- tesssss
 ---
 
-#!/bin/bash
-title="$*"
-slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
-date=$(date +%Y-%m-%d)
-filename="_posts/$date-$slug.md"
-cat > "$filename" <<EOF
----
-layout: post
-title: "$title"
-date: $date $(date +%T) +0700
-categories:
-tags:
----
-
-Tulis konten Anda di sini...
-EOF
-echo "Postingan dibuat: $filename"
+saSDJHFNLDSNGLKDGSNLKJGDSBAGJD;KSXVXSKNLXZNV;LJVXSHBKJVSDBKDVSBJ
