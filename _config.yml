@@ -53,7 +53,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-admin
+
 
 # Exclude files
 exclude:
