@@ -28,7 +28,7 @@ meta_description: Tanah untuk  kavling 790 m² SHM di Bandungrejosari, Sukun, Ma
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota</title>
-    <meta name="description" content="Tanah kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam renang, pertanian. Hubungi pemilik!">
+    <p><strong>Tanah 790 m² SHM di Bandungrejosari, Sukun, Malang Kota,</strong> Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam renang, pertanian. Hubungi pemilik!"</p>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
     <style>
