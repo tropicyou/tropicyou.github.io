@@ -14,11 +14,12 @@ tags:
 date: '2026-02-27 03:29:03'
 image: "/assets/img/rumah/tampak-depan.png"
 author: Hao
-meta_description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang.
+description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang.
   Luas Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego. Langsung Pemilik,
   Siap Huni!
 ---
 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <style>
     /* CSS Styles - Modified for House Listing */
     * {
@@ -481,8 +482,8 @@ meta_description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang
         </div>
     </div>
     
-    <div class="footer">
-        <p>© 2026 TropicYou • Rumah Dijual Malang • Cluster Bandungrejosari • SHM</p>
+   <div class="footer">
+       <p>© 2026 TropicYou • Rumah Dijual Malang • Cluster Bandungrejosari • SHM</p>
     </div>
 </div>
 ```

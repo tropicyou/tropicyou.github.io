@@ -1,5 +1,6 @@
 ---
-title: Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota
+title: Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang
+  Kota
 layout: post
 category:
 - dijual
@@ -17,9 +18,12 @@ tags:
 date: '2026-02-17 03:29:03'
 image: assets/img/blog/501c0e77b42d.jpg
 author: Hao
-meta_description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam renang, pertanian. Hubungi pemilik!
+description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
+  Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi,
+  kolam renang, pertanian. Hubungi pemilik!
 ---
 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <style>
     /* CSS Styles moved here to preserve the poster design */
     * {
