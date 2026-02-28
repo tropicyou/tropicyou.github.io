@@ -775,8 +775,8 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
         </div>
     </div>
     
-    <div class="footer">
-        <p>© 2026 TropicYou • Tanah Kavling Malang Kota • SHM • Siap Bangun • Tanpa Perantara</p>
-    </div>
+<div class="footer">
+<p>© 2026 TropicYou • Tanah Kavling Malang Kota • SHM • Siap Bangun • Tanpa Perantara</p>
+</div>
 </div>
 ```

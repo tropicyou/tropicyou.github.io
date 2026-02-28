@@ -1,5 +1,5 @@
 ---
-title: Rumah Dijual Murah Cluster Bandungrejosari Sukun Malang Type 54
+title: Rumah Dijual Sukun Permai Malang - Luas 223m²
 layout: post
 category:
 - dijual
@@ -7,16 +7,14 @@ category:
 - malang_kota
 tags:
 - property
-- strategis
+- mewah
 - investasi
 - perumahan
 - malang
-date: '2026-02-27 03:29:03'
-image: "/assets/img/rumah/tampak-depan.png"
+date: '2026-02-27 09:00:00'
+image: "/assets/img/cinta/tampak-depan.jpeg"
 author: Hao
-description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas
-  Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego. Langsung Pemilik, Siap
-  Huni!
+description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 250m², SHM, 4 KT, 4 KM, 2 Garasi. Harga 2,2 Miliar Nego. Lingkungan Aman & Nyaman.
 ---
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -329,24 +327,23 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
 <div class="poster-container">
     <div class="header">
         <div class="sale-badge">🏠 LANGSUNG PEMILIK</div>
-        <div class="title">DI JUAL RUMAH TYPE 54</div>
+        <div class="title">DI JUAL RUMAH SUKUN PERMAI</div>
         <div class="location">
             <i class="material-icons">location_on</i>
-            <span>Perum Bale Bale Cluster, Bandungrejosari, Sukun, Malang</span>
+            <span>Sukun Permai, Sukun, Malang</span>
         </div>
     </div>
     
     <div class="image-container">
-        <!-- Menggunakan gambar utama dari folder rumah -->
-        <img src="/assets/img/rumah/tampak-depan.jpg" alt="Rumah Dijual Tampak Depan Perum Bale Bale Cluster Bandungrejosari Malang" class="main-image">
+        <img src="/assets/img/cinta/tampak-depan.jpeg" alt="Tampak Depan Rumah Sukun Permai Malang" class="main-image">
         <div class="price-tag">
-            650 Juta
+            2,2 Miliar
             <div class="price-note">NEGO • Siap Huni</div>
         </div>
     </div>
     
     <div class="content">
-        <!-- Galeri Gambar dengan Model Transisi -->
+        <!-- Galeri Gambar -->
         <div class="gallery-section">
             <div class="section-title">
                 <i class="material-icons">photo_library</i>
@@ -354,33 +351,24 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/teras_depan.jpg" alt="Teras Rumah Cluster Bandungrejosari">
-                    <div class="gallery-label">Teras</div>
+                    <img src="/assets/img/cinta/ruang-tamu.jpeg" alt="Ruang Tamu">
+                    <div class="gallery-label">Ruang Tamu</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/kamar_tidur.jpg" alt="Kamar Tidur Rumah Malang">
+                    <img src="/assets/img/cinta/ruang-keluarga.jpeg" alt="Ruang Keluarga">
+                    <div class="gallery-label">Ruang Keluarga</div>
+                </div>
+                <div class="gallery-item">
+                    <img src="/assets/img/cinta/kamar-tidur.jpeg" alt="Kamar Tidur">
                     <div class="gallery-label">Kamar Tidur</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/dapur.jpg" alt="Dapur Rumah Type 54">
-                    <div class="gallery-label">Dapur</div>
+                    <img src="/assets/img/cinta/ruang-rekreasi.jpeg" alt="Ruang Rekreasi">
+                    <div class="gallery-label">Ruang Rekreasi</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/kamar_mandi.jpg" alt="Kamar Mandi Dalam Rumah">
-                    <div class="gallery-label">Kamar Mandi</div>
-                </div>
-                <div class="gallery-item">
-                    <img src="/assets/img/rumah/ruang_laundry.jpg" alt="Ruang Cuci Baju Rumah">
-                    <div class="gallery-label">Laundry</div>
-                </div>
-                <div class="gallery-item">
-                    <img src="/assets/img/rumah/pov_dari_ruang_tamu.jpg" alt="Ruang Tamu Rumah Cluster">
-                    <div class="gallery-label">Ruang Tamu</div>
-                </div>
-							<div class="gallery-item">
-                    <img src="/assets/img/rumah/interior-rumah1.png" alt="sebelum di isi perabot">
-                    <div class="gallery-label">Tanpa Perabot</div>
-                </div>
+                    <img src="/assets/img/cinta/loteng.jpeg" alt="Loteng">
+                    <div class="gallery-label">Loteng</div>
                 </div>
             </div>
         </div>
@@ -393,36 +381,36 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
         <div class="specs-grid">
             <div class="spec-card">
                 <div class="spec-label">Luas Tanah</div>
-                <div class="spec-value">96 m²</div>
+                <div class="spec-value">223 m²</div>
             </div>
             <div class="spec-card">
-                <div class="spec-label">Type</div>
-                <div class="spec-value">54</div>
+                <div class="spec-label">Luas Bangunan</div>
+                <div class="spec-value">250 m²</div>
             </div>
             <div class="spec-card">
                 <div class="spec-label">Kamar Tidur</div>
-                <div class="spec-value">2</div>
+                <div class="spec-value">4</div>
             </div>
             <div class="spec-card">
                 <div class="spec-label">Kamar Mandi</div>
-                <div class="spec-value">1</div>
+                <div class="spec-value">4</div>
             </div>
         </div>
         
         <!-- Deskripsi Narasi -->
         <div class="deskripsi-lengkap">
-            <h2 style="color: #0d47a1; font-size: 18px; margin-bottom: 12px; font-weight: 700;">Rumah Type 54 Siap Huni di Cluster Bandungrejosari, Malang</h2>
-            <p>Dijual rumah nyaman dan strategis berlokasi di <strong>Perum Bale Bale Cluster, Bandungrejosari, Kec. Sukun, Malang</strong>. Rumah type 54 dengan luas tanah 96 m² ini cocok untuk keluarga muda yang mencari hunian dengan lingkungan asri dan akses mudah.</p>
+            <h2 style="color: #0d47a1; font-size: 18px; margin-bottom: 12px; font-weight: 700;">Rumah Mewah & Luas di Sukun Permai Malang</h2>
+            <p>Dijual rumah megah dan nyaman berlokasi di <strong>Sukun Permai, Sukun, Malang</strong>. Rumah ini sangat cocok untuk keluarga besar yang menginginkan ruang lega dan privasi.</p>
             <p><strong>Kondisi Rumah:</strong></p>
             <ul>
-                <li>2 Kamar Tidur nyaman.</li>
-                <li>1 Kamar Mandi bersih.</li>
-                <li>Dapur dan Ruang Cuci Baju terpisah.</li>
-                <li>Carport cukup luas.</li>
-                <li>Pagar dan Kanopi rangka besi kokoh.</li>
+                <li>4 Kamar Tidur luas.</li>
+                <li>4 Kamar Mandi dalam kondisi baik.</li>
+                <li>Ruang Tamu dan Ruang Keluarga terpisah.</li>
+                <li>Terdapat Ruang Rekreasi dan Loteng.</li>
+                <li>1 Carport dan 2 Garasi Mobil (kapasitas banyak).</li>
             </ul>
-            <p><strong>Fasilitas:</strong> Sudah tersedia <strong>Sumur Bor 25 meter</strong> dan air PDAM, serta listrik 1200 VA. Sertifikat SHM (Sertifikat Hak Milik) sudah ada, aman untuk transaksi.</p>
-            <p>Dijual dengan harga <strong>Rp 650.000.000 (Nego)</strong> tanpa perantara (langsung pemilik). Lokasi dekat dengan fasilitas umum, akses jalan lebar, dan lingkungan perumahan yang aman.</p>
+            <p><strong>Fasilitas:</strong> Listrik 1300 VA, Air PDAM. Sertifikat SHM (Sertifikat Hak Milik) lengkap. Lingkungan sangat nyaman, aman dengan adanya security/satpam.</p>
+            <p>Dijual dengan harga <strong>Rp 2,2 Miliar (Nego)</strong>. Transaksi langsung dengan pemilik.</p>
         </div>
         
         <div class="section-title">
@@ -433,11 +421,21 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
         <div class="facilities">
             <div class="facility-item">
                 <div class="facility-icon">
-                    <i class="material-icons">water_damage</i>
+                    <i class="material-icons">directions_car</i>
                 </div>
                 <div class="facility-text">
-                    <div class="facility-title">Air Melimpah</div>
-                    <div class="facility-desc">Sumur Bor 25 meter + PDAM</div>
+                    <div class="facility-title">Parkir Luas</div>
+                    <div class="facility-desc">1 Carport + 2 Garasi Mobil</div>
+                </div>
+            </div>
+            
+            <div class="facility-item">
+                <div class="facility-icon">
+                    <i class="material-icons">security</i>
+                </div>
+                <div class="facility-text">
+                    <div class="facility-title">Lingkungan Aman</div>
+                    <div class="facility-desc">Ada Security/Satpam</div>
                 </div>
             </div>
             
@@ -447,17 +445,7 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
                 </div>
                 <div class="facility-text">
                     <div class="facility-title">Listrik</div>
-                    <div class="facility-desc">Daya 1200 VA</div>
-                </div>
-            </div>
-            
-            <div class="facility-item">
-                <div class="facility-icon">
-                    <i class="material-icons">security</i>
-                </div>
-                <div class="facility-text">
-                    <div class="facility-title">Aman & Nyaman</div>
-                    <div class="facility-desc">Lingkungan Cluster Asri, Pagar Besi</div>
+                    <div class="facility-desc">Daya 1300 VA</div>
                 </div>
             </div>
             
@@ -474,15 +462,16 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
         
         <div class="contact-section">
             <div class="contact-title" style="font-weight: 700; margin-bottom: 15px; font-size: 18px;">Minat? Hubungi Pemilik Langsung</div>
-            <a href="https://wa.me/6287765451798?text=Halo,%20saya%20tertarik%20dengan%20Rumah%20Type%2054%20di%20Cluster%20Bandungrejosari%20yang%20dijual." class="wa-button" target="_blank">
+            <a href="https://wa.me/6287765451798?text=Halo,%20saya%20tertarik%20dengan%20Rumah%20Sukun%20Permai%20yang%20dijual%20harga%202,2%20M." class="wa-button" target="_blank">
                 <i class="material-icons">chat</i>
                 WhatsApp Sekarang
             </a>
-            <p style="margin-top: 12px; font-size: 13px; opacity: 0.9;">Harga 650 Juta Nego • Tanpa Perantara</p>
+            <p style="margin-top: 12px; font-size: 13px; opacity: 0.9;">Harga 2,2 Miliar Nego • Tanpa Perantara</p>
         </div>
     </div>
     
-<div class="footer">
-<p>© 2026 TropicYou • Rumah Dijual Malang • Cluster Bandungrejosari • SHM</p>
+    <div class="footer">
+        <p>© 2026 TropicYou • Rumah Dijual Malang • Sukun Permai • SHM</p>
+    </div>
 </div>
-</div>
+

@@ -288,8 +288,8 @@ gallery:
   
   <!-- Hero Section -->
   <header class="hero-text">
-    <h1>Lebih dari Sekadar Benang, Ini Cerita Cinta</h1>
-    <p>Setiap tarikan benang adalah doa, setiap simpul adalah cerita. Selamat datang di galeri <strong>Tropi.cyou</strong>, tempat kehangatan bertemu dengan kreativitas tanpa batas. Temukan hadiah yang <em>meaningful</em> untuk orang tersayang.</p>
+    <h1>Koleksi Rajutan Tangan & Boneka Amigurumi Custom</h1>
+    <p>Lebih dari Sekadar Benang, Ini Cerita Cinta. Setiap tarikan benang adalah doa, setiap simpul adalah cerita. Selamat datang di galeri <strong>Tropi.cyou</strong>, tempat kehangatan bertemu dengan kreativitas tanpa batas. Temukan hadiah yang <em>meaningful</em> untuk orang tersayang.</p>
   </header>
 
   <!-- Gallery Section -->
