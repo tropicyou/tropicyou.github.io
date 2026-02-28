@@ -12,7 +12,7 @@ tags:
 - perumahan
 - malang
 date: '2026-02-27 09:00:00'
-image: "/assets/img/cinta/tampak-depan.jpeg"
+image: "/assets/img/cinta/tampak-depan.png"
 author: Hao
 description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 250m², SHM, 4 KT, 4 KM, 2 Garasi. Harga 2,2 Miliar Nego. Lingkungan Aman & Nyaman.
 ---
