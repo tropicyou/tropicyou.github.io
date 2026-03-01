@@ -475,3 +475,39 @@ description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 2
     </div>
 </div>
 
+<!-- SCHEMA JSON-LD UNTUK GOOGLE RICH SNIPPET -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Rumah Mewah 54 Luas 223m² Sukun Permai Malang",
+  "image": [
+    "https://www.tropi.cyou/assets/img/cinta/tampak-depan.png",
+    "https://www.tropi.cyou/assets/img/cinta/ruang-rekreasi.jpeg"
+   ],
+  "description": "Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego.",
+  "brand": {
+    "@type": "Brand",
+    "name": "TropicYou"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.tropi.cyou/dijual/rumah/malang_kota/2026/02/27/rumah-dijual-sukun-permai-malang-luas-223m/",
+    "priceCurrency": "IDR",
+    "price": "2200000000",
+    "priceValidUntil": "2026-12-31",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Person",
+      "name": "Hao"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "25"
+  }
+}
+</script>
