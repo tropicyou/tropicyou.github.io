@@ -17,7 +17,7 @@ description: |-
   Dijual Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas. Frame
     Hi-Ten, Disc Brake, Shimano 7 Speed. Kondisi Bagus. Harga 1.2 Juta Nego. Langsung
     Pemilik!
-date: '2026-03-02 04:33:14'
+date: '2026-03-01 04:33:14'
 ---
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
