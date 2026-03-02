@@ -130,7 +130,7 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
                     <div class="gallery-label">Sawah & Gunung</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/blog/58af6e23015a.jpg" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
+                    <img src="/assets/img/blog/thumbnail-greenHouse.png" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
                     <div class="gallery-label">Perumahan</div>
                 </div>
             </div>
@@ -263,7 +263,7 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
   "name": "Tanah Kavling Strategis 790m² Bandungrejosari Malang",
   "url": "https://www.tropi.cyou/dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/",
   "image": [
-    "https://www.tropi.cyou/assets/img/blog/db51009a4568.jpg"
+    "https://www.tropi.cyou/assets/img/blog/thumbnail-greenHouse.png"
   ],
   "description": "Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo.",
   "brand": {
