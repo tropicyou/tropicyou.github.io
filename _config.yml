@@ -4,8 +4,8 @@ name: "TropicYou"
 description: "Komunitas hobi dan properti di Malang. Tutorial merajut, organic, dan tanah kavling."  # 1-2 kalimat, max 160 karakter
 email: mail@tropi.cyou
 author: Admin TropicYou
-baseurl: ""
-url: "https://www.tropi.cyou" # 🔥 PENTING: Isi dengan domain utama Anda
+url: "https://www.tropi.cyou"   # Pastikan tanpa garis miring di akhir
+baseurl: ""                      # Harus kosong
 date_format: "%d %B %Y"
 
 # SEO & Social

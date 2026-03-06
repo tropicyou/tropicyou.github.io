@@ -16,7 +16,7 @@ tags:
 - lahan
 - malang
 date: '2026-02-17 03:29:03'
-image: assets/img/blog/db51009a4568.jpg
+image: assets/img/rumah/arah_timur.jpg
 author: Irene Natadihardja
 description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
   Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi,
@@ -107,7 +107,7 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
     </div>
     
     <div class="image-container">
-        <img src="/assets/img/blog/db51009a4568.jpg" alt="Greenhouse 6x12 meter dan pemandangan gunung di atas tanah kavling Malang Kota" class="main-image">
+        <img src="/assets/img/rumah/view_g-kawi_b2.jpg" alt="Greenhouse 6x12 meter dan pemandangan gunung di atas tanah kavling Malang Kota" class="main-image">
         <div class="price-tag">
             850 Juta
             <div class="price-note">NEGO • Tanpa Perantara</div>
@@ -122,16 +122,40 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/assets/img/blog/db51009a4568.jpg" alt="Green house 6x12 meter di atas tanah kavling Bandungrejosari">
+                    <img src="/assets/img/rumah/sawah_bale2.jpg" alt="Green house 6x12 meter di atas tanah kavling Bandungrejosari">
                     <div class="gallery-label">Green House</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/blog/9641990c24bb.jpg" alt="Pemandangan sawah dan gunung dari lokasi tanah dijual di Sukun Malang">
+                    <img src="/assets/img/rumah/view_gunung_kawi_b2.jpg" alt="Pemandangan sawah dan gunung dari lokasi tanah dijual di Sukun Malang">
                     <div class="gallery-label">Sawah & Gunung</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/blog/thumbnail-greenHouse.png" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
+                    <img src="/assets/img/rumah/view_perumahan_PNS_kemantren.jpg" alt="Perumahan padat di sekitar lokasi tanah strategis Malang Kota">
                     <div class="gallery-label">Perumahan</div>
+                </div>
+<div class="gallery-item">
+                    <img src="/assets/img/rumah/perumahan_morse_jalan_tembus.jpg" alt="Perumahan Morse di sekitar lokasi tanah strategis Malang Kota">
+                    <div class="gallery-label">Perumahan Morse</div>
+                </div>
+<div class="gallery-item">
+                    <img src="/assets/img/rumah/perum_griya_sukun.jpg" alt="Perumahan Griya Sukun di sekitar lokasi tanah strategis Malang Kota">
+                    <div class="gallery-label">Perumahan griya sukun</div>
+                </div>
+<div class="gallery-item">
+                    <img src="/assets/img/rumah/pov_gerbang_bale2-1.jpg" alt="Perumahan Bale Bale di sekitar lokasi tanah strategis Malang Kota">
+                    <div class="gallery-label">Perumahan Bale Bale</div>
+                </div>
+<div class="gallery-item">
+                    <img src="/assets/img/rumah/pov_gerbang_bale2-2.jpg" alt="view gerbang perum Bale Bale sekitar lokasi tanah strategis Malang Kota">
+                    <div class="gallery-label">Perumahan Bale Bale</div>
+                </div>
+<div class="gallery-item">
+                    <img src="/assets/img/rumah/view_bts.jpg" alt="Jalan Tebo akses lokasi tanah strategis Malang Kota">
+                    <div class="gallery-label">Arah Jalan Tebo</div>
+                </div>
+<div class="gallery-item">
+                    <img src="/assets/img/rumah/view_gerbang_b2.jpg" alt="Perumahan mepet di sekitar lokasi tanah strategis Malang Kota">
+                    <div class="gallery-label">Mepet Perumahan</div>
                 </div>
             </div>
         </div>
@@ -263,7 +287,7 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
   "name": "Tanah Kavling Strategis 790m² Bandungrejosari Malang",
   "url": "https://www.tropi.cyou/dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/",
   "image": [
-    "https://www.tropi.cyou/assets/img/blog/thumbnail-greenHouse.png"
+    "https://www.tropi.cyou//assets/img/rumah/view_g-kawi_b2.jpg"
   ],
   "description": "Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo.",
   "brand": {
