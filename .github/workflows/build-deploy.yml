@@ -30,4 +30,4 @@ jobs:
           force_orphan: false         # Biarkan history tetap ada
           keep_files: false           # Hapus file lama di gh-pages
 - name: List contents of _site
-  run: ls -la _site && ls -la _site/categories _site/tags || echo "No categories/tags"
+  run: "ls -la _site && ls -la _site/categories _site/tags || echo 'No categories/tags'"
