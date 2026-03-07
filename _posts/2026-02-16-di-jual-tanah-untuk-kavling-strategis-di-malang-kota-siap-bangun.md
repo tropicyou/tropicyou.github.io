@@ -18,9 +18,9 @@ tags:
 date: '2026-02-17 03:29:03'
 image: assets/img/rumah/arah_timur.jpg
 author: Irene Natadihardja
-description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
-  Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi,
-  kolam renang, pertanian. Hubungi pemilik!
+description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota.
+  Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam
+  renang, pertanian. Hubungi pemilik!
 ---
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -304,7 +304,7 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
     "seller": {
       "@type": "Person",
       "name": "Hao",
-      "url": "https://wa.me/6287765451798"  // jika ada halaman kontak/profil
+      "url": "https://www.tropi.cyou/contacts-image/"  // jika ada halaman kontak/profil
     }
   },
   "aggregateRating": {
@@ -316,4 +316,3 @@ description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang
   }
 }
 </script>
-
