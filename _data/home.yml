@@ -26,7 +26,7 @@ started-personal:
     - "Green House Ukuran <strong>6 Meter x 12 Meter </strong>"
     - "Mepet Perumahan <strong>Bisa Untuk Kavlingan</strong>"
 
-  image: "assets/img/home_profile.jpg"
+  image: "assets/img/rumah/tampak-depan.png"
   
 ### Started Image
 started-image:
@@ -41,7 +41,7 @@ started-image:
     - "Green House Ukuran <strong>6 Meter x 12 Meter </strong>"
     - "Mepet Perumahan <strong>Bisa Untuk Kavlingan</strong>"
     
-  image: "assets/img/started_image_p.jpg"
+  image: "assets/img/rumah/depan_rumah_dijual.jpg"
   
 ### Started Video
 started-video:
@@ -56,7 +56,7 @@ started-video:
     - "Green House Ukuran <strong>6 Meter x 12 Meter </strong>"
     - "Mepet Perumahan <strong>Bisa Untuk Kavlingan</strong>"
   video: "https://youtu.be/csyCeLujSHg"
-  image: "assets/img/started_image_p.jpg"
+  image: "assets/img/rumah/arah_timur.jpg"
   
 ### Started Slider
 started-slider:
@@ -72,7 +72,7 @@ started-slider:
     - "Mepet Perumahan <strong>Bisa Untuk Kavlingan</strong>"
 
   images:
-    - "assets/img/started_image.jpg"
-    - "assets/img/started_image2.jpg"
-    - "assets/img/started_image3.jpg"
-    - "assets/img/started_image4.jpg"
+    - "assets/img/rumah/view_gerbang_b2.jpg"
+    - "assets/img/rumah/view_gunung_kawi_b2.jp"
+    - "assets/img/rumah/view_perumahan_PNS_kemantren.jpg"
+    - "assets/img/rumah/perumahan_morse_jalan_tembus.jpg"

@@ -3,9 +3,10 @@ title: Tanah Kavling Malang
 category: Properti
 category_slug: properti
 type: content
-image: /assets/img/works/tanah-kavling-malang.jpg
-button_url: /dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/
+image: "/assets/img/rumah/depan_rumah_dijual.jpg"
+button_url: "/dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/"
 ---
+
 🚀 **PENAWARAN TERBATAS – LANGSUNG PEMILIK, TANPA PERANTARA**
 
 <h2 style="color: #67ff35;">📍 DI JUAL: Tanah Kavling Strategis Siap Bangun</h2>
