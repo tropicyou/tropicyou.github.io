@@ -12,7 +12,7 @@ tags:
 - perumahan
 - malang
 date: '2026-02-27 09:00:00'
-image: "/assets/img/cinta/tampak-depan.png"
+image: "/assets/img/cinta/tampak-depan.webp"
 author: Hao
 description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 250m², SHM, 4 KT, 4 KM, 2 Garasi. Harga 2,2 Miliar Nego. Lingkungan Aman & Nyaman.
 ---
@@ -335,7 +335,7 @@ description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 2
     </div>
     
     <div class="image-container">
-        <img src="/assets/img/cinta/tampak-depan.jpeg" alt="Tampak Depan Rumah Sukun Permai Malang" class="main-image">
+        <img src="/assets/img/cinta/tampak-depan.webp" alt="Tampak Depan Rumah Sukun Permai Malang" class="main-image">
         <div class="price-tag">
             2,2 Miliar
             <div class="price-note">NEGO • Siap Huni</div>
@@ -351,23 +351,23 @@ description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 2
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/assets/img/cinta/ruang-tamu.jpeg" alt="Ruang Tamu">
+                    <img src="/assets/img/cinta/ruang-tamu.webp" alt="Ruang Tamu">
                     <div class="gallery-label">Ruang Tamu</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/cinta/ruang-keluarga.jpeg" alt="Ruang Keluarga">
+                    <img src="/assets/img/cinta/ruang-keluarga.webp" alt="Ruang Keluarga">
                     <div class="gallery-label">Ruang Keluarga</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/cinta/kamar-tidur.jpeg" alt="Kamar Tidur">
+                    <img src="/assets/img/cinta/kamar-tidur.webp" alt="Kamar Tidur">
                     <div class="gallery-label">Kamar Tidur</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/cinta/ruang-rekreasi.jpeg" alt="Ruang Rekreasi">
+                    <img src="/assets/img/cinta/ruang-rekreasi.webp" alt="Ruang Rekreasi">
                     <div class="gallery-label">Ruang Rekreasi</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/cinta/loteng.jpeg" alt="Loteng">
+                    <img src="/assets/img/cinta/loteng.webp" alt="Loteng">
                     <div class="gallery-label">Loteng</div>
                 </div>
             </div>
@@ -482,8 +482,8 @@ description: Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 2
   "@type": "Product",
   "name": "Rumah Mewah 54 Luas 223m² Sukun Permai Malang",
   "image": [
-    "https://www.tropi.cyou/assets/img/cinta/tampak-depan.png",
-    "https://www.tropi.cyou/assets/img/cinta/ruang-rekreasi.jpeg"
+    "https://www.tropi.cyou/assets/img/cinta/tampak-depan.webp",
+    "https://www.tropi.cyou/assets/img/cinta/ruang-rekreasi.webp"
    ],
   "description": "Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego.",
   "brand": {

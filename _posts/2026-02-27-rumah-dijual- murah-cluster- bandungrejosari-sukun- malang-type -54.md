@@ -12,7 +12,7 @@ tags:
 - perumahan
 - malang
 date: '2026-02-27 03:29:03'
-image: "/assets/img/rumah/tampak-depan.png"
+image: "/assets/img/rumah/tampak-depan.webp"
 author: Hao
 description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas
   Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego. Langsung Pemilik, Siap
@@ -194,7 +194,7 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
     </div>
     
     <div class="image-container">
-        <img src="/assets/img/rumah/tampak-depan.jpg" alt="Rumah Dijual Tampak Depan Perum Bale Bale Cluster Bandungrejosari Malang" class="main-image">
+        <img src="/assets/img/rumah/tampak-depan.webp" alt="Rumah Dijual Tampak Depan Perum Bale Bale Cluster Bandungrejosari Malang" class="main-image">
         <div class="price-tag">
             650 Juta
             <div class="price-note">NEGO • Siap Huni</div>
@@ -209,31 +209,31 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/teras_depan.jpg" alt="Teras Rumah Cluster Bandungrejosari">
+                    <img src="/assets/img/rumah/teras_depan.webp" alt="Teras Rumah Cluster Bandungrejosari">
                     <div class="gallery-label">Teras</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/kamar_tidur.jpg" alt="Kamar Tidur Rumah Malang">
+                    <img src="/assets/img/rumah/kamar_tidur.webp" alt="Kamar Tidur Rumah Malang">
                     <div class="gallery-label">Kamar Tidur</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/dapur.jpg" alt="Dapur Rumah Type 54">
+                    <img src="/assets/img/rumah/dapur.webp" alt="Dapur Rumah Type 54">
                     <div class="gallery-label">Dapur</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/kamar_mandi.jpg" alt="Kamar Mandi Dalam Rumah">
+                    <img src="/assets/img/rumah/kamar_mandi.webp" alt="Kamar Mandi Dalam Rumah">
                     <div class="gallery-label">Kamar Mandi</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/ruang_laundry.jpg" alt="Ruang Cuci Baju Rumah">
+                    <img src="/assets/img/rumah/ruang_laundry.webp" alt="Ruang Cuci Baju Rumah">
                     <div class="gallery-label">Laundry</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/pov_dari_ruang_tamu.jpg" alt="Ruang Tamu Rumah Cluster">
+                    <img src="/assets/img/rumah/pov_dari_ruang_tamu.webp" alt="Ruang Tamu Rumah Cluster">
                     <div class="gallery-label">Ruang Tamu</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/rumah/interior-rumah1.png" alt="sebelum di isi perabot">
+                    <img src="/assets/img/rumah/interior-rumah1.webp" alt="sebelum di isi perabot">
                     <div class="gallery-label">Tanpa Perabot</div>
                 </div>
             </div>
@@ -336,8 +336,8 @@ description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Lua
   "@type": "Product",
   "name": "Rumah Type 54 Cluster Bandungrejosari Malang",
   "image": [
-    "https://www.tropi.cyou/assets/img/rumah/tampak-depan.png",
-    "https://www.tropi.cyou/assets/img/rumah/teras_depan.jpg"
+    "https://www.tropi.cyou/assets/img/rumah/tampak-depan.webp",
+    "https://www.tropi.cyou/assets/img/rumah/teras_depan.webp"
    ],
   "description": "Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego.",
   "brand": {

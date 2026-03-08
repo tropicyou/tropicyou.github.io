@@ -8,8 +8,8 @@ tags:
 - burger
 author: Irene
 date: '2023-01-16 11:35:17 +0000'
-thumbnail: "/assets/img/burgerorganic.jpg"
-image: "/assets/img/blog/BurgerOrganic.jpg"
+thumbnail: "/assets/img/burgerorganic.webp"
+image: "/assets/img/blog/BurgerOrganic.webp"
 ---
 
 Sudah tidak diragukan lagi bahwa Burger adalah makanan yang sangat bergizi.

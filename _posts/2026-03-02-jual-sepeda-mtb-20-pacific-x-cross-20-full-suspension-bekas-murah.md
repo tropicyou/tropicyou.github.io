@@ -11,7 +11,7 @@ tags:
 - sepedabekas
 - sepedaanak
 - malang
-image: assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.jpg
+image: assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.webp
 author: Hao
 description: |-
   Dijual Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas. Frame
@@ -209,7 +209,7 @@ date: '2026-03-01 04:33:14'
     </div>
     
     <div class="image-container">
-        <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention-1.jpg" alt="Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas Malang" class="main-image">
+        <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention-1.webp" alt="Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas Malang" class="main-image">
         <div class="price-tag">
             1,2 Juta
             <div class="price-note">NEGO TIPIS • Per Buah</div>
@@ -229,11 +229,11 @@ date: '2026-03-01 04:33:14'
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.jpg" alt="Foto Sepeda Tampak Samping">
+                    <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.webp" alt="Foto Sepeda Tampak Samping">
                     <div class="gallery-label">Tampak Samping</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention-2.jpg" alt="Detail Sepeda Pacific X-Cross">
+                    <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention-2.webp" alt="Detail Sepeda Pacific X-Cross">
                     <div class="gallery-label">Detail</div>
                 </div>
             </div>
@@ -334,7 +334,7 @@ date: '2026-03-01 04:33:14'
   "@type": "Product",
   "name": "Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension",
   "image": [
-    "https://tropicyou.com/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.jpg"
+    "https://tropicyou.com/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.webp"
    ],
   "description": "Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension. Frame Hi-Ten, Disc Brake Mekanik, Shimano 7 Speed. Kondisi Bekas Terawat.",
   "brand": {

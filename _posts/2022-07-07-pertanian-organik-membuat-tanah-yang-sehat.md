@@ -6,7 +6,7 @@ New field 4: pertanian
 title: Pertanian Organik Membuat Tanah yang Sehat
 tags:
   - organic
-image: assets/img/blog/tomat_organic_1060x900.jpg
+image: assets/img/blog/tomat_organic_1060x900.webp
 category:
   - pertanian
 ---

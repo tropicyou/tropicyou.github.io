@@ -12,7 +12,7 @@ tags:
 - jahit pakaian
 - handicraft
 date: '2026-03-01 11:00:00'
-image: "/assets/img/bekas/janome-2200xt.jpg"
+image: "/assets/img/bekas/janome-2200xt.webp"
 author: Hao
 description: Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch,
   Otomatis 4 Langkah, Lampu LED, Body Aluminium. Lengkap Aksesoris. Harga 2.15 Juta
@@ -208,7 +208,7 @@ description: Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch
     </div>
     
     <div class="image-container">
-        <img src="/assets/img/bekas/janome-2200xt.jpg" alt="Mesin Jahit Janome 2200XT Baru Open Box Malang" class="main-image">
+        <img src="/assets/img/bekas/janome-2200xt.webp" alt="Mesin Jahit Janome 2200XT Baru Open Box Malang" class="main-image">
         <div class="price-tag">
             2,15 Juta
             <div class="price-note">NEGO TIPIS • Siap Pakai</div>
@@ -228,11 +228,11 @@ description: Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/assets/img/bekas/janome-2200xt.jpg" alt="Tampak Depan Mesin Janome 2200XT">
+                    <img src="/assets/img/bekas/janome-2200xt.webp" alt="Tampak Depan Mesin Janome 2200XT">
                     <div class="gallery-label">Tampak Depan</div>
                 </div>
                 <div class="gallery-item">
-                    <img src="/assets/img/bekas/open_box-janome-2200xt.jpg" alt="Isi Dus Mesin Jahit Janome">
+                    <img src="/assets/img/bekas/open_box-janome-2200xt.webp" alt="Isi Dus Mesin Jahit Janome">
                     <div class="gallery-label">Open Box</div>
                 </div>
             </div>
@@ -336,7 +336,7 @@ description: Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch
   "@type": "Product",
   "name": "Mesin Jahit Janome 2200XT Open Box Baru",
   "image": [
-    "https://tropicyou.com/assets/img/bekas/janome-2200xt.jpg"
+    "https://tropicyou.com/assets/img/bekas/janome-2200xt.webp"
    ],
   "description": "Mesin Jahit Janome 2200XT kondisi baru open box. 22 Stitch, Otomatis 4 Langkah, Body Aluminium, Lampu LED.",
   "brand": {

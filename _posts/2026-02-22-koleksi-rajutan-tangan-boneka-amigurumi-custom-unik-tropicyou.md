@@ -10,7 +10,7 @@ category_slug: gallery
 type: gallery
 description: Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik dan
   menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di Tropi.cyou!
-image: "/assets/img/crochet/girl-doll.png"
+image: "/assets/img/crochet/girl-doll.webp"
 keywords:
 - rajutan tangan
 - boneka amigurumi
@@ -20,121 +20,121 @@ keywords:
 - jual boneka rajut
 - Tropi.cyou
 gallery:
-- url: "/assets/img/crochet/anime-puff.png"
+- url: "/assets/img/crochet/anime-puff.webp"
   alt: Boneka Rajutan Karakter Anime Puff Lucu - Custom Amigurumi
   title: Boneka Rajut Anime Puff
-- url: "/assets/img/crochet/anime-sojun.png"
+- url: "/assets/img/crochet/anime-sojun.webp"
   alt: Boneka Rajutan Karakter Anime Sojun Eksklusif
   title: Boneka Rajut Anime Sojun
-- url: "/assets/img/crochet/baby-whale.png"
+- url: "/assets/img/crochet/baby-whale.webp"
   alt: Boneka Rajutan Paus Bayi Imut (Baby Whale)
   title: Boneka Rajut Paus Bayi
-- url: "/assets/img/crochet/badminton.png"
+- url: "/assets/img/crochet/badminton.webp"
   alt: Gantungan Kunci Rajutan Bulutangkis Unik
   title: Keychain Rajut Badminton
-- url: "/assets/img/crochet/bag-keychain.png"
+- url: "/assets/img/crochet/bag-keychain.webp"
   alt: Gantungan Kunci Tas Rajutan Mini Fashionable
   title: Keychain Rajut Tas Mini
-- url: "/assets/img/crochet/bear-girl.png"
+- url: "/assets/img/crochet/bear-girl.webp"
   alt: Boneka Rajutan Gadis Beruang yang Lembut
   title: Boneka Rajut Bear Girl
-- url: "/assets/img/crochet/bts-01.png"
+- url: "/assets/img/crochet/bts-01.webp"
   alt: Boneka Rajutan BTS Custom K-pop Idol
   title: Boneka Rajut BTS Edisi 01
-- url: "/assets/img/crochet/bts-02.png"
+- url: "/assets/img/crochet/bts-02.webp"
   alt: Boneka Rajutan BTS Custom K-pop Idol Variasi
   title: Boneka Rajut BTS Edisi 02
-- url: "/assets/img/crochet/bts-random.png"
+- url: "/assets/img/crochet/bts-random.webp"
   alt: Koleksi Boneka Rajut BTS Random Style
   title: Boneka Rajut BTS Random
-- url: "/assets/img/crochet/bunny-doll.png"
+- url: "/assets/img/crochet/bunny-doll.webp"
   alt: Boneka Kelinci Rajutan Bulu Lembut
   title: Boneka Rajut Bunny Doll
-- url: "/assets/img/crochet/bunny-girl.png"
+- url: "/assets/img/crochet/bunny-girl.webp"
   alt: Boneka Rajutan Gadis Kelinci yang Cantik
   title: Boneka Rajut Bunny Girl
-- url: "/assets/img/crochet/cactus-love.png"
+- url: "/assets/img/crochet/cactus-love.webp"
   alt: Boneka Rajutan Kaktus Cinta - Hadiah Valentine
   title: Rajut Cactus Love
-- url: "/assets/img/crochet/capibara.png"
+- url: "/assets/img/crochet/capibara.webp"
   alt: Boneka Rajutan Capybara Lucu Viral
   title: Boneka Rajut Capibara
-- url: "/assets/img/crochet/cat-keychain.png"
+- url: "/assets/img/crochet/cat-keychain.webp"
   alt: Gantungan Kucing Rajutan Imut untuk Tas
   title: Keychain Rajut Kucing
-- url: "/assets/img/crochet/cherry.png"
+- url: "/assets/img/crochet/cherry.webp"
   alt: Aksesori Rajutan Ceri Merah Manis
   title: Hiasan Rajut Cherry
-- url: "/assets/img/crochet/chikawa.png"
+- url: "/assets/img/crochet/chikawa.webp"
   alt: Boneka Rajutan Karakter Chikawa Jepang
   title: Boneka Rajut Chikawa
-- url: "/assets/img/crochet/cinamon-keychain.png"
+- url: "/assets/img/crochet/cinamon-keychain.webp"
   alt: Gantungan Kunci Rajutan Cinnamon Roll
   title: Keychain Rajut Cinnamon
-- url: "/assets/img/crochet/cupcake-01.png"
+- url: "/assets/img/crochet/cupcake-01.webp"
   alt: Boneka Rajutan Cupcake Manis Variasi 1
   title: Rajutan Cupcake 01
-- url: "/assets/img/crochet/cupcake-02.png"
+- url: "/assets/img/crochet/cupcake-02.webp"
   alt: Boneka Rajutan Cupcake Manis Variasi 2
   title: Rajutan Cupcake 02
-- url: "/assets/img/crochet/dompet-ketupat.png"
+- url: "/assets/img/crochet/dompet-ketupat.webp"
   alt: Dompet Rajutan Bentuk Ketupat Unik
   title: Dompet Rajut Ketupat
-- url: "/assets/img/crochet/duck-doll.png"
+- url: "/assets/img/crochet/duck-doll.webp"
   alt: Boneka Rajutan Bebek Kuning Menggemaskan
   title: Boneka Rajut Duck Doll
-- url: "/assets/img/crochet/frog-mushroom.png"
+- url: "/assets/img/crochet/frog-mushroom.webp"
   alt: Boneka Rajutan Katak Jamur Fantasi
   title: Rajutan Frog Mushroom
-- url: "/assets/img/crochet/girldoll02.png"
+- url: "/assets/img/crochet/girldoll02.webp"
   alt: Boneka Gadis Rajutan Custom Desain Terbaru
   title: Boneka Rajut Girl Doll 02
-- url: "/assets/img/crochet/girl-doll.png"
+- url: "/assets/img/crochet/girl-doll.webp"
   alt: Boneka Gadis Rajutan Eksklusif Koleksi Terbaik
   title: Boneka Rajut Girl Doll
-- url: "/assets/img/crochet/girlspider-mushroom.png"
+- url: "/assets/img/crochet/girlspider-mushroom.webp"
   alt: Boneka Rajutan Karakter Spider-Girl Jamur
   title: Rajutan Girl Spider Mushroom
-- url: "/assets/img/crochet/labubu.png"
+- url: "/assets/img/crochet/labubu.webp"
   alt: Boneka Rajutan Labubu Monster Lucu
   title: Boneka Rajut Labubu
-- url: "/assets/img/crochet/love-capybara.png"
+- url: "/assets/img/crochet/love-capybara.webp"
   alt: Boneka Rajutan Capybara Pegang Hati
   title: Rajut Love Capybara
-- url: "/assets/img/crochet/octopus.png"
+- url: "/assets/img/crochet/octopus.webp"
   alt: Boneka Rajutan Gurita Mini Warna-warni
   title: Boneka Rajut Octopus
-- url: "/assets/img/crochet/penguin.png"
+- url: "/assets/img/crochet/penguin.webp"
   alt: Boneka Rajutan Pinguin Antartika Lucu
   title: Boneka Rajut Penguin
-- url: "/assets/img/crochet/pouch-cat.png"
+- url: "/assets/img/crochet/pouch-cat.webp"
   alt: Pouch Rajutan Bentuk Kucing Multifungsi
   title: Pouch Rajut Kucing
-- url: "/assets/img/crochet/pouch-crab.png"
+- url: "/assets/img/crochet/pouch-crab.webp"
   alt: Pouch Rajutan Bentuk Kepiting Unik
   title: Pouch Rajut Kepiting
-- url: "/assets/img/crochet/pouch-dog.png"
+- url: "/assets/img/crochet/pouch-dog.webp"
   alt: Pouch Rajutan Bentuk Anjing Menggemaskan
   title: Pouch Rajut Anjing
-- url: "/assets/img/crochet/pouch-fish.png"
+- url: "/assets/img/crochet/pouch-fish.webp"
   alt: Pouch Rajutan Bentuk Ikan Warna Cerah
   title: Pouch Rajut Ikan
-- url: "/assets/img/crochet/prince.png"
+- url: "/assets/img/crochet/prince.webp"
   alt: Boneka Rajutan Pangeran Tampan
   title: Boneka Rajut Prince
-- url: "/assets/img/crochet/rabbit-flower.png"
+- url: "/assets/img/crochet/rabbit-flower.webp"
   alt: Boneka Rajutan Kelinci Bunga Romantis
   title: Rajut Rabbit Flower
-- url: "/assets/img/crochet/sleep-bear.png"
+- url: "/assets/img/crochet/sleep-bear.webp"
   alt: Boneka Rajutan Beruang Tidur Lembut
   title: Boneka Rajut Sleep Bear
-- url: "/assets/img/crochet/spiderman-mushroom.png"
+- url: "/assets/img/crochet/spiderman-mushroom.webp"
   alt: Boneka Rajutan Spiderman Versi Jamur
   title: Rajutan Spiderman Mushroom
-- url: "/assets/img/crochet/squid-game-kotak.png"
+- url: "/assets/img/crochet/squid-game-kotak.webp"
   alt: Boneka Rajutan Squid Game Seller Iconic
   title: Rajutan Squid Game
-- url: "/assets/img/crochet/taiyaki-cat.png"
+- url: "/assets/img/crochet/taiyaki-cat.webp"
   alt: Boneka Rajutan Kucing Taiyaki Kue Jepang
   title: Rajut Taiyaki Cat
 ---

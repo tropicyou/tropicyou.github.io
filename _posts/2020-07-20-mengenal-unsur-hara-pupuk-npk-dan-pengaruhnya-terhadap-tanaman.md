@@ -5,7 +5,7 @@ category:
 title: Mengenal Unsur Hara Pupuk NPK dan Pengaruhnya Terhadap Tanaman
 tags: []
 date: 2020-07-20
-image: assets/img/blog/blog_4.jpg
+image: assets/img/blog/blog_4.webp
 author: Ailbert Louis
 ---
 Ciri-ciri tanaman yang kekurangan unsur hara N P dan K dan manfaat dari masing-masing unsur, serta Kapan waktu yang paling tepat di dalam penggunaan dari masing-masing unsur hara tersebut. 
@@ -26,9 +26,9 @@ selain tanaman menguning juga pertumbuhannya menjadi lambat kemudian **kurus bah
 Apabila menjumpai tanaman bergejala seperti seperti di atas bisa di pastikan ke**kurangan unsur hara Nitrogen**
 Bisa diberikan pupuk yang mengandung Nitrogen misalnya contoh 
 
-* **Urea**![Urea](/assets/img/blog/Pupuk_Urea.jpg) 
-* **ZA** ![ZA](/assets/img/blog/Pupuk_ZA.jpg) 
-* **Kalium Nitrat**![Kalium Nitrat](/assets/img/blog/Kalium_Nitrat.jpg)yang komposisinya Kalium dan Nitrat 
+* **Urea**![Urea](/assets/img/blog/Pupuk_Urea.webp) 
+* **ZA** ![ZA](/assets/img/blog/Pupuk_ZA.webp) 
+* **Kalium Nitrat**![Kalium Nitrat](/assets/img/blog/Kalium_Nitrat.webp)yang komposisinya Kalium dan Nitrat 
 
  Bisa juga **NPK yang berkadar Nitrogen tinggi** atau bisa menggunakan pupuk organik cair PGPR yang isinya bakteri penambat Nitrogen yang bisa ngambil Nitrogen dari udara kemudian masukkan ke dalam tanah
 *bisa juga mencampur pupuk organik PGPR dengan pupuk kimia atau pupuk sintetis*.
@@ -42,7 +42,7 @@ Yang perlu digarisbawahi adalah bahwa penyerapan unsur hara Phosfor itu cenderun
 apabila menemukan gejala yang semacam keunguan tadi pemberian Phosfor yang **slow rilis semacam TSP sudah terlambat atau tidak relevan lagi perlu diberikan pupuk Phosfor yang sifatnya fast release** atau cepat penyerapanya Misalnya 
 
 * **Pupuk Meroke MAP**![Pupuk Meroke MAP](/assets/img/blog/Pupuk_Meroke_MAP.jpeg)
-* **ULTRADAP**![ULTRADAP](/assets/img/blog/Pupuk-Pak-Tani-Ultradap.jpg)
+* **ULTRADAP**![ULTRADAP](/assets/img/blog/Pupuk-Pak-Tani-Ultradap.webp)
 * **MKP**  yang mempunyai unsur hara Nitrogen dan juga Phosfor
 
 **Unsur hara yang ketiga yaitu Kalium.**
@@ -61,10 +61,10 @@ buahnya misalnya buah yang kecil-kecil cabe, tomat, jagung maupun buah yang ukur
 Pemberian Kalium pada saat masa generatif hasilnya juga pasti akan lebih melimpah
 berikut adalah pupuk yang bisa di gunakan
 
-* **KCL**![KCL](/assets/img/blog/KCL.jpg)
-* **Kalium Nitrat**![Kalium Nitrat](/assets/img/blog/Kalium_Nitrat.jpg)yang komposisinya Kalium dan Nitrat 
-* **ZK** ![ZK](/assets/img/blog/Pupuk_ZK.jpg)
-* **NPK** ![NPK](/assets/img/blog/blog_4.jpg)yang tinggi kadar Kaliumnya atau pupuk organik cair yang tinggi kadar Kaliumnya.
+* **KCL**![KCL](/assets/img/blog/KCL.webp)
+* **Kalium Nitrat**![Kalium Nitrat](/assets/img/blog/Kalium_Nitrat.webp)yang komposisinya Kalium dan Nitrat 
+* **ZK** ![ZK](/assets/img/blog/Pupuk_ZK.webp)
+* **NPK** ![NPK](/assets/img/blog/blog_4.webp)yang tinggi kadar Kaliumnya atau pupuk organik cair yang tinggi kadar Kaliumnya.
 
 Sumber saduran Youtube : [Penyuluh Pertanian Lapangan
 ](https://youtu.be/nsPgLVFI9yQ)
