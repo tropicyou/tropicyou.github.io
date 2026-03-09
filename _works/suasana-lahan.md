@@ -3,9 +3,10 @@ title: Suasana Lahan
 category: Galeri
 category_slug: gallery
 type: gallery
-image: /assets/img/works/pemandangan-sawah-gunung.jpg
-gallery: /assets/img/works/pemandangan-sawah.jpg,/assets/img/works/pemandangan-gunung.jpg,/assets/img/works/green-house-interior.jpg,/assets/img/works/sumur-bor.jpg
+image: "/assets/img/works/pemandangan-sawah-gunung.webp"
+gallery: "/assets/img/works/pemandangan-sawah.jpg,/assets/img/works/pemandangan-gunung.jpg,/assets/img/works/green-house-interior.jpg,/assets/img/works/sumur-bor.jpg"
 ---
+
 description: "Lokasi strategis di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan padat, cocok untuk investasi atau hunian."
 details:
   - "Luas: 790 m² (SHM)"

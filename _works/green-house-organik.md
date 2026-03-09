@@ -1,11 +1,10 @@
 ---
 title: Green House Organik
-category: Pertanian          # changed from filter
-category_slug: pertanian     # for CSS class
-type: content                # or "image" if you don't need the pop-up text
-image: /assets/img/works/green-house-organik.jpg
-button_url: /index-video/
-
+category: Pertanian
+category_slug: pertanian
+type: content
+image: "/assets/img/works/green-house-organik.webp"
+button_url: "/index-video/"
 ---
 
 Green house siap pakai di lahan kavling Bandungrejosari, cocok untuk:

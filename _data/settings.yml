@@ -21,3 +21,5 @@ portfolio:
       slug: kuliner
     - name: Galeri
       slug: gallery
+    - name: Design
+      slug: design
