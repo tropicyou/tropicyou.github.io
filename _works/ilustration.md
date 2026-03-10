@@ -22,12 +22,12 @@ Karya-karya saya kebanyakan beraliran **realisme kontemporer** dengan sentuhan i
 <h3 style="color: #67ff35;">  📚 Karya Unggulan Selama Sekolah</h3>
 
 <h3 style="color: #67ff35;">  1. *“Senja di Tepi Sawah”* (2025)</h3>
-Media: Laptop dan Aplikasi OpenSource 
+Media: Cat Air di Kertas  
 Ukuran: 30x40 cm  
 
-Lukisan ini dibuat saat kelas 11 sebagai tugas akhir semester. Mengabadikan suasana sore di daerah Sukun, Malang, dengan latar Gunung Kawi. Tugas ini dari lomba desain grafis antar sekolah. Saya menggunakan Procreate untuk membuat lapisan-lapisan kompleks. Karya ini meraih juara harapan 1 dan dipublikasikan di majalah sekolah.
+Lukisan ini dibuat saat kelas 11 sebagai tugas akhir semester. Mengabadikan suasana sore di daerah Sukun, Malang, dengan latar Gunung Kawi. Teknik basah di atas basah menghasilkan gradasi langit yang lembut, sementara detail sawah dibuat dengan sapuan kering. Karya ini mendapatkan nilai tertinggi di kelas dan dipajang di galeri sekolah.
 
-![Senja di Tepi Sawah](/assets/img/works/design/senja_sawah_digital_painting_cinematic.webp)
+![Senja di Tepi Sawah](/assets/img/works/design/senja-sawah-lukisan.webp)
 
 <h3 style="color: #67ff35;"> 2. *“Potret Ibu”* (2024)</h3>
 Media: Pensil Grafit di Kertas  
@@ -35,15 +35,15 @@ Ukuran: A3
 
 Sketsa potret ibu dengan teknik arsir silang. Proyek ini adalah bagian dari pelajaran seni rupa tentang proporsi wajah dan ekspresi. Saya menghabiskan waktu dua minggu untuk menangkap detail rambut, kerutan, dan sorot mata. Hasilnya membuat ibu terharu, dan karya ini menjadi hadiah ulang tahun untuknya.
 
-![Potret Ibu](/assets/img/works/alvida/potret-ibu.jpg)
+![Potret Ibu](/assets/img/works/design/potret-ibu-pensil-grafit.webp)
 
 <h3 style="color: #67ff35;">  3. *“Imaji Nusantara”* (2026)</h3>
 Media: Digital Painting  
 Dimensi: 3000x2000 px  
 
-Lukisan ini menggabungkan unsur wayang, flora, dan fauna Indonesia. Tugas ini dari lomba melukis antar sekolah. Teknik basah di atas menghasilkan gradasi langit yang lembut, sementara detail sawah dibuat dengan sapuan kering. Karya ini mendapatkan nilai tertinggi di kelas dan dipajang di galeri sekolah.
+Sebuah ilustrasi digital yang menggabungkan unsur wayang, flora, dan fauna Indonesia. Tugas ini dari lomba desain grafis antar sekolah. Saya menggunakan Procreate untuk membuat lapisan-lapisan kompleks. Karya ini meraih juara harapan 1 dan dipublikasikan di majalah sekolah.
 
-![Imaji Nusantara](/assets/img/works/alvida/imaji-nusantara.jpg)
+![Imaji Nusantara](/assets/img/works/design/imaji-nusantara.webp)
 
 <h3 style="color: #67ff35;">  4. *“Keseharian di Pasar”* (2025)</h3>
 Media: Tinta dan Cat Air  
@@ -51,8 +51,10 @@ Ukuran: A4
 
 Serial tiga sketsa cepat yang menggambarkan aktivitas pasar tradisional. Dibuat dalam waktu satu jam per sketsa, menangkap gerakan pedagang dan pembeli. Latihan ini mengasah kemampuan menggambar gestur dan komposisi ramai.
 
-![Sketsa Pasar 1](/assets/img/works/alvida/pasar1.jpg)
-![Sketsa Pasar 2](/assets/img/works/alvida/pasar2.jpg)
+![Sketsa Pasar 1](/assets/img/works/design/pasar1.webp)
+![Sketsa Pasar 2](/assets/img/works/design/pasar2.webp)
+![Sketsa Pasar 3](/assets/img/works/design/pasar3.webp)
+![Sketsa Pasar 4](/assets/img/works/design/pasar4.webp)
 
 <h2 style="color: #67ff35;">  🏆 Prestasi dan Pameran</h2>
 
