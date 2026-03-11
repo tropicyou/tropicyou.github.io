@@ -1,0 +1,13 @@
+---
+layout: null
+---
+
+# www.tropi.cyou
+> Blog pribadi tentang teknologi dan pengembangan web, khususnya Jekyll dan optimasi untuk AI.
+
+## Semua Artikel
+Tautan di bawah mengarah ke konten Markdown mentah yang siap dibaca AI.
+
+{% for post in site.posts %}
+- [{{ post.title }}](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/{{ post.path }})
+{% endfor %}

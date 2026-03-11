@@ -1,5 +1,5 @@
 about:
-  image: assets/img/man2.jpg # Ganti dengan foto Anda atau tim
+  image: assets/img/man2.webp # Ganti dengan foto Anda atau tim
   text: >-
     <p>Halo! Saya THao, penggiat hobi dan properti dari Malang, Jawa Timur. 
     Di TropicYou, kami percaya bahwa hidup berkualitas dimulai dari 
@@ -75,7 +75,7 @@ pricing:
         - value: Lokasi Bandungrejosari
           disable: 'no'
       button: Detail Properti
-      link: /dijual/tanah/kavling/malang_kota/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/ # Link langsung
+      link: /dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun/ # Link langsung
     - icon: fas fa-tshirt # Ikon baju/rajutan
       name: Rajutan Custom (Amigurumi)
       price: 100k

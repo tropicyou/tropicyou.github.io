@@ -4,7 +4,7 @@ category: Galeri
 category_slug: gallery
 type: gallery
 image: "/assets/img/works/pemandangan-sawah-gunung.webp"
-gallery: "/assets/img/works/pemandangan-sawah.jpg,/assets/img/works/pemandangan-gunung.jpg,/assets/img/works/green-house-interior.jpg,/assets/img/works/sumur-bor.jpg"
+gallery: "/assets/img/works/pemandangan-sawah.webp,/assets/img/works/pemandangan-gunung.webp,/assets/img/works/green-house-interior.webp,/assets/img/works/sumur-bor.webp"
 ---
 
 description: "Lokasi strategis di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan padat, cocok untuk investasi atau hunian."
