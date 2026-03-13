@@ -60,7 +60,7 @@ pricing:
   items:
     - icon: fas fa-map-marked-alt # Ikon peta
       name: Tanah Kavling Strategis Malang # Nama Properti
-      price: 950 Juta # Harga
+      price: 850 Juta # Harga
       price_before: Rp
       price_after: Nego
       list:
@@ -195,12 +195,12 @@ facts:
 testimonials:
   title: Kata Mereka
   items:
-    - image: assets/img/testimonials/rev1.jpg
+    - image: assets/img/testimonials/rev1.webp
       name: Pak Sukadi
       role: Pembeli Properti
       text: >-
         Prosesnya cepat dan transparan. Informasi tanahnya detail, sesuai dengan iklan. Ada green house-nya juga, jadi nilai plus buat saya yang hobi tanaman.
-    - image: assets/img/testimonials/rev2.jpg # Ganti nama file
+    - image: assets/img/testimonials/rev2.webp # Ganti nama file
       name: Ibu Vibianto
       role: Pembeli Rajutan
       text: >-
@@ -210,13 +210,13 @@ clients:
   title: Mitra & Platform
   items:
     - url: 'https://www.olx.co.id/'
-      image: assets/img/clients/partner-olx.png # Anda perlu gambar ini
+      image: assets/img/clients/partner-olx.webp # Anda perlu gambar ini
     - url: 'https://www.rumah123.com/'
-      image: assets/img/clients/partner-rumah123.png
+      image: assets/img/clients/partner-rumah123.webP
     - url: 'https://www.instagram.com/'
-      image: assets/img/clients/partner-instagram.png
+      image: assets/img/clients/partner-instagram.webp
     - url: 'https://www.tokopedia.com/'
-      image: assets/img/clients/partner-tokopedia.png
+      image: assets/img/clients/partner-tokopedia.webp
 contacts_info:
   title: Info Kontak
   list:

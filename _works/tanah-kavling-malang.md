@@ -55,7 +55,7 @@ Luas 790 m² sangat fleksibel untuk berbagai rencana:
 
 <h3 style="color: #67ff35;"> 📞 Kontak & Informasi Lebih Lanjut</h3>
 Hubungi pemilik langsung untuk survey lokasi atau negosiasi harga:
-[chat **WhatsApp Sekarang**](https://wa.me/6281234567890?text=Saya%20tertarik%20dengan%20tanah%20kavling%20di%20Bandungrejosari) *(ganti dengan nomor WhatsApp asli)*
+[chat **WhatsApp Sekarang**](https://wa.me/6287765451798?text=Saya%20tertarik%20dengan%20tanah%20kavling%20di%20Bandungrejosari) *(ganti dengan nomor WhatsApp asli)*
 
 **Kata Kunci:** jual tanah kavling Malang Kota, tanah siap bangun Sukun, tanah SHM Bandungrejosari, investasi tanah Malang, kavling strategis dekat UMM, tanah murah Malang Kota.
 
