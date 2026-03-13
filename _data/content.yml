@@ -213,9 +213,9 @@ clients:
       image: assets/img/clients/partner-olx.webp # Anda perlu gambar ini
     - url: 'https://www.rumah123.com/'
       image: assets/img/clients/partner-rumah123.webP
-    - url: 'https://www.instagram.com/'
+    - url: 'https://instagram.com/irenenatadihardja'
       image: assets/img/clients/partner-instagram.webp
-    - url: 'https://www.tokopedia.com/'
+    - url: 'https://www.tokopedia.com/tropicyou'
       image: assets/img/clients/partner-tokopedia.webp
 contacts_info:
   title: Info Kontak
