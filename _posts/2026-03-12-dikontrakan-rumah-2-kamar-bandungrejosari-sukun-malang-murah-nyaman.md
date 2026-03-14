@@ -15,7 +15,9 @@ tags:
 date: '2026-03-14 10:00:00'
 image: "/assets/img/rental/kontrakan-32meter-persegi.webp"
 author: Hao
-description: Dikontrakan rumah 2 kamar di Bandungrejosari Sukun Malang. Luas bangunan 31.5m², listrik 900VA, air sumur sanyo. Harga 8 juta/tahun. Lingkungan tenang, dekat fasilitas.
+description: Dikontrakan rumah 2 kamar di Bandungrejosari Sukun Malang. Luas bangunan
+  31.5m², listrik 900VA, air sumur sanyo. Harga 8 juta/tahun. Lingkungan tenang, dekat
+  fasilitas.
 ---
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -252,7 +254,7 @@ description: Dikontrakan rumah 2 kamar di Bandungrejosari Sukun Malang. Luas ban
         
         <div class="deskripsi-lengkap">
             <h2 style="color: #1b5e20; font-size: 18px; margin-bottom: 12px; font-weight: 700;">Rumah Kontrakan 2 Kamar Siap Huni di Bandungrejosari, Malang</h2>
-            <p>Ditawarkan rumah kontrakan yang nyaman dan strategis di <strong>Jl. Kemantren Gang Majapahit GG1/65 RT 11 RW 03, Bandungrejosari, Kec. Sukun, Malang</strong>. Unit dengan luas bangunan 4,5 x 7 meter (31,5 m²) ini cocok untuk keluarga kecil, karyawan, atau mahasiswa yang mencari hunian hemat dengan akses mudah ke berbagai fasilitas.</p>
+            <p>Ditawarkan rumah kontrakan yang nyaman dan strategis di <strong>Jl. Kemantren Gang Majapahit GG1/65 RT 11 RW 03, Bandungrejosari, Kec. Sukun, Malang</strong>. Rumah ini memiliki 2 kamar tidur yang legowo. Unit dengan luas bangunan 4,5 x 7 meter (31,5 m²) ini cocok untuk keluarga kecil, karyawan, atau mahasiswa yang mencari hunian hemat dengan akses mudah ke berbagai fasilitas.</p>
             <p><strong>Kondisi Rumah:</strong></p>
             <ul>
                 <li>2 Kamar Tidur cukup luas.</li>
