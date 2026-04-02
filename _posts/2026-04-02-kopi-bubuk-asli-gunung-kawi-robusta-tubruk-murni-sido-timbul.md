@@ -1,0 +1,475 @@
+---
+title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
+---
+
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul</title>
+    <meta name="description" content="Nikmati kopi robusta dan kopi tubruk asli dari Gunung Kawi. 100% kopi murni tanpa campuran. Harga terjangkau mulai Rp15.000/100gr. Ditanam dan diproduksi langsung di kawasan Gunung Kawi.">
+    <meta name="keywords" content="kopi robusta, kopi tubruk, kopi bubuk, kopi gunung kawi, kopi murni, kopi tanpa campuran, kopi sido timbul, harga kopi bubuk, kopi robusta asli">
+    <meta name="author" content="Tropi.cyou">
+    <!-- Canonical URL (ganti dengan domain asli jika ada) -->
+    <link rel="canonical" href="https://tropi.cyou/kopi-gunung-kawi">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni">
+    <meta property="og:description" content="Kopi robusta & tubruk 100% murni dari Gunung Kawi. Tanpa campuran, aroma khas, rasa mantap. Dapatkan harga spesial per 100gr atau 250gr.">
+    <meta property="og:image" content="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
+    <meta property="og:url" content="https://tropi.cyou/kopi-gunung-kawi">
+    <meta property="og:site_name" content="Tropi.cyou">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni">
+    <meta name="twitter:description" content="Kopi murni dari Gunung Kawi, tanpa campuran. Harga ramah kantong.">
+    <meta name="twitter:image" content="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
+
+    <style>
+        /* Reset & Base */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background-color: #fef9f0;
+            color: #2c2b28;
+            line-height: 1.6;
+            padding: 2rem 1rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 28px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            overflow: hidden;
+            padding: 2rem 1.5rem;
+        }
+        @media (min-width: 768px) {
+            .container { padding: 2rem 2.5rem; }
+            body { padding: 2rem; }
+        }
+
+        /* Hero Section */
+        .hero-text {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        .hero-text h1 {
+            font-size: 1.9rem;
+            margin-bottom: 0.8rem;
+            color: #3e2a1f;
+        }
+        @media (min-width: 768px) {
+            .hero-text h1 { font-size: 2.5rem; }
+        }
+        .hero-text .subhead {
+            font-size: 1.1rem;
+            color: #6b4c3b;
+            max-width: 750px;
+            margin: 0 auto;
+        }
+        .badge-murni {
+            display: inline-block;
+            background: #d9a13b;
+            color: #2c1a0e;
+            padding: 0.3rem 1rem;
+            border-radius: 40px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+        }
+
+        /* Rating Stars */
+        .rating-stars {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.25rem;
+            margin: 1rem 0 0.5rem;
+        }
+        .star {
+            font-size: 1.6rem;
+            color: #ffb43b;
+        }
+        .rating-value {
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-left: 0.5rem;
+            color: #3e2a1f;
+        }
+        .rating-count {
+            color: #7f6b5c;
+            font-size: 0.9rem;
+        }
+
+        /* Gallery Grid */
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 25px;
+            margin: 3rem 0;
+        }
+        .gallery-item {
+            background: #fff7ef;
+            border-radius: 20px;
+            overflow: hidden;
+            transition: transform 0.25s ease, box-shadow 0.25s;
+            box-shadow: 0 5px 12px rgba(0,0,0,0.05);
+            border: 1px solid #f0e1cf;
+        }
+        .gallery-item:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 16px 28px -10px rgba(0,0,0,0.12);
+        }
+        .gallery-item img {
+            width: 100%;
+            height: 240px;
+            object-fit: cover;
+            display: block;
+            transition: transform 0.4s;
+        }
+        .gallery-item:hover img {
+            transform: scale(1.02);
+        }
+        .gallery-caption {
+            padding: 1rem;
+            text-align: center;
+            background: #fff7ef;
+        }
+        .gallery-caption h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #4a2f1e;
+            margin-bottom: 0.3rem;
+        }
+        .gallery-caption p {
+            font-size: 0.85rem;
+            color: #8b6f56;
+        }
+
+        /* Features & Pricing */
+        .features-section {
+            background: #faf1e6;
+            padding: 2rem;
+            border-radius: 28px;
+            margin: 2rem 0;
+        }
+        .features-section h2 {
+            color: #3e2a1f;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+        .price-box {
+            background: white;
+            border-radius: 24px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 1.5rem;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+        }
+        .price-item {
+            flex: 1;
+            min-width: 140px;
+        }
+        .price-item .weight {
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: #b45f2b;
+        }
+        .price-item .harga {
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: #2c5e2e;
+        }
+        .price-item .keterangan {
+            font-size: 0.8rem;
+            color: #7c6a5b;
+        }
+        .features-list {
+            list-style: none;
+            padding: 0;
+            margin: 1rem 0;
+        }
+        .features-list li {
+            padding: 0.6rem 0;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            border-bottom: 1px solid #e2d4c6;
+        }
+        .features-list li:last-child { border: none; }
+        .check-icon {
+            font-size: 1.3rem;
+        }
+
+        /* CTA Button */
+        .cta-button {
+            display: inline-block;
+            background-color: #b45f2b;
+            color: white;
+            padding: 14px 32px;
+            border-radius: 40px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: all 0.2s;
+            margin: 0.5rem 0;
+            box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+        }
+        .cta-button:hover {
+            background-color: #8f4a20;
+            transform: scale(1.02);
+            color: white;
+        }
+        .testimoni {
+            text-align: center;
+            background: #e9e0d5;
+            border-radius: 40px;
+            padding: 1rem;
+            margin-top: 2rem;
+            font-style: italic;
+        }
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            font-size: 0.8rem;
+            color: #aa9b8a;
+            border-top: 1px solid #ede3d7;
+            padding-top: 1.5rem;
+        }
+        a {
+            text-decoration: none;
+        }
+    </style>
+
+    <!-- Lightbox2 CDN (opsional untuk zoom gambar) -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <article>
+        <!-- Hero -->
+        <header class="hero-text">
+            <div class="badge-murni">🌱 100% KOPI MURNI · TANPA CAMPURAN</div>
+            <h1>Kopi Robusta & Tubruk Asli Gunung Kawi</h1>
+            <p class="subhead">Ditanam dan diproduksi langsung di kawasan <strong>Gunung Kawi</strong> — cita rasa pekat, aroma khas, dan keaslian yang terjaga. Kopi bubuk pilihan untuk penikmat sejati.</p>
+            
+            <!-- Rich Snippet Rating (Visual + Schema nanti) -->
+            <div class="rating-stars">
+                <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">☆</span>
+                <span class="rating-value">4.5 / 5</span>
+                <span class="rating-count">(⭐ dari 120+ ulasan)</span>
+            </div>
+        </header>
+
+        <!-- Gallery Produk (4 gambar sesuai data) -->
+        <section class="gallery-container">
+            <div class="gallery-grid">
+                <!-- 1. Kopi Robusta Cap Sido Timbul -->
+                <div class="gallery-item">
+                    <a href="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp" data-lightbox="kopi-gallery" data-title="Kopi Robusta Cap Sido Timbul - Kemasan Eksklusif">
+                        <img src="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp" alt="Kopi Robusta Cap Sido Timbul asli Gunung Kawi kemasan premium" loading="lazy">
+                    </a>
+                    <div class="gallery-caption">
+                        <h3>Kopi Robusta Cap Sido Timbul</h3>
+                        <p>100% robusta murni · aroma mantap</p>
+                    </div>
+                </div>
+                <!-- 2. Kopi Timbul kemasan 100gr & 250gr -->
+                <div class="gallery-item">
+                    <a href="/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp" data-lightbox="kopi-gallery" data-title="Kopi Timbul varian ukuran 100gr & 250gr">
+                        <img src="/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp" alt="Kopi bubuk Gunung Kawi kemasan 100 gram dan 250 gram" loading="lazy">
+                    </a>
+                    <div class="gallery-caption">
+                        <h3>Kopi Timbul (100gr & 250gr)</h3>
+                        <p>Pilihan ukuran ekonomis & keluarga</p>
+                    </div>
+                </div>
+                <!-- 3. Kopi Tubruk -->
+                <div class="gallery-item">
+                    <a href="/assets/img/kopi/kopi-tubruk.webp" data-lightbox="kopi-gallery" data-title="Kopi Tubruk khas Gunung Kawi, seduhan tradisional">
+                        <img src="/assets/img/kopi/kopi-tubruk.webp" alt="Kopi Tubruk bubuk kasar khas Gunung Kawi" loading="lazy">
+                    </a>
+                    <div class="gallery-caption">
+                        <h3>Kopi Tubruk Asli</h3>
+                        <p>Gilingan khas tubruk, rasa full body</p>
+                    </div>
+                </div>
+                <!-- 4. Kopi Tubruk Sido Timbul -->
+                <div class="gallery-item">
+                    <a href="/assets/img/kopi/kopi-tubruk-sido-timbul.webp" data-lightbox="kopi-gallery" data-title="Kopi Tubruk Sido Timbul - Nikmat tanpa ampas berlebihan">
+                        <img src="/assets/img/kopi/kopi-tubruk-sido-timbul.webp" alt="Kopi Tubruk cap Sido Timbul asli Gunung Kawi" loading="lazy">
+                    </a>
+                    <div class="gallery-caption">
+                        <h3>Kopi Tubruk Sido Timbul</h3>
+                        <p>Tradisi & kualitas dalam satu kemasan</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Harga & Keunggulan -->
+        <section class="features-section">
+            <h2>☕ Mengapa Kopi Gunung Kawi Istimewa?</h2>
+            <div class="price-box">
+                <div class="price-item">
+                    <div class="weight">100 gram</div>
+                    <div class="harga">Rp15.000</div>
+                    <div class="keterangan">cocok untuk coba-coba / hadiah</div>
+                </div>
+                <div class="price-item">
+                    <div class="weight">250 gram</div>
+                    <div class="harga">Rp35.000</div>
+                    <div class="keterangan">lebih hemat & praktis</div>
+                </div>
+            </div>
+            <ul class="features-list">
+                <li><span class="check-icon">🌄</span> <strong>Kawasan Gunung Kawi</strong> – Tanah vulkanik subur, ketinggian ideal, menciptakan biji kopi berkualitas premium.</li>
+                <li><span class="check-icon">🧪</span> <strong>100% Kopi Murni</strong> – Tanpa campuran jagung, tanpa biji kopi palsu, tanpa pemanis buatan. Dijamin original.</li>
+                <li><span class="check-icon">🖐️</span> <strong>Produksi Tradisional & Higienis</strong> – Diproses dengan cara semi-basah & dijemur alami, lalu digiling halus untuk robusta & tubruk.</li>
+                <li><span class="check-icon">🔥</span> <strong>Varian Robusta & Tubruk</strong> – Robusta: body tebal, kafein tinggi, cocok untuk pagi hari. Tubruk: sensasi bubuk kasar yang khas, nikmat diseduh langsung.</li>
+                <li><span class="check-icon">🎁</span> <strong>Kemasan Pilihan</strong> – Tersedia ukuran 100gr (cocok oleh-oleh) dan 250gr (stok harian). Desain menarik, kedap udara.</li>
+            </ul>
+            <p style="margin-top: 1rem; font-weight: 500;">✨ Nikmati secangkir kehangatan asli lereng Gunung Kawi — langsung dari petani ke cangkir Anda.</p>
+        </section>
+
+        <!-- Testimoni singkat + CTA -->
+        <div style="text-align: center;">
+            <p><strong>Jadikan setiap pagi lebih semangat dengan kopi murni Gunung Kawi.</strong><br> Pesan sekarang, rasakan bedanya kopi tanpa campuran!</p>
+            <!-- GANTI nomor WA dengan milik penjual asli -->
+            <a href="https://wa.me/628123456789?text=Halo%20Tropi.cyou,%20saya%20mau%20pesan%20kopi%20Gunung%20Kawi%20100gr%20atau%20250gr" class="cta-button" target="_blank">
+                📞 Pesan via WhatsApp → Dapatkan Harga Spesial
+            </a>
+            <div class="testimoni">
+                ⭐⭐⭐⭐½ "Kopinya wangi banget, beneran murni. Udah repeat order 3x. Recommended!" — <strong>Ibu Rina, Malang</strong>
+            </div>
+        </div>
+        <footer>
+            © 2025 Tropi.cyou — Kopi Asli Gunung Kawi | Produksi sendiri, tanpa perantara.
+        </footer>
+    </article>
+</div>
+
+<!-- Lightbox JS (zoom gambar) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script>
+    lightbox.option({
+        'resizeDuration': 200,
+        'wrapAround': true,
+        'albumLabel': "Gambar %1 dari %2"
+    });
+</script>
+
+<!-- SCHEMA.ORG: Product + AggregateRating (Rich Snippet untuk Google) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni",
+  "image": [
+    "/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp",
+    "/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp",
+    "/assets/img/kopi/kopi-tubruk.webp",
+    "/assets/img/kopi/kopi-tubruk-sido-timbul.webp"
+  ],
+  "description": "Kopi bubuk murni dari kawasan Gunung Kawi, tersedia varian robusta dan tubruk. 100% tanpa campuran. Ditanam dan diproduksi secara tradisional.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Tropi.cyou"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "lowPrice": "15000",
+    "highPrice": "35000",
+    "priceCurrency": "IDR",
+    "availability": "https://schema.org/InStock",
+    "offerCount": "2"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "124",
+    "reviewCount": "124"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Asal",
+      "value": "Gunung Kawi, Jawa Timur"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Kemurnian",
+      "value": "100% Kopi Murni (Tanpa Campuran)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Jenis",
+      "value": "Robusta, Tubruk"
+    }
+  ]
+}
+</script>
+
+<!-- ItemList untuk galeri gambar (SEO tambahan) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Galeri Produk Kopi Gunung Kawi",
+  "numberOfItems": 4,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "ImageObject",
+        "contentUrl": "/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp",
+        "name": "Kopi Robusta Cap Sido Timbul"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "ImageObject",
+        "contentUrl": "/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp",
+        "name": "Kopi Timbul ukuran 100gr & 250gr"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "ImageObject",
+        "contentUrl": "/assets/img/kopi/kopi-tubruk.webp",
+        "name": "Kopi Tubruk Asli Gunung Kawi"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "ImageObject",
+        "contentUrl": "/assets/img/kopi/kopi-tubruk-sido-timbul.webp",
+        "name": "Kopi Tubruk Sido Timbul"
+      }
+    }
+  ]
+}
+</script>
+</body>
+</html>

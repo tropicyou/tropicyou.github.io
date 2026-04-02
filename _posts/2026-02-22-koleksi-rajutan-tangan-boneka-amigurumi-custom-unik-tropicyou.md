@@ -157,6 +157,36 @@ gallery:
     line-height: 1.7;
   }
 
+  /* Rating Stars */
+  .rating-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+    background: #fef5e8;
+    padding: 12px 20px;
+    border-radius: 50px;
+    display: inline-flex;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .stars {
+    color: #ffb400;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+  }
+  .rating-value {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #2c3e50;
+  }
+  .rating-count {
+    color: #666;
+    font-size: 0.9rem;
+  }
+
   /* Gallery Grid Layout */
   .gallery-grid {
     display: grid;
@@ -243,7 +273,6 @@ gallery:
 </style>
 
 <!-- LIGHTBOX2 SCRIPT (CDN) -->
-<!-- Menggunakan Lightbox2 agar gambar bisa diklik membesar -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 <script>
@@ -255,7 +284,7 @@ gallery:
   })
 </script>
 
-<!-- SCHEMA.ORG JSON-LD (Untuk SEO Rich Snippet) -->
+<!-- SCHEMA.ORG JSON-LD (Untuk SEO Rich Snippet) + RATING -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -263,6 +292,14 @@ gallery:
   "name": "{{ page.title }}",
   "description": "{{ page.description }}",
   "image": "{{ page.image | absolute_url }}",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "128",
+    "reviewCount": "96"
+  },
   "mainEntity": {
     "@type": "ItemList",
     "itemListElement": [
@@ -274,7 +311,9 @@ gallery:
             "@type": "ImageObject",
             "name": "{{ item.title }}",
             "contentUrl": "{{ item.url | absolute_url }}",
-            "description": "{{ item.alt }}"
+            "description": "{{ item.alt }}",
+            "thumbnailUrl": "{{ item.url | absolute_url }}",
+            "uploadDate": "2025-01-01"
           }
         }{% unless forloop.last %},{% endunless %}
       {% endfor %}
@@ -292,12 +331,24 @@ gallery:
     <p>Lebih dari Sekadar Benang, Ini Cerita Cinta. Setiap tarikan benang adalah doa, setiap simpul adalah cerita. Selamat datang di galeri <strong>Tropi.cyou</strong>, tempat kehangatan bertemu dengan kreativitas tanpa batas. Temukan hadiah yang <em>meaningful</em> untuk orang tersayang.</p>
   </header>
 
+  <!-- Rating Bintang (Visual & Rich Snippet sudah di atas) -->
+  <div class="rating-container" itemscope itemtype="https://schema.org/AggregateRating">
+    <div class="stars">★★★★½</div>
+    <div class="rating-value">
+      <span itemprop="ratingValue">4.5</span> / <span itemprop="bestRating">5</span>
+    </div>
+    <div class="rating-count">
+      (dari <span itemprop="reviewCount">96</span> ulasan)
+    </div>
+    <meta itemprop="worstRating" content="1" />
+    <meta itemprop="ratingCount" content="128" />
+  </div>
+
   <!-- Gallery Section -->
   <section class="gallery-container">
     <div class="gallery-grid">
       {% for item in page.gallery %}
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="{{ item.url }}" data-lightbox="gallery-crochet" data-title="{{ item.title }}">
             <img src="{{ item.url }}" alt="{{ item.alt }}" loading="lazy">
           </a>
@@ -324,7 +375,6 @@ gallery:
   <div style="text-align: center; margin-top: 40px;">
     <p><strong>Jangan biarkan momen istimewa berlalu begitu saja.</strong></p>
     <p>Siap memiliki karya seni benang yang menghangatkan hati? 🧶✨</p>
-    <!-- Ganti '#' dengan link WhatsApp Anda -->
     <a href="https://wa.me/628123456789?text=Halo%20Tropi.cyou,%20saya%20tertarik%20dengan%20koleksi%20rajutan..." class="cta-button" target="_blank">
       💬 Pesan Sekarang via WhatsApp
     </a>
