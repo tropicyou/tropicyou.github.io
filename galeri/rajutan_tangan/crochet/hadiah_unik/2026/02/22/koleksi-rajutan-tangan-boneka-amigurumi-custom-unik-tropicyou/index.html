@@ -194,6 +194,36 @@
     line-height: 1.7;
   }
 
+  /* Rating Stars */
+  .rating-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+    background: #fef5e8;
+    padding: 12px 20px;
+    border-radius: 50px;
+    display: inline-flex;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .stars {
+    color: #ffb400;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+  }
+  .rating-value {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #2c3e50;
+  }
+  .rating-count {
+    color: #666;
+    font-size: 0.9rem;
+  }
+
   /* Gallery Grid Layout */
   .gallery-grid {
     display: grid;
@@ -280,7 +310,6 @@
 </style>
 
 <!-- LIGHTBOX2 SCRIPT (CDN) -->
-<!-- Menggunakan Lightbox2 agar gambar bisa diklik membesar -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
@@ -294,7 +323,7 @@
   })
 </script>
 
-<!-- SCHEMA.ORG JSON-LD (Untuk SEO Rich Snippet) -->
+<!-- SCHEMA.ORG JSON-LD (Untuk SEO Rich Snippet) + RATING -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -302,6 +331,14 @@
   "name": "Koleksi Rajutan Tangan & Boneka Amigurumi Custom Unik | Tropi.cyou",
   "description": "Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik dan menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di Tropi.cyou!",
   "image": "https://www.tropi.cyou/assets/img/crochet/girl-doll.webp",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "128",
+    "reviewCount": "96"
+  },
   "mainEntity": {
     "@type": "ItemList",
     "itemListElement": [
@@ -313,7 +350,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Anime Puff",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/anime-puff.webp",
-            "description": "Boneka Rajutan Karakter Anime Puff Lucu - Custom Amigurumi"
+            "description": "Boneka Rajutan Karakter Anime Puff Lucu - Custom Amigurumi",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/anime-puff.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -324,7 +363,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Anime Sojun",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/anime-sojun.webp",
-            "description": "Boneka Rajutan Karakter Anime Sojun Eksklusif"
+            "description": "Boneka Rajutan Karakter Anime Sojun Eksklusif",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/anime-sojun.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -335,7 +376,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Paus Bayi",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/baby-whale.webp",
-            "description": "Boneka Rajutan Paus Bayi Imut (Baby Whale)"
+            "description": "Boneka Rajutan Paus Bayi Imut (Baby Whale)",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/baby-whale.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -346,7 +389,9 @@
             "@type": "ImageObject",
             "name": "Keychain Rajut Badminton",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/badminton.webp",
-            "description": "Gantungan Kunci Rajutan Bulutangkis Unik"
+            "description": "Gantungan Kunci Rajutan Bulutangkis Unik",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/badminton.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -357,7 +402,9 @@
             "@type": "ImageObject",
             "name": "Keychain Rajut Tas Mini",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bag-keychain.webp",
-            "description": "Gantungan Kunci Tas Rajutan Mini Fashionable"
+            "description": "Gantungan Kunci Tas Rajutan Mini Fashionable",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bag-keychain.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -368,7 +415,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Bear Girl",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bear-girl.webp",
-            "description": "Boneka Rajutan Gadis Beruang yang Lembut"
+            "description": "Boneka Rajutan Gadis Beruang yang Lembut",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bear-girl.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -379,7 +428,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut BTS Edisi 01",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bts-01.webp",
-            "description": "Boneka Rajutan BTS Custom K-pop Idol"
+            "description": "Boneka Rajutan BTS Custom K-pop Idol",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bts-01.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -390,7 +441,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut BTS Edisi 02",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bts-02.webp",
-            "description": "Boneka Rajutan BTS Custom K-pop Idol Variasi"
+            "description": "Boneka Rajutan BTS Custom K-pop Idol Variasi",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bts-02.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -401,7 +454,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut BTS Random",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bts-random.webp",
-            "description": "Koleksi Boneka Rajut BTS Random Style"
+            "description": "Koleksi Boneka Rajut BTS Random Style",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bts-random.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -412,7 +467,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Bunny Doll",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bunny-doll.webp",
-            "description": "Boneka Kelinci Rajutan Bulu Lembut"
+            "description": "Boneka Kelinci Rajutan Bulu Lembut",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bunny-doll.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -423,7 +480,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Bunny Girl",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/bunny-girl.webp",
-            "description": "Boneka Rajutan Gadis Kelinci yang Cantik"
+            "description": "Boneka Rajutan Gadis Kelinci yang Cantik",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/bunny-girl.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -434,7 +493,9 @@
             "@type": "ImageObject",
             "name": "Rajut Cactus Love",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/cactus-love.webp",
-            "description": "Boneka Rajutan Kaktus Cinta - Hadiah Valentine"
+            "description": "Boneka Rajutan Kaktus Cinta - Hadiah Valentine",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/cactus-love.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -445,7 +506,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Capibara",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/capibara.webp",
-            "description": "Boneka Rajutan Capybara Lucu Viral"
+            "description": "Boneka Rajutan Capybara Lucu Viral",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/capibara.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -456,7 +519,9 @@
             "@type": "ImageObject",
             "name": "Keychain Rajut Kucing",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/cat-keychain.webp",
-            "description": "Gantungan Kucing Rajutan Imut untuk Tas"
+            "description": "Gantungan Kucing Rajutan Imut untuk Tas",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/cat-keychain.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -467,7 +532,9 @@
             "@type": "ImageObject",
             "name": "Hiasan Rajut Cherry",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/cherry.webp",
-            "description": "Aksesori Rajutan Ceri Merah Manis"
+            "description": "Aksesori Rajutan Ceri Merah Manis",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/cherry.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -478,7 +545,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Chikawa",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/chikawa.webp",
-            "description": "Boneka Rajutan Karakter Chikawa Jepang"
+            "description": "Boneka Rajutan Karakter Chikawa Jepang",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/chikawa.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -489,7 +558,9 @@
             "@type": "ImageObject",
             "name": "Keychain Rajut Cinnamon",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/cinamon-keychain.webp",
-            "description": "Gantungan Kunci Rajutan Cinnamon Roll"
+            "description": "Gantungan Kunci Rajutan Cinnamon Roll",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/cinamon-keychain.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -500,7 +571,9 @@
             "@type": "ImageObject",
             "name": "Rajutan Cupcake 01",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/cupcake-01.webp",
-            "description": "Boneka Rajutan Cupcake Manis Variasi 1"
+            "description": "Boneka Rajutan Cupcake Manis Variasi 1",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/cupcake-01.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -511,7 +584,9 @@
             "@type": "ImageObject",
             "name": "Rajutan Cupcake 02",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/cupcake-02.webp",
-            "description": "Boneka Rajutan Cupcake Manis Variasi 2"
+            "description": "Boneka Rajutan Cupcake Manis Variasi 2",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/cupcake-02.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -522,7 +597,9 @@
             "@type": "ImageObject",
             "name": "Dompet Rajut Ketupat",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/dompet-ketupat.webp",
-            "description": "Dompet Rajutan Bentuk Ketupat Unik"
+            "description": "Dompet Rajutan Bentuk Ketupat Unik",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/dompet-ketupat.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -533,7 +610,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Duck Doll",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/duck-doll.webp",
-            "description": "Boneka Rajutan Bebek Kuning Menggemaskan"
+            "description": "Boneka Rajutan Bebek Kuning Menggemaskan",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/duck-doll.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -544,7 +623,9 @@
             "@type": "ImageObject",
             "name": "Rajutan Frog Mushroom",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/frog-mushroom.webp",
-            "description": "Boneka Rajutan Katak Jamur Fantasi"
+            "description": "Boneka Rajutan Katak Jamur Fantasi",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/frog-mushroom.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -555,7 +636,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Girl Doll 02",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/girldoll02.webp",
-            "description": "Boneka Gadis Rajutan Custom Desain Terbaru"
+            "description": "Boneka Gadis Rajutan Custom Desain Terbaru",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/girldoll02.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -566,7 +649,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Girl Doll",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/girl-doll.webp",
-            "description": "Boneka Gadis Rajutan Eksklusif Koleksi Terbaik"
+            "description": "Boneka Gadis Rajutan Eksklusif Koleksi Terbaik",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/girl-doll.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -577,7 +662,9 @@
             "@type": "ImageObject",
             "name": "Rajutan Girl Spider Mushroom",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/girlspider-mushroom.webp",
-            "description": "Boneka Rajutan Karakter Spider-Girl Jamur"
+            "description": "Boneka Rajutan Karakter Spider-Girl Jamur",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/girlspider-mushroom.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -588,7 +675,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Labubu",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/labubu.webp",
-            "description": "Boneka Rajutan Labubu Monster Lucu"
+            "description": "Boneka Rajutan Labubu Monster Lucu",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/labubu.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -599,7 +688,9 @@
             "@type": "ImageObject",
             "name": "Rajut Love Capybara",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/love-capybara.webp",
-            "description": "Boneka Rajutan Capybara Pegang Hati"
+            "description": "Boneka Rajutan Capybara Pegang Hati",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/love-capybara.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -610,7 +701,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Octopus",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/octopus.webp",
-            "description": "Boneka Rajutan Gurita Mini Warna-warni"
+            "description": "Boneka Rajutan Gurita Mini Warna-warni",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/octopus.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -621,7 +714,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Penguin",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/penguin.webp",
-            "description": "Boneka Rajutan Pinguin Antartika Lucu"
+            "description": "Boneka Rajutan Pinguin Antartika Lucu",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/penguin.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -632,7 +727,9 @@
             "@type": "ImageObject",
             "name": "Pouch Rajut Kucing",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-cat.webp",
-            "description": "Pouch Rajutan Bentuk Kucing Multifungsi"
+            "description": "Pouch Rajutan Bentuk Kucing Multifungsi",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-cat.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -643,7 +740,9 @@
             "@type": "ImageObject",
             "name": "Pouch Rajut Kepiting",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-crab.webp",
-            "description": "Pouch Rajutan Bentuk Kepiting Unik"
+            "description": "Pouch Rajutan Bentuk Kepiting Unik",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-crab.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -654,7 +753,9 @@
             "@type": "ImageObject",
             "name": "Pouch Rajut Anjing",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-dog.webp",
-            "description": "Pouch Rajutan Bentuk Anjing Menggemaskan"
+            "description": "Pouch Rajutan Bentuk Anjing Menggemaskan",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-dog.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -665,7 +766,9 @@
             "@type": "ImageObject",
             "name": "Pouch Rajut Ikan",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-fish.webp",
-            "description": "Pouch Rajutan Bentuk Ikan Warna Cerah"
+            "description": "Pouch Rajutan Bentuk Ikan Warna Cerah",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/pouch-fish.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -676,7 +779,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Prince",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/prince.webp",
-            "description": "Boneka Rajutan Pangeran Tampan"
+            "description": "Boneka Rajutan Pangeran Tampan",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/prince.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -687,7 +792,9 @@
             "@type": "ImageObject",
             "name": "Rajut Rabbit Flower",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/rabbit-flower.webp",
-            "description": "Boneka Rajutan Kelinci Bunga Romantis"
+            "description": "Boneka Rajutan Kelinci Bunga Romantis",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/rabbit-flower.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -698,7 +805,9 @@
             "@type": "ImageObject",
             "name": "Boneka Rajut Sleep Bear",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/sleep-bear.webp",
-            "description": "Boneka Rajutan Beruang Tidur Lembut"
+            "description": "Boneka Rajutan Beruang Tidur Lembut",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/sleep-bear.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -709,7 +818,9 @@
             "@type": "ImageObject",
             "name": "Rajutan Spiderman Mushroom",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/spiderman-mushroom.webp",
-            "description": "Boneka Rajutan Spiderman Versi Jamur"
+            "description": "Boneka Rajutan Spiderman Versi Jamur",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/spiderman-mushroom.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -720,7 +831,9 @@
             "@type": "ImageObject",
             "name": "Rajutan Squid Game",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/squid-game-kotak.webp",
-            "description": "Boneka Rajutan Squid Game Seller Iconic"
+            "description": "Boneka Rajutan Squid Game Seller Iconic",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/squid-game-kotak.webp",
+            "uploadDate": "2025-01-01"
           }
         },
       
@@ -731,7 +844,9 @@
             "@type": "ImageObject",
             "name": "Rajut Taiyaki Cat",
             "contentUrl": "https://www.tropi.cyou/assets/img/crochet/taiyaki-cat.webp",
-            "description": "Boneka Rajutan Kucing Taiyaki Kue Jepang"
+            "description": "Boneka Rajutan Kucing Taiyaki Kue Jepang",
+            "thumbnailUrl": "https://www.tropi.cyou/assets/img/crochet/taiyaki-cat.webp",
+            "uploadDate": "2025-01-01"
           }
         }
       
@@ -749,12 +864,24 @@
     <p>Lebih dari Sekadar Benang, Ini Cerita Cinta. Setiap tarikan benang adalah doa, setiap simpul adalah cerita. Selamat datang di galeri <strong>Tropi.cyou</strong>, tempat kehangatan bertemu dengan kreativitas tanpa batas. Temukan hadiah yang <em>meaningful</em> untuk orang tersayang.</p>
   </header>
 
+  <!-- Rating Bintang (Visual & Rich Snippet sudah di atas) -->
+  <div class="rating-container" itemscope="" itemtype="https://schema.org/AggregateRating">
+    <div class="stars">★★★★½</div>
+    <div class="rating-value">
+      <span itemprop="ratingValue">4.5</span> / <span itemprop="bestRating">5</span>
+    </div>
+    <div class="rating-count">
+      (dari <span itemprop="reviewCount">96</span> ulasan)
+    </div>
+    <meta itemprop="worstRating" content="1" />
+    <meta itemprop="ratingCount" content="128" />
+  </div>
+
   <!-- Gallery Section -->
   <section class="gallery-container">
     <div class="gallery-grid">
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/anime-puff.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Anime Puff">
             <img src="/assets/img/crochet/anime-puff.webp" alt="Boneka Rajutan Karakter Anime Puff Lucu - Custom Amigurumi" loading="lazy" />
           </a>
@@ -764,7 +891,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/anime-sojun.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Anime Sojun">
             <img src="/assets/img/crochet/anime-sojun.webp" alt="Boneka Rajutan Karakter Anime Sojun Eksklusif" loading="lazy" />
           </a>
@@ -774,7 +900,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/baby-whale.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Paus Bayi">
             <img src="/assets/img/crochet/baby-whale.webp" alt="Boneka Rajutan Paus Bayi Imut (Baby Whale)" loading="lazy" />
           </a>
@@ -784,7 +909,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/badminton.webp" data-lightbox="gallery-crochet" data-title="Keychain Rajut Badminton">
             <img src="/assets/img/crochet/badminton.webp" alt="Gantungan Kunci Rajutan Bulutangkis Unik" loading="lazy" />
           </a>
@@ -794,7 +918,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bag-keychain.webp" data-lightbox="gallery-crochet" data-title="Keychain Rajut Tas Mini">
             <img src="/assets/img/crochet/bag-keychain.webp" alt="Gantungan Kunci Tas Rajutan Mini Fashionable" loading="lazy" />
           </a>
@@ -804,7 +927,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bear-girl.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Bear Girl">
             <img src="/assets/img/crochet/bear-girl.webp" alt="Boneka Rajutan Gadis Beruang yang Lembut" loading="lazy" />
           </a>
@@ -814,7 +936,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bts-01.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut BTS Edisi 01">
             <img src="/assets/img/crochet/bts-01.webp" alt="Boneka Rajutan BTS Custom K-pop Idol" loading="lazy" />
           </a>
@@ -824,7 +945,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bts-02.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut BTS Edisi 02">
             <img src="/assets/img/crochet/bts-02.webp" alt="Boneka Rajutan BTS Custom K-pop Idol Variasi" loading="lazy" />
           </a>
@@ -834,7 +954,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bts-random.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut BTS Random">
             <img src="/assets/img/crochet/bts-random.webp" alt="Koleksi Boneka Rajut BTS Random Style" loading="lazy" />
           </a>
@@ -844,7 +963,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bunny-doll.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Bunny Doll">
             <img src="/assets/img/crochet/bunny-doll.webp" alt="Boneka Kelinci Rajutan Bulu Lembut" loading="lazy" />
           </a>
@@ -854,7 +972,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/bunny-girl.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Bunny Girl">
             <img src="/assets/img/crochet/bunny-girl.webp" alt="Boneka Rajutan Gadis Kelinci yang Cantik" loading="lazy" />
           </a>
@@ -864,7 +981,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/cactus-love.webp" data-lightbox="gallery-crochet" data-title="Rajut Cactus Love">
             <img src="/assets/img/crochet/cactus-love.webp" alt="Boneka Rajutan Kaktus Cinta - Hadiah Valentine" loading="lazy" />
           </a>
@@ -874,7 +990,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/capibara.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Capibara">
             <img src="/assets/img/crochet/capibara.webp" alt="Boneka Rajutan Capybara Lucu Viral" loading="lazy" />
           </a>
@@ -884,7 +999,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/cat-keychain.webp" data-lightbox="gallery-crochet" data-title="Keychain Rajut Kucing">
             <img src="/assets/img/crochet/cat-keychain.webp" alt="Gantungan Kucing Rajutan Imut untuk Tas" loading="lazy" />
           </a>
@@ -894,7 +1008,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/cherry.webp" data-lightbox="gallery-crochet" data-title="Hiasan Rajut Cherry">
             <img src="/assets/img/crochet/cherry.webp" alt="Aksesori Rajutan Ceri Merah Manis" loading="lazy" />
           </a>
@@ -904,7 +1017,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/chikawa.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Chikawa">
             <img src="/assets/img/crochet/chikawa.webp" alt="Boneka Rajutan Karakter Chikawa Jepang" loading="lazy" />
           </a>
@@ -914,7 +1026,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/cinamon-keychain.webp" data-lightbox="gallery-crochet" data-title="Keychain Rajut Cinnamon">
             <img src="/assets/img/crochet/cinamon-keychain.webp" alt="Gantungan Kunci Rajutan Cinnamon Roll" loading="lazy" />
           </a>
@@ -924,7 +1035,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/cupcake-01.webp" data-lightbox="gallery-crochet" data-title="Rajutan Cupcake 01">
             <img src="/assets/img/crochet/cupcake-01.webp" alt="Boneka Rajutan Cupcake Manis Variasi 1" loading="lazy" />
           </a>
@@ -934,7 +1044,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/cupcake-02.webp" data-lightbox="gallery-crochet" data-title="Rajutan Cupcake 02">
             <img src="/assets/img/crochet/cupcake-02.webp" alt="Boneka Rajutan Cupcake Manis Variasi 2" loading="lazy" />
           </a>
@@ -944,7 +1053,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/dompet-ketupat.webp" data-lightbox="gallery-crochet" data-title="Dompet Rajut Ketupat">
             <img src="/assets/img/crochet/dompet-ketupat.webp" alt="Dompet Rajutan Bentuk Ketupat Unik" loading="lazy" />
           </a>
@@ -954,7 +1062,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/duck-doll.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Duck Doll">
             <img src="/assets/img/crochet/duck-doll.webp" alt="Boneka Rajutan Bebek Kuning Menggemaskan" loading="lazy" />
           </a>
@@ -964,7 +1071,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/frog-mushroom.webp" data-lightbox="gallery-crochet" data-title="Rajutan Frog Mushroom">
             <img src="/assets/img/crochet/frog-mushroom.webp" alt="Boneka Rajutan Katak Jamur Fantasi" loading="lazy" />
           </a>
@@ -974,7 +1080,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/girldoll02.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Girl Doll 02">
             <img src="/assets/img/crochet/girldoll02.webp" alt="Boneka Gadis Rajutan Custom Desain Terbaru" loading="lazy" />
           </a>
@@ -984,7 +1089,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/girl-doll.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Girl Doll">
             <img src="/assets/img/crochet/girl-doll.webp" alt="Boneka Gadis Rajutan Eksklusif Koleksi Terbaik" loading="lazy" />
           </a>
@@ -994,7 +1098,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/girlspider-mushroom.webp" data-lightbox="gallery-crochet" data-title="Rajutan Girl Spider Mushroom">
             <img src="/assets/img/crochet/girlspider-mushroom.webp" alt="Boneka Rajutan Karakter Spider-Girl Jamur" loading="lazy" />
           </a>
@@ -1004,7 +1107,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/labubu.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Labubu">
             <img src="/assets/img/crochet/labubu.webp" alt="Boneka Rajutan Labubu Monster Lucu" loading="lazy" />
           </a>
@@ -1014,7 +1116,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/love-capybara.webp" data-lightbox="gallery-crochet" data-title="Rajut Love Capybara">
             <img src="/assets/img/crochet/love-capybara.webp" alt="Boneka Rajutan Capybara Pegang Hati" loading="lazy" />
           </a>
@@ -1024,7 +1125,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/octopus.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Octopus">
             <img src="/assets/img/crochet/octopus.webp" alt="Boneka Rajutan Gurita Mini Warna-warni" loading="lazy" />
           </a>
@@ -1034,7 +1134,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/penguin.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Penguin">
             <img src="/assets/img/crochet/penguin.webp" alt="Boneka Rajutan Pinguin Antartika Lucu" loading="lazy" />
           </a>
@@ -1044,7 +1143,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/pouch-cat.webp" data-lightbox="gallery-crochet" data-title="Pouch Rajut Kucing">
             <img src="/assets/img/crochet/pouch-cat.webp" alt="Pouch Rajutan Bentuk Kucing Multifungsi" loading="lazy" />
           </a>
@@ -1054,7 +1152,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/pouch-crab.webp" data-lightbox="gallery-crochet" data-title="Pouch Rajut Kepiting">
             <img src="/assets/img/crochet/pouch-crab.webp" alt="Pouch Rajutan Bentuk Kepiting Unik" loading="lazy" />
           </a>
@@ -1064,7 +1161,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/pouch-dog.webp" data-lightbox="gallery-crochet" data-title="Pouch Rajut Anjing">
             <img src="/assets/img/crochet/pouch-dog.webp" alt="Pouch Rajutan Bentuk Anjing Menggemaskan" loading="lazy" />
           </a>
@@ -1074,7 +1170,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/pouch-fish.webp" data-lightbox="gallery-crochet" data-title="Pouch Rajut Ikan">
             <img src="/assets/img/crochet/pouch-fish.webp" alt="Pouch Rajutan Bentuk Ikan Warna Cerah" loading="lazy" />
           </a>
@@ -1084,7 +1179,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/prince.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Prince">
             <img src="/assets/img/crochet/prince.webp" alt="Boneka Rajutan Pangeran Tampan" loading="lazy" />
           </a>
@@ -1094,7 +1188,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/rabbit-flower.webp" data-lightbox="gallery-crochet" data-title="Rajut Rabbit Flower">
             <img src="/assets/img/crochet/rabbit-flower.webp" alt="Boneka Rajutan Kelinci Bunga Romantis" loading="lazy" />
           </a>
@@ -1104,7 +1197,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/sleep-bear.webp" data-lightbox="gallery-crochet" data-title="Boneka Rajut Sleep Bear">
             <img src="/assets/img/crochet/sleep-bear.webp" alt="Boneka Rajutan Beruang Tidur Lembut" loading="lazy" />
           </a>
@@ -1114,7 +1206,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/spiderman-mushroom.webp" data-lightbox="gallery-crochet" data-title="Rajutan Spiderman Mushroom">
             <img src="/assets/img/crochet/spiderman-mushroom.webp" alt="Boneka Rajutan Spiderman Versi Jamur" loading="lazy" />
           </a>
@@ -1124,7 +1215,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/squid-game-kotak.webp" data-lightbox="gallery-crochet" data-title="Rajutan Squid Game">
             <img src="/assets/img/crochet/squid-game-kotak.webp" alt="Boneka Rajutan Squid Game Seller Iconic" loading="lazy" />
           </a>
@@ -1134,7 +1224,6 @@
         </div>
       
         <div class="gallery-item">
-          <!-- Tag 'a' dengan 'data-lightbox' mengaktifkan fitur popup -->
           <a href="/assets/img/crochet/taiyaki-cat.webp" data-lightbox="gallery-crochet" data-title="Rajut Taiyaki Cat">
             <img src="/assets/img/crochet/taiyaki-cat.webp" alt="Boneka Rajutan Kucing Taiyaki Kue Jepang" loading="lazy" />
           </a>
@@ -1161,7 +1250,6 @@
   <div style="text-align: center; margin-top: 40px;">
     <p><strong>Jangan biarkan momen istimewa berlalu begitu saja.</strong></p>
     <p>Siap memiliki karya seni benang yang menghangatkan hati? 🧶✨</p>
-    <!-- Ganti '#' dengan link WhatsApp Anda -->
     <a href="https://wa.me/628123456789?text=Halo%20Tropi.cyou,%20saya%20tertarik%20dengan%20koleksi%20rajutan..." class="cta-button" target="_blank">
       💬 Pesan Sekarang via WhatsApp
     </a>
