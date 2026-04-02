@@ -1,5 +1,14 @@
 ---
 title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
+layout: default
+category: kopi
+tags:
+- kopi robusta
+- kopi tubruk
+- kopi bubuk
+- kopi gunung kawi
+- kopi murni
+- oleh oleh malang
 ---
 
 <html lang="id">
@@ -8,24 +17,30 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul</title>
     <meta name="description" content="Nikmati kopi robusta dan kopi tubruk asli dari Gunung Kawi. 100% kopi murni tanpa campuran. Harga terjangkau mulai Rp15.000/100gr. Ditanam dan diproduksi langsung di kawasan Gunung Kawi.">
-    <meta name="keywords" content="kopi robusta, kopi tubruk, kopi bubuk, kopi gunung kawi, kopi murni, kopi tanpa campuran, kopi sido timbul, harga kopi bubuk, kopi robusta asli">
+    <meta name="keywords" content="kopi robusta, kopi tubruk, kopi bubuk, kopi gunung kawi, kopi murni, kopi tanpa campuran, kopi sido timbul, harga kopi bubuk, kopi robusta asli, oleh oleh malang">
     <meta name="author" content="Tropi.cyou">
-    <!-- Canonical URL (ganti dengan domain asli jika ada) -->
+    
+    <!-- Canonical URL (ganti dengan domain asli) -->
     <link rel="canonical" href="https://www.tropi.cyou/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/">
 
-    <!-- Open Graph / Facebook -->
+    <!-- Open Graph / Facebook (Perbaikan: URL absolut untuk gambar) -->
     <meta property="og:type" content="product">
     <meta property="og:title" content="Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni">
     <meta property="og:description" content="Kopi robusta & tubruk 100% murni dari Gunung Kawi. Tanpa campuran, aroma khas, rasa mantap. Dapatkan harga spesial per 100gr atau 250gr.">
-    <meta property="og:image" content="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
+    <meta property="og:image" content="https://www.tropi.cyou/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
+    <meta property="og:image:secure_url" content="https://www.tropi.cyou/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Kopi Robusta Cap Sido Timbul asli Gunung Kawi">
     <meta property="og:url" content="https://www.tropi.cyou/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/">
     <meta property="og:site_name" content="Tropi.cyou">
+    <meta property="og:locale" content="id_ID">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni">
     <meta name="twitter:description" content="Kopi murni dari Gunung Kawi, tanpa campuran. Harga ramah kantong.">
-    <meta name="twitter:image" content="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
+    <meta name="twitter:image" content="https://www.tropi.cyou/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp">
 
     <style>
         /* Reset & Base */
@@ -86,7 +101,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
             margin-bottom: 1rem;
         }
 
-        /* Rating Stars */
+        /* Rating Stars (setengah bintang) */
         .rating-stars {
             display: flex;
             justify-content: center;
@@ -97,6 +112,18 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
         .star {
             font-size: 1.6rem;
             color: #ffb43b;
+        }
+        .half-star {
+            position: relative;
+            display: inline-block;
+            font-size: 1.6rem;
+            color: #ffb43b;
+        }
+        .half-star:before {
+            content: "½";
+            position: absolute;
+            left: 0;
+            top: 0;
         }
         .rating-value {
             font-weight: bold;
@@ -213,6 +240,31 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
             font-size: 1.3rem;
         }
 
+        /* Tags & Category Styling */
+        .post-tags {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        .tag {
+            background: #e9e0d5;
+            padding: 0.2rem 0.8rem;
+            border-radius: 30px;
+            font-size: 0.7rem;
+            color: #4a2f1e;
+            text-decoration: none;
+        }
+        .category-badge {
+            background: #b45f2b;
+            color: white;
+            padding: 0.2rem 0.8rem;
+            border-radius: 30px;
+            font-size: 0.7rem;
+            display: inline-block;
+        }
+
         /* CTA Button */
         .cta-button {
             display: inline-block;
@@ -253,7 +305,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
         }
     </style>
 
-    <!-- Lightbox2 CDN (opsional untuk zoom gambar) -->
+    <!-- Lightbox2 CDN -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 </head>
 <body>
@@ -265,18 +317,27 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
             <h1>Kopi Robusta & Tubruk Asli Gunung Kawi</h1>
             <p class="subhead">Ditanam dan diproduksi langsung di kawasan <strong>Gunung Kawi</strong> — cita rasa pekat, aroma khas, dan keaslian yang terjaga. Kopi bubuk pilihan untuk penikmat sejati.</p>
             
-            <!-- Rich Snippet Rating (Visual + Schema nanti) -->
+            <!-- Tags & Category (ditampilkan di halaman) -->
+            <div class="post-tags">
+                <span class="category-badge">Kategori: Kopi</span>
+                <a href="#" class="tag">#kopirobusta</a>
+                <a href="#" class="tag">#kopitubruk</a>
+                <a href="#" class="tag">#kopigunungkawi</a>
+                <a href="#" class="tag">#kopimurni</a>
+                <a href="#" class="tag">#oleholehmalang</a>
+            </div>
+
+            <!-- Rich Snippet Rating (Visual) -->
             <div class="rating-stars">
-                <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">☆</span>
+                <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="half-star">½</span>
                 <span class="rating-value">4.5 / 5</span>
                 <span class="rating-count">(⭐ dari 120+ ulasan)</span>
             </div>
         </header>
 
-        <!-- Gallery Produk (4 gambar sesuai data) -->
+        <!-- Gallery Produk (4 gambar) -->
         <section class="gallery-container">
             <div class="gallery-grid">
-                <!-- 1. Kopi Robusta Cap Sido Timbul -->
                 <div class="gallery-item">
                     <a href="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp" data-lightbox="kopi-gallery" data-title="Kopi Robusta Cap Sido Timbul - Kemasan Eksklusif">
                         <img src="/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp" alt="Kopi Robusta Cap Sido Timbul asli Gunung Kawi kemasan premium" loading="lazy">
@@ -286,7 +347,6 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
                         <p>100% robusta murni · aroma mantap</p>
                     </div>
                 </div>
-                <!-- 2. Kopi Timbul kemasan 100gr & 250gr -->
                 <div class="gallery-item">
                     <a href="/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp" data-lightbox="kopi-gallery" data-title="Kopi Timbul varian ukuran 100gr & 250gr">
                         <img src="/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp" alt="Kopi bubuk Gunung Kawi kemasan 100 gram dan 250 gram" loading="lazy">
@@ -296,7 +356,6 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
                         <p>Pilihan ukuran ekonomis & keluarga</p>
                     </div>
                 </div>
-                <!-- 3. Kopi Tubruk -->
                 <div class="gallery-item">
                     <a href="/assets/img/kopi/kopi-tubruk.webp" data-lightbox="kopi-gallery" data-title="Kopi Tubruk khas Gunung Kawi, seduhan tradisional">
                         <img src="/assets/img/kopi/kopi-tubruk.webp" alt="Kopi Tubruk bubuk kasar khas Gunung Kawi" loading="lazy">
@@ -306,7 +365,6 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
                         <p>Gilingan khas tubruk, rasa full body</p>
                     </div>
                 </div>
-                <!-- 4. Kopi Tubruk Sido Timbul -->
                 <div class="gallery-item">
                     <a href="/assets/img/kopi/kopi-tubruk-sido-timbul.webp" data-lightbox="kopi-gallery" data-title="Kopi Tubruk Sido Timbul - Nikmat tanpa ampas berlebihan">
                         <img src="/assets/img/kopi/kopi-tubruk-sido-timbul.webp" alt="Kopi Tubruk cap Sido Timbul asli Gunung Kawi" loading="lazy">
@@ -344,7 +402,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
             <p style="margin-top: 1rem; font-weight: 500;">✨ Nikmati secangkir kehangatan asli lereng Gunung Kawi — langsung dari petani ke cangkir Anda.</p>
         </section>
 
-        <!-- Testimoni singkat + CTA -->
+        <!-- Testimoni + CTA -->
         <div style="text-align: center;">
             <p><strong>Jadikan setiap pagi lebih semangat dengan kopi murni Gunung Kawi.</strong><br> Pesan sekarang, rasakan bedanya kopi tanpa campuran!</p>
             <!-- GANTI nomor WA dengan milik penjual asli -->
@@ -361,7 +419,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
     </article>
 </div>
 
-<!-- Lightbox JS (zoom gambar) -->
+<!-- Lightbox JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 <script>
     lightbox.option({
@@ -371,23 +429,25 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
     });
 </script>
 
-<!-- SCHEMA.ORG: Product + AggregateRating (Rich Snippet untuk Google) -->
+<!-- SCHEMA.ORG: Product + AggregateRating + additionalProperty untuk tags/category -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni",
   "image": [
-    "/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp",
-    "/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp",
-    "/assets/img/kopi/kopi-tubruk.webp",
-    "/assets/img/kopi/kopi-tubruk-sido-timbul.webp"
+    "https://www.tropi.cyou/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp",
+    "https://www.tropi.cyou/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp",
+    "https://www.tropi.cyou/assets/img/kopi/kopi-tubruk.webp",
+    "https://www.tropi.cyou/assets/img/kopi/kopi-tubruk-sido-timbul.webp"
   ],
   "description": "Kopi bubuk murni dari kawasan Gunung Kawi, tersedia varian robusta dan tubruk. 100% tanpa campuran. Ditanam dan diproduksi secara tradisional.",
   "brand": {
     "@type": "Brand",
     "name": "Tropi.cyou"
   },
+  "category": "Kopi",
+  "keywords": "kopi robusta, kopi tubruk, kopi bubuk, kopi gunung kawi, kopi murni, oleh oleh malang",
   "offers": {
     "@type": "AggregateOffer",
     "lowPrice": "15000",
@@ -424,7 +484,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
 }
 </script>
 
-<!-- ItemList untuk galeri gambar (SEO tambahan) -->
+<!-- ItemList untuk galeri gambar -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -437,7 +497,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
       "position": 1,
       "item": {
         "@type": "ImageObject",
-        "contentUrl": "/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp",
+        "contentUrl": "https://www.tropi.cyou/assets/img/kopi/kopi-robusta-cap-sido-timbul.webp",
         "name": "Kopi Robusta Cap Sido Timbul"
       }
     },
@@ -446,7 +506,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
       "position": 2,
       "item": {
         "@type": "ImageObject",
-        "contentUrl": "/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp",
+        "contentUrl": "https://www.tropi.cyou/assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp",
         "name": "Kopi Timbul ukuran 100gr & 250gr"
       }
     },
@@ -455,7 +515,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
       "position": 3,
       "item": {
         "@type": "ImageObject",
-        "contentUrl": "/assets/img/kopi/kopi-tubruk.webp",
+        "contentUrl": "https://www.tropi.cyou/assets/img/kopi/kopi-tubruk.webp",
         "name": "Kopi Tubruk Asli Gunung Kawi"
       }
     },
@@ -464,7 +524,7 @@ title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
       "position": 4,
       "item": {
         "@type": "ImageObject",
-        "contentUrl": "/assets/img/kopi/kopi-tubruk-sido-timbul.webp",
+        "contentUrl": "https://www.tropi.cyou/assets/img/kopi/kopi-tubruk-sido-timbul.webp",
         "name": "Kopi Tubruk Sido Timbul"
       }
     }
