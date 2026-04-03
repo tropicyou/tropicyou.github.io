@@ -12,7 +12,7 @@ tags:
 - jahit pakaian
 - handicraft
 date: '2026-03-01 11:00:00'
-image: "/assets/img/bekas/janome-2200xt.webp"
+image: assets/img/bekas/janome-2200xt.webp
 author: Hao
 description: Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch,
   Otomatis 4 Langkah, Lampu LED, Body Aluminium. Lengkap Aksesoris. Harga 2.15 Juta

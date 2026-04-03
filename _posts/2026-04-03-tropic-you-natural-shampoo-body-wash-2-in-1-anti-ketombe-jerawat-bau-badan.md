@@ -7,6 +7,7 @@ tags:
 - organic
 - alami
 - natural
+image: assets/img/bodywash/bodywash-praktis-natural.webp
 ---
 
 <html lang="id">

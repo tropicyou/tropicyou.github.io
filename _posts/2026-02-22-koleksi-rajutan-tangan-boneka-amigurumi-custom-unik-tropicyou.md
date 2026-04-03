@@ -10,7 +10,7 @@ category_slug: gallery
 type: gallery
 description: Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik dan
   menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di Tropi.cyou!
-image: "/assets/img/crochet/girl-doll.webp"
+image: assets/img/crochet/girl-doll.webp
 keywords:
 - rajutan tangan
 - boneka amigurumi

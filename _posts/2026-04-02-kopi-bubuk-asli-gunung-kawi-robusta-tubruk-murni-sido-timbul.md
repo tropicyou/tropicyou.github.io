@@ -9,6 +9,7 @@ tags:
 - kopi gunung kawi
 - kopi murni
 - oleh oleh malang
+image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
 ---
 
 <html lang="id">
