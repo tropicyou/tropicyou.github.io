@@ -7,7 +7,7 @@ tags:
 - organic
 - alami
 - natural
-image: assets/img/bodywash/bodywash-praktis-natural.webp
+image: assets/img/bodywash/kemasan-bodywash-250-popup.webp
 ---
 
 <html lang="id">
