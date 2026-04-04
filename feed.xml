@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.tropi.cyou/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.tropi.cyou/" rel="alternate" type="text/html" hreflang="id" /><updated>2026-04-04T11:54:45+00:00</updated><id>https://www.tropi.cyou/feed.xml</id><title type="html">TropicYou</title><subtitle>Komunitas hobi dan properti di Malang. Tutorial merajut, design, dan tanah kavling.</subtitle><author><name>Admin TropicYou</name></author><entry><title type="html">Tropic You Natural Shampoo Body Wash 2 In 1 Anti Ketombe Jerawat Bau Badan</title><link href="https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/" rel="alternate" type="text/html" title="Tropic You Natural Shampoo Body Wash 2 In 1 Anti Ketombe Jerawat Bau Badan" /><published>2026-04-03T10:00:00+00:00</published><updated>2026-04-03T10:00:00+00:00</updated><id>https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan</id><content type="html" xml:base="https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/"><![CDATA[<html lang="id">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.tropi.cyou/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.tropi.cyou/" rel="alternate" type="text/html" hreflang="id" /><updated>2026-04-04T13:45:24+00:00</updated><id>https://www.tropi.cyou/feed.xml</id><title type="html">TropicYou</title><subtitle>Komunitas hobi dan properti di Malang. Tutorial merajut, design, dan tanah kavling.</subtitle><author><name>Admin TropicYou</name></author><entry><title type="html">Tropic You Natural Shampoo Body Wash 2 In 1 Anti Ketombe Jerawat Bau Badan</title><link href="https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/" rel="alternate" type="text/html" title="Tropic You Natural Shampoo Body Wash 2 In 1 Anti Ketombe Jerawat Bau Badan" /><published>2026-04-03T10:00:00+00:00</published><updated>2026-04-03T10:00:00+00:00</updated><id>https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan</id><content type="html" xml:base="https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/"><![CDATA[<html lang="id">
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Tropic You Natural Shampoo &amp; Body Wash - 2 in 1, Anti Ketombe, Jerawat &amp; Bau Badan</title>
     <meta name="description" content="Tropic You shampoo &amp; body wash alami 2 in 1. Mengandung Bio Active Sulfur, aman tanpa deterjen &amp; alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya Rp15.000/250ml." />
     <meta name="keywords" content="shampo anti ketombe alami, sabun mandi jerawat, body wash herbal, shampoo kutu rambut, sabun desinfektan alami, Tropic You, produk ramah lingkungan, sabun sulfur alami, harga shampoo 15rb, bodywash 250ml" />
@@ -27,15 +27,34 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: #f5f7fa; padding: 20px; }
-        .product-container { max-width: 1000px; margin: 0 auto; background: white; border-radius: 28px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
-        .hero { background: linear-gradient(135deg, #2b7a3e 0%, #1e5631 100%); color: white; padding: 30px 25px; text-align: center; }
+        body { 
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+            background: #f5f7fa; 
+            padding: 12px; 
+        }
+        .product-container { 
+            max-width: 1000px; 
+            width: 100%;
+            margin: 0 auto; 
+            background: white; 
+            border-radius: 28px; 
+            overflow: hidden; 
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1); 
+        }
+        .hero { background: linear-gradient(135deg, #2b7a3e 0%, #1e5631 100%); color: white; padding: 30px 20px; text-align: center; }
         .hero h1 { font-size: 28px; margin-bottom: 8px; font-weight: 800; }
         .badge { background: #ffb74d; display: inline-block; padding: 6px 14px; border-radius: 40px; font-size: 13px; font-weight: bold; margin-bottom: 12px; }
         .price { font-size: 32px; font-weight: 800; background: rgba(0,0,0,0.2); display: inline-block; padding: 6px 18px; border-radius: 40px; margin-top: 10px; }
-        .content { padding: 25px; }
-        .gallery { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 30px; }
-        .gallery img { width: calc(25% - 12px); min-width: 140px; border-radius: 16px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.2s; }
+        .content { padding: 20px; }
+        .gallery { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 30px; }
+        .gallery img { 
+            width: calc(33% - 10px); 
+            min-width: 100px; 
+            border-radius: 16px; 
+            object-fit: cover; 
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
+            transition: transform 0.2s; 
+        }
         .gallery img:hover { transform: scale(1.02); }
         .section-title { font-size: 22px; font-weight: 700; color: #1e5631; border-left: 5px solid #2b7a3e; padding-left: 15px; margin: 25px 0 15px 0; }
         .ingredient-list { background: #eef5ea; padding: 18px; border-radius: 20px; margin-bottom: 20px; }
@@ -49,7 +68,7 @@
         .cta { background: linear-gradient(135deg, #25d366, #128c7e); text-align: center; padding: 30px 20px; border-radius: 24px; margin-top: 25px; color: white; }
         .btn-wa { display: inline-flex; align-items: center; gap: 8px; background: white; color: #128c7e; padding: 12px 28px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 18px; margin-top: 12px; transition: 0.2s; }
         .btn-wa:hover { background: #f0f0f0; }
-        .post-meta { background: #f1f8e9; padding: 12px 20px; border-radius: 16px; margin: 20px 0 10px; font-size: 14px; color: #2e5c2e; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+        .post-meta { background: #f1f8e9; padding: 12px 16px; border-radius: 16px; margin: 20px 0 10px; font-size: 14px; color: #2e5c2e; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; }
         .post-meta a { color: #1b5e20; text-decoration: none; font-weight: 500; }
         .post-meta a:hover { text-decoration: underline; }
         .tags-list { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -58,9 +77,21 @@
         .comment-section h4 { margin-bottom: 12px; color: #bf360c; }
         .comment-box { width: 100%; padding: 10px; border-radius: 12px; border: 1px solid #ccc; margin-bottom: 10px; }
         .footer { background: #1e2a2e; color: #aaa; text-align: center; padding: 20px; font-size: 13px; }
+
+        /* Responsive untuk mobile */
         @media (max-width: 640px) {
-            .grid-2 { grid-template-columns: 1fr; }
-            .gallery img { width: calc(50% - 12px); }
+            body { padding: 8px; }
+            .content { padding: 15px; }
+            .grid-2 { grid-template-columns: 1fr; gap: 15px; }
+            .gallery img { width: calc(50% - 5px); min-width: 120px; }
+            .hero h1 { font-size: 24px; }
+            .price { font-size: 26px; }
+            .section-title { font-size: 20px; }
+            .post-meta { flex-direction: column; align-items: flex-start; }
+        }
+        @media (max-width: 480px) {
+            .gallery img { width: calc(50% - 5px); min-width: 100px; }
+            .hero { padding: 20px 15px; }
         }
     </style>
 </head>
@@ -177,12 +208,13 @@
     </div>
 </div>
 
-<!-- JSON-LD RICH SNIPPET LENGKAP dengan shippingDetails & hasMerchantReturnPolicy -->
+<!-- JSON-LD RICH SNIPPET LENGKAP dengan shippingDetails, hasMerchantReturnPolicy, dan url -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "Tropic You Natural Shampoo & Body Wash",
+  "url": "https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/",
   "image": [
     "https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp",
     "https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp",
@@ -255,12 +287,12 @@
     "thumbnailUrl": "https://img.youtube.com/vi/eovbpb9Z_qI/maxresdefault.jpg",
     "contentUrl": "https://www.youtube.com/watch?v=eovbpb9Z_qI",
     "embedUrl": "https://www.youtube.com/embed/eovbpb9Z_qI",
-    "uploadDate": "2025-01-15"
+    "uploadDate": "2025-01-15T00:00:00+07:00"
   }
 }
 </script>
 </body>
-</html>]]></content><author><name>Tropic You</name></author><category term="[&quot;shampo&quot;, &quot;bodywash&quot;]" /><category term="organic" /><category term="alami" /><category term="natural" /><category term="shampoo anti ketombe" /><category term="sabun jerawat" /><summary type="html"><![CDATA[Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur, aman tanpa deterjen & alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya Rp15.000/250ml.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp" /><media:content medium="image" url="https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kopi Bubuk Asli Gunung Kawi - Robusta &amp;amp; Tubruk Murni | Sido Timbul</title><link href="https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/" rel="alternate" type="text/html" title="Kopi Bubuk Asli Gunung Kawi - Robusta &amp;amp; Tubruk Murni | Sido Timbul" /><published>2026-04-02T00:00:00+00:00</published><updated>2026-04-02T00:00:00+00:00</updated><id>https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul</id><content type="html" xml:base="https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/"><![CDATA[<html lang="id">
+</html>]]></content><author><name>Tropic You</name></author><category term="[&quot;shampo&quot;, &quot;bodywash&quot;]" /><category term="organic" /><category term="alami" /><category term="natural" /><category term="shampoo anti ketombe" /><category term="sabun jerawat" /><summary type="html"><![CDATA[Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur, aman tanpa deterjen & alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya Rp15.000/250ml.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp" /><media:content medium="image" url="https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kopi Bubuk Asli Gunung Kawi - Robusta &amp;amp; Tubruk Murni | Sido Timbul</title><link href="https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/" rel="alternate" type="text/html" title="Kopi Bubuk Asli Gunung Kawi - Robusta &amp;amp; Tubruk Murni | Sido Timbul" /><published>2026-04-02T00:00:00+00:00</published><updated>2026-04-02T00:00:00+00:00</updated><id>https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul</id><content type="html" xml:base="https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/"><![CDATA[<html lang="id">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
