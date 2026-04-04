@@ -12,7 +12,7 @@ date_format: "%d %B %Y"
 lang: id # Menentukan bahasa utama website
 twitter_username: # Isi jika ada
 facebook_username: # Isi jika ada
-instagram_username: tropi.you # Contoh, sesuaikan
+instagram_username: irenenatadihardja # Contoh, sesuaikan
 github_username: # Isi jika ada
 
 # Build Settings
@@ -45,7 +45,6 @@ jekyll-archives:
   permalinks:
     category: "/categories/:name/"
     tag: "/tags/:name/"
-
 # 🔥 Daftar Plugin (Pastikan semua terinstal di Gemfile)
 plugins:
   - jekyll-archives

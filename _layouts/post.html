@@ -70,6 +70,10 @@ layout: default
                         <a class="share-btn share-btn-pinterest share-btn-5" title="{{ ui_text.share_on }} Pinterest">
                             <i class="fab fa-pinterest"></i>
                         </a>
+                        <!-- Tombol WhatsApp ditambahkan di sini -->
+                        <a class="share-btn share-btn-whatsapp" href="https://api.whatsapp.com/send?text={{ page.title | strip_html | url_encode }} - {{ page.url | absolute_url | url_encode }}" target="_blank" title="Share on WhatsApp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
                     </div>
                     {% assign cat_size = page.category | size %}
                     {% if cat_size != 0 %}

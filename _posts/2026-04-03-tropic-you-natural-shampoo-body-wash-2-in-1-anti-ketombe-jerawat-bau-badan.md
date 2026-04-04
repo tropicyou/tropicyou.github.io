@@ -1,5 +1,6 @@
 ---
 title: Tropic You Natural Shampoo Body Wash 2 In 1 Anti Ketombe Jerawat Bau Badan
+layout: post
 category:
 - shampo
 - bodywash
@@ -7,7 +8,12 @@ tags:
 - organic
 - alami
 - natural
-image: assets/img/bodywash/bodywash-praktis-natural.webp
+- shampoo anti ketombe
+- sabun jerawat
+image: https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp
+date: '2026-04-03 10:00:00'
+author: Tropic You
+description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur, aman tanpa deterjen & alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya Rp15.000/250ml.
 ---
 
 <html lang="id">
@@ -19,6 +25,23 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
     <meta name="keywords" content="shampo anti ketombe alami, sabun mandi jerawat, body wash herbal, shampoo kutu rambut, sabun desinfektan alami, Tropic You, produk ramah lingkungan, sabun sulfur alami, harga shampoo 15rb, bodywash 250ml">
     <meta name="author" content="Tropic You">
     <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:title" content="Tropic You Natural Shampoo & Body Wash - 2 in 1, Anti Ketombe, Jerawat & Bau Badan">
+    <meta property="og:description" content="Shampoo & body wash alami dengan Bio Active Sulfur. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya Rp15.000/250ml. Tanpa deterjen & alkohol.">
+    <meta property="og:image" content="https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="800">
+    <meta property="og:url" content="https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/">
+    <meta property="og:type" content="product">
+    <meta property="og:locale" content="id_ID">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Tropic You Natural Shampoo & Body Wash">
+    <meta name="twitter:description" content="2 in 1 alami: anti ketombe, kutu, jerawat, bau badan. Rp15.000/250ml.">
+    <meta name="twitter:image" content="https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp">
+
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -44,6 +67,14 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
         .cta { background: linear-gradient(135deg, #25d366, #128c7e); text-align: center; padding: 30px 20px; border-radius: 24px; margin-top: 25px; color: white; }
         .btn-wa { display: inline-flex; align-items: center; gap: 8px; background: white; color: #128c7e; padding: 12px 28px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 18px; margin-top: 12px; transition: 0.2s; }
         .btn-wa:hover { background: #f0f0f0; }
+        .post-meta { background: #f1f8e9; padding: 12px 20px; border-radius: 16px; margin: 20px 0 10px; font-size: 14px; color: #2e5c2e; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+        .post-meta a { color: #1b5e20; text-decoration: none; font-weight: 500; }
+        .post-meta a:hover { text-decoration: underline; }
+        .tags-list { display: flex; flex-wrap: wrap; gap: 6px; }
+        .tags-list span { background: #e0e0e0; padding: 4px 10px; border-radius: 20px; font-size: 12px; }
+        .comment-section { background: #fff9e6; padding: 20px; border-radius: 20px; margin: 30px 0 20px; border: 1px solid #ffe0b2; }
+        .comment-section h4 { margin-bottom: 12px; color: #bf360c; }
+        .comment-box { width: 100%; padding: 10px; border-radius: 12px; border: 1px solid #ccc; margin-bottom: 10px; }
         .footer { background: #1e2a2e; color: #aaa; text-align: center; padding: 20px; font-size: 13px; }
         @media (max-width: 640px) {
             .grid-2 { grid-template-columns: 1fr; }
@@ -61,13 +92,13 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
     </div>
 
     <div class="content">
-        <!-- GALERI GAMBAR sesuai permintaan -->
+        <!-- GALERI GAMBAR dengan URL absolut -->
         <div class="gallery">
-            <img src="/assets/img/bodywash/bodywash-praktis-natural.webp" alt="Tropic You body wash praktis alami">
-            <img src="/assets/img/bodywash/Kegunaan-Bodywash-Tropicyou.webp" alt="Kegunaan bodywash Tropic You untuk jerawat dan alergi">
-            <img src="/assets/img/bodywash/kemasan-bodywash-250-popup.webp" alt="Kemasan bodywash 250 ml Tropic You">
-            <img src="/assets/img/bodywash/shampo-bio-active-sulfur.webp" alt="Shampo bio active sulfur anti ketombe">
-            <img src="/assets/img/bodywash/shampo-natural-fresh.webp" alt="Shampo natural fresh tanpa bahan kimia">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp" alt="Tropic You body wash praktis alami">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/Kegunaan-Bodywash-Tropicyou.webp" alt="Kegunaan bodywash Tropic You untuk jerawat dan alergi">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp" alt="Kemasan bodywash 250 ml Tropic You">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/shampo-bio-active-sulfur.webp" alt="Shampo bio active sulfur anti ketombe">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/shampo-natural-fresh.webp" alt="Shampo natural fresh tanpa bahan kimia">
         </div>
 
         <!-- VIDEO YOUTUBE -->
@@ -100,7 +131,7 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
             </div>
         </div>
 
-        <!-- INGREDIENTS (sesuai permintaan) -->
+        <!-- INGREDIENTS -->
         <div class="section-title">🌱 Bahan Aktif Alami</div>
         <div class="ingredient-list">
             <ul>
@@ -132,6 +163,23 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
             <p style="margin-top: 10px;"><strong>Harga spesial hanya Rp15.000 per botol 250ml</strong> – solusi hemat untuk perawatan rambut dan tubuh sekaligus. Dapatkan di toko terdekat atau pesan langsung via WhatsApp.</p>
         </div>
 
+        <!-- POST META: Posted in & Tags (seperti file kontrakan) -->
+        <div class="post-meta">
+            <div>📌 Posted in: <a href="#">shampo</a>, <a href="#">bodywash</a></div>
+            <div class="tags-list">
+                🏷️ Tags: 
+                <span>organic</span> <span>alami</span> <span>natural</span> <span>shampoo anti ketombe</span> <span>sabun jerawat</span>
+            </div>
+        </div>
+
+        <!-- KOLOM KOMENTAR SEDERHANA (simulasi) -->
+        <div class="comment-section">
+            <h4>💬 Share your experience or question</h4>
+            <textarea class="comment-box" rows="2" placeholder="Tulis komentar Anda..."></textarea>
+            <button style="background:#2b7a3e; color:white; border:none; padding:8px 16px; border-radius:20px;">Kirim Komentar</button>
+            <p style="font-size:12px; margin-top:10px;">*Komentar akan tampil setelah disetujui.</p>
+        </div>
+
         <!-- CALL TO ACTION + WHATSAPP -->
         <div class="cta">
             <i class="material-icons" style="font-size: 36px;">shopping_cart</i>
@@ -140,7 +188,6 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
             <a href="https://wa.me/6287765451798?text=Halo%20Tropic%20You%2C%20saya%20tertarik%20dengan%20Natural%20Shampoo%20%26%20Body%20Wash%20250ml%20harga%2015rb.%20Mohon%20info%20stok%20dan%20ongkir." class="btn-wa">
                 <i class="material-icons">chat</i> Chat WhatsApp
             </a>
-            <p style="margin-top: 12px; font-size: 12px;">*Ganti nomor WhatsApp dengan milik Anda sebelum publish</p>
         </div>
     </div>
     <div class="footer">
@@ -148,16 +195,16 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
     </div>
 </div>
 
-<!-- JSON-LD RICH SNIPPET untuk SEO (Product + Video) -->
+<!-- JSON-LD RICH SNIPPET LENGKAP dengan shippingDetails & hasMerchantReturnPolicy -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "Tropic You Natural Shampoo & Body Wash",
   "image": [
-    "https://www.tropicyou.com/assets/img/bodywash/bodywash-praktis-natural.webp",
-    "https://www.tropicyou.com/assets/img/bodywash/kemasan-bodywash-250-popup.webp",
-    "https://www.tropicyou.com/assets/img/bodywash/shampo-bio-active-sulfur.webp"
+    "https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp",
+    "https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp",
+    "https://www.tropi.cyou/assets/img/bodywash/shampo-bio-active-sulfur.webp"
   ],
   "description": "Shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur, anti ketombe, anti kutu rambut, anti jerawat, hilangkan bau badan. Bebas deterjen, alkohol, pewarna. Harga Rp15.000/250ml.",
   "sku": "TY-SBW250",
@@ -167,7 +214,7 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://www.tropicyou.com/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/",
+    "url": "https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/",
     "priceCurrency": "IDR",
     "price": "15000",
     "priceValidUntil": "2027-12-31",
@@ -175,7 +222,42 @@ image: assets/img/bodywash/bodywash-praktis-natural.webp
     "seller": {
       "@type": "Organization",
       "name": "Tropic You Official"
+    },
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingRate": {
+        "@type": "MonetaryAmount",
+        "value": "15000",
+        "currency": "IDR"
+      },
+      "shippingDestination": {
+        "@type": "DefinedRegion",
+        "addressCountry": "ID"
+      },
+      "deliveryTime": {
+        "@type": "ShippingDeliveryTime",
+        "handlingTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 1,
+          "maxValue": 2,
+          "unitCode": "DAY"
+        },
+        "transitTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 2,
+          "maxValue": 5,
+          "unitCode": "DAY"
+        }
+      }
     }
+  },
+  "hasMerchantReturnPolicy": {
+    "@type": "MerchantReturnPolicy",
+    "applicableCountry": "ID",
+    "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+    "merchantReturnDays": 7,
+    "returnMethod": "https://schema.org/ReturnByMail",
+    "returnFees": "https://schema.org/FreeReturn"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

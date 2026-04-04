@@ -4,9 +4,9 @@
 
 ui_text:
   home:           "Home"
-  artikel:           "Artikel"
+  artikel:        "Artikel"
   archive:        "Archive"
-  artikel_post:      "Artikel Post"
+  artikel_post:   "Artikel Post"
   by:             "by"
   share:          "Share"
   share_on:       "Share on"
