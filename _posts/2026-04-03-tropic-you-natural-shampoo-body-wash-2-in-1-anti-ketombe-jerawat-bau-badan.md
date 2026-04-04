@@ -236,6 +236,11 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
   "@type": "Product",
   "name": "Tropic You Natural Shampoo & Body Wash",
   "url": "https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/",
+  "author": {
+    "@type": "Person",
+    "name": "Tropic You",
+    "url": "https://www.tropi.cyou/about/"
+  },
   "image": [
     "https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp",
     "https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp",
@@ -250,11 +255,6 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
   "offers": {
     "@type": "Offer",
     "url": "https://www.tropi.cyou/shampo/bodywash/2026/04/03/tropic-you-natural-shampoo-body-wash-2-in-1-anti-ketombe-jerawat-bau-badan/",
-    "author": {
-  "@type": "Person",
-  "name": "Tropic You",
-  "url": "https://www.tropi.cyou/about/"
-},
     "priceCurrency": "IDR",
     "price": "15000",
     "priceValidUntil": "2027-12-31",
