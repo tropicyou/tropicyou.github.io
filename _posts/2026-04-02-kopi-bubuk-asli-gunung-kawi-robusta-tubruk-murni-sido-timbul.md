@@ -1,5 +1,4 @@
 ---
-title: Kopi Bubuk Asli Gunung Kawi - Robusta & Tubruk Murni | Sido Timbul
 layout: default
 category: kopi
 tags:
@@ -11,7 +10,6 @@ tags:
 - oleh oleh malang
 image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
 ---
-
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -180,6 +178,41 @@ image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
         .gallery-caption p {
             font-size: 0.85rem;
             color: #8b6f56;
+        }
+
+        /* Video Container */
+        .video-promo {
+            margin: 2rem 0 3rem;
+            background: #faf1e6;
+            border-radius: 28px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        .video-promo h3 {
+            font-size: 1.6rem;
+            color: #3e2a1f;
+            margin-bottom: 0.5rem;
+        }
+        .video-promo p {
+            color: #6b4c3b;
+            margin-bottom: 1.2rem;
+        }
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+            height: 0;
+            overflow: hidden;
+            border-radius: 20px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 20px;
         }
 
         /* Features & Pricing */
@@ -377,6 +410,15 @@ image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
                 </div>
             </div>
         </section>
+
+        <!-- Video Promosi YouTube (ditambahkan) -->
+        <div class="video-promo">
+            <h3>🍃 Tonton Video Promo Kami</h3>
+            <p>Lihat bagaimana keseruan menikmati secangkir kopi asli Gunung Kawi — aroma khas, rasa mantap, 100% murni tanpa campuran.</p>
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/Up3ZJQkDvlo" title="Video Promo Kopi Gunung Kawi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
 
         <!-- Harga & Keunggulan -->
         <section class="features-section">
