@@ -17,8 +17,6 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
   aman tanpa deterjen & alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya
   Rp15.000/250ml.
 ---
-
-
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -86,6 +84,35 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
         .card h3 { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; color: #3c2a1f; }
         .video-wrapper { background: #000; border-radius: 20px; overflow: hidden; margin: 20px 0; aspect-ratio: 16/9; }
         .video-wrapper iframe { width: 100%; height: 100%; border: none; }
+        .video-shorts-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 20px 0;
+            justify-content: center;
+        }
+        .video-shorts-item {
+            flex: 1;
+            min-width: 200px;
+            background: #f0f0f0;
+            border-radius: 16px;
+            overflow: hidden;
+            text-align: center;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .video-shorts-item iframe {
+            width: 100%;
+            aspect-ratio: 9 / 16;
+            border: none;
+        }
+        .video-shorts-item a {
+            display: block;
+            padding: 8px;
+            background: #2b7a3e;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
         .cta { background: linear-gradient(135deg, #25d366, #128c7e); text-align: center; padding: 30px 20px; border-radius: 24px; margin-top: 25px; color: white; }
         .btn-wa { display: inline-flex; align-items: center; gap: 8px; background: white; color: #128c7e; padding: 12px 28px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 18px; margin-top: 12px; transition: 0.2s; }
         .btn-wa:hover { background: #f0f0f0; }
@@ -109,6 +136,7 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
             .price { font-size: 26px; }
             .section-title { font-size: 20px; }
             .post-meta { flex-direction: column; align-items: flex-start; }
+            .video-shorts-item { min-width: 150px; }
         }
         @media (max-width: 480px) {
             .gallery img { width: calc(50% - 5px); min-width: 100px; }
@@ -135,9 +163,26 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
             <img src="https://www.tropi.cyou/assets/img/bodywash/shampo-natural-fresh.webp" alt="Shampo natural fresh tanpa bahan kimia">
         </div>
 
-        <!-- VIDEO YOUTUBE -->
+        <!-- VIDEO UTAMA (YouTube) -->
         <div class="video-wrapper">
             <iframe src="https://www.youtube.com/embed/eovbpb9Z_qI" title="Tropic You Shampoo Body Wash Video" allowfullscreen></iframe>
+        </div>
+
+        <!-- TIGA VIDEO SHORTS BARU -->
+        <div class="section-title">📱 Video Pendek Tropic You</div>
+        <div class="video-shorts-grid">
+            <div class="video-shorts-item">
+                <iframe src="https://www.youtube.com/embed/bbrEDM4oxoI" title="Tropic You Short 1" allowfullscreen></iframe>
+                <a href="https://youtube.com/shorts/bbrEDM4oxoI" target="_blank">Tonton di YouTube</a>
+            </div>
+            <div class="video-shorts-item">
+                <iframe src="https://www.youtube.com/embed/ulq3f1Qq8z0" title="Tropic You Short 2" allowfullscreen></iframe>
+                <a href="https://youtube.com/shorts/ulq3f1Qq8z0" target="_blank">Tonton di YouTube</a>
+            </div>
+            <div class="video-shorts-item">
+                <iframe src="https://www.youtube.com/embed/bxJZeSN8Nv0" title="Tropic You Short 3" allowfullscreen></iframe>
+                <a href="https://youtu.be/bxJZeSN8Nv0" target="_blank">Tonton di YouTube</a>
+            </div>
         </div>
 
         <!-- RINGKASAN KHASIAT -->
@@ -229,7 +274,7 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
     </div>
 </div>
 
-<!-- JSON-LD RICH SNIPPET LENGKAP dengan shippingDetails, hasMerchantReturnPolicy, dan url -->
+<!-- JSON-LD RICH SNIPPET dengan multiple videos (termasuk shorts) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
@@ -306,15 +351,44 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
     "worstRating": "1",
     "ratingCount": "89"
   },
-  "video": {
-    "@type": "VideoObject",
-    "name": "Cara Pakai Tropic You Shampoo Body Wash",
-    "description": "Video tutorial penggunaan Tropic You untuk mengatasi ketombe, kutu rambut, dan jerawat badan.",
-    "thumbnailUrl": "https://img.youtube.com/vi/eovbpb9Z_qI/maxresdefault.jpg",
-    "contentUrl": "https://www.youtube.com/watch?v=eovbpb9Z_qI",
-    "embedUrl": "https://www.youtube.com/embed/eovbpb9Z_qI",
-    "uploadDate": "2025-01-15T00:00:00+07:00"
-  }
+  "video": [
+    {
+      "@type": "VideoObject",
+      "name": "Cara Pakai Tropic You Shampoo Body Wash",
+      "description": "Video tutorial penggunaan Tropic You untuk mengatasi ketombe, kutu rambut, dan jerawat badan.",
+      "thumbnailUrl": "https://img.youtube.com/vi/eovbpb9Z_qI/maxresdefault.jpg",
+      "contentUrl": "https://www.youtube.com/watch?v=eovbpb9Z_qI",
+      "embedUrl": "https://www.youtube.com/embed/eovbpb9Z_qI",
+      "uploadDate": "2025-01-15T00:00:00+07:00"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Tropic You Short - Manfaat Sulfur",
+      "description": "Video pendek tentang manfaat Bio Active Sulfur untuk ketombe dan jerawat.",
+      "thumbnailUrl": "https://img.youtube.com/vi/bbrEDM4oxoI/maxresdefault.jpg",
+      "contentUrl": "https://www.youtube.com/watch?v=bbrEDM4oxoI",
+      "embedUrl": "https://www.youtube.com/embed/bbrEDM4oxoI",
+      "uploadDate": "2026-04-01T00:00:00+07:00"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Tropic You Short - Cara Keramas",
+      "description": "Tutorial singkat cara menggunakan Tropic You sebagai shampoo anti kutu.",
+      "thumbnailUrl": "https://img.youtube.com/vi/ulq3f1Qq8z0/maxresdefault.jpg",
+      "contentUrl": "https://www.youtube.com/watch?v=ulq3f1Qq8z0",
+      "embedUrl": "https://www.youtube.com/embed/ulq3f1Qq8z0",
+      "uploadDate": "2026-04-02T00:00:00+07:00"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Tropic You Short - Testimoni",
+      "description": "Testimoni pengguna Tropic You untuk jerawat badan dan bau badan.",
+      "thumbnailUrl": "https://img.youtube.com/vi/bxJZeSN8Nv0/maxresdefault.jpg",
+      "contentUrl": "https://www.youtube.com/watch?v=bxJZeSN8Nv0",
+      "embedUrl": "https://www.youtube.com/embed/bxJZeSN8Nv0",
+      "uploadDate": "2026-04-03T00:00:00+07:00"
+    }
+  ]
 }
 </script>
 </body>
