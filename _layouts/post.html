@@ -102,67 +102,46 @@ layout: default
             </div>
         </div>
         
-        {% if page.previous.url or page.next.url %}
-		<nav class="navigation post-navigation">
-			<div class="nav-links">
-				{% if page.previous.url %}
-				<div class="nav-previous">
-					<a href="{{ page.previous.url | relative_url }}" title="{{ page.previous.title }}"><span class="post-nav-next post-nav-text">{{ ui_text.prev }}</span></a>
-				</div>
-				{% endif %}
-				{% if page.next.url %}
-				<div class="nav-next">
-					<a href="{{ page.next.url | relative_url }}" title="{{ page.next.title }}"><span class="post-nav-prev post-nav-text">{{ ui_text.next }}</span></a>
-				</div>
-				{% endif %}
-			</div>
-		</nav>
-		{% endif %}
-        
-        {% if site.static_comments == 'yes' %}
-<div class="post-comments">
-    <div class="title">
-        <div class="title_inner">{{ ui_text.comments }}</div>
-    </div>
-    <div class="comments">
-        <!-- Daftar komentar yang sudah disetujui -->
-        {% if page.comments %}
-            {% for c in page.comments %}
-                <div class="comment-item" style="margin-bottom: 20px;">
-                    <p><strong>{{ c.nick }}</strong> <span style="color: #666; font-size: 0.9em;">{{ c.date }}</span> berkata:</p>
-                    <div>{{ c.content | markdownify }}</div>
+                {% if page.previous.url or page.next.url %}
+        <nav class="navigation post-navigation">
+            <div class="nav-links">
+                {% if page.previous.url %}
+                <div class="nav-previous">
+                    <a href="{{ page.previous.url | relative_url }}" title="{{ page.previous.title }}"><span class="post-nav-next post-nav-text">{{ ui_text.prev }}</span></a>
                 </div>
-                <hr />
-            {% endfor %}
-        {% else %}
-            <p>Belum ada komentar. Jadilah yang pertama!</p>
+                {% endif %}
+                {% if page.next.url %}
+                <div class="nav-next">
+                    <a href="{{ page.next.url | relative_url }}" title="{{ page.next.title }}"><span class="post-nav-prev post-nav-text">{{ ui_text.next }}</span></a>
+                </div>
+                {% endif %}
+            </div>
+        </nav>
         {% endif %}
 
-        <!-- Form pengiriman komentar -->
-        <div class="comment-form" style="margin-top: 30px;">
-            <h3>Tinggalkan Komentar</h3>
-            <form method="post" action="{{ '/commentsubmit.php' | relative_url }}">
-                <input type="hidden" name="post_id" value="{{ page.url }}">
-                <p>
-                    <label for="nick">Nama:</label>
-                    <input type="text" name="nick" id="nick" required>
-                </p>
-                <p>
-                    <label for="email">Email (tidak akan dipublikasikan):</label>
-                    <input type="email" name="email" id="email">
-                </p>
-                <p>
-                    <label for="content">Komentar:</label>
-                    <textarea name="content" id="content" rows="5" required></textarea>
-                </p>
-                <p>
-                    <input type="submit" value="Kirim Komentar">
-                </p>
-            </form>
+        <!-- Kode Giscus Baru -->
+        <div class="post-comments">
+            <div class="title">
+                <div class="title_inner">{{ ui_text.comments }}</div>
+            </div>
+            <div class="comments">
+                <script src="https://giscus.app/client.js"
+                    data-repo="tropicyou/tropicyou.github.io"
+                    data-repo-id="R_kgDOHnC-TA"
+                    data-category="Announcements"
+                    data-category-id="DIC_kwDOHnC-TM4C6SWk"
+                    data-mapping="pathname"
+                    data-strict="0"
+                    data-reactions-enabled="1"
+                    data-emit-metadata="0"
+                    data-input-position="bottom"
+                    data-theme="preferred_color_scheme"
+                    data-lang="id"
+                    crossorigin="anonymous"
+                    async>
+                </script>
+            </div>
         </div>
-    </div>
-</div>
-{% endif %}
 
         <div class="clear"></div>
     </div>
