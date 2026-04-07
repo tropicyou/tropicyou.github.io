@@ -251,14 +251,6 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
             </div>
         </div>
 
-        <!-- KOLOM KOMENTAR SEDERHANA (simulasi) -->
-        <div class="comment-section">
-            <h4>💬 Share your experience or question</h4>
-            <textarea class="comment-box" rows="2" placeholder="Tulis komentar Anda..."></textarea>
-            <button style="background:#2b7a3e; color:white; border:none; padding:8px 16px; border-radius:20px;">Kirim Komentar</button>
-            <p style="font-size:12px; margin-top:10px;">*Komentar akan tampil setelah disetujui.</p>
-        </div>
-
         <!-- CALL TO ACTION + WHATSAPP -->
         <div class="cta">
             <i class="material-icons" style="font-size: 36px;">shopping_cart</i>

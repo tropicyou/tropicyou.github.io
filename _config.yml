@@ -75,3 +75,4 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
   auto_ids: true      # Automatically generate IDs for headings (good for anchor links)
+static_comments: yes

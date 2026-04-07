@@ -119,32 +119,50 @@ layout: default
 		</nav>
 		{% endif %}
         
-        {% if site.disqus_comments == 'yes' %}
-		<div class="post-comments">
-			<div class="title">
-				<div class="title_inner">{{ ui_text.comments }}</div>
-			</div>
-			<div class="comments">
-				<div id="disqus_thread"></div>
-							
-				{% if site.disqus_shortname %}
-				  <script>
-				    var disqus_config = function () {
-				      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
-				      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
-				    };
-				    (function() { /* DON'T EDIT BELOW THIS LINE */
-				      var d = document, s = d.createElement('script');
-				      s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
-				      s.setAttribute('data-timestamp', +new Date());
-				      (d.head || d.body).appendChild(s);
-				    })();
-				  </script>
-				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-				{% endif %}
-			</div>
-		</div>
-		{% endif %}
+        {% if site.static_comments == 'yes' %}
+<div class="post-comments">
+    <div class="title">
+        <div class="title_inner">{{ ui_text.comments }}</div>
+    </div>
+    <div class="comments">
+        <!-- Daftar komentar yang sudah disetujui -->
+        {% if page.comments %}
+            {% for c in page.comments %}
+                <div class="comment-item" style="margin-bottom: 20px;">
+                    <p><strong>{{ c.nick }}</strong> <span style="color: #666; font-size: 0.9em;">{{ c.date }}</span> berkata:</p>
+                    <div>{{ c.content | markdownify }}</div>
+                </div>
+                <hr />
+            {% endfor %}
+        {% else %}
+            <p>Belum ada komentar. Jadilah yang pertama!</p>
+        {% endif %}
+
+        <!-- Form pengiriman komentar -->
+        <div class="comment-form" style="margin-top: 30px;">
+            <h3>Tinggalkan Komentar</h3>
+            <form method="post" action="{{ '/commentsubmit.php' | relative_url }}">
+                <input type="hidden" name="post_id" value="{{ page.url }}">
+                <p>
+                    <label for="nick">Nama:</label>
+                    <input type="text" name="nick" id="nick" required>
+                </p>
+                <p>
+                    <label for="email">Email (tidak akan dipublikasikan):</label>
+                    <input type="email" name="email" id="email">
+                </p>
+                <p>
+                    <label for="content">Komentar:</label>
+                    <textarea name="content" id="content" rows="5" required></textarea>
+                </p>
+                <p>
+                    <input type="submit" value="Kirim Komentar">
+                </p>
+            </form>
+        </div>
+    </div>
+</div>
+{% endif %}
 
         <div class="clear"></div>
     </div>
