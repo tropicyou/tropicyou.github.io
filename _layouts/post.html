@@ -120,25 +120,43 @@ layout: default
         {% endif %}
 
         <!-- Kode Giscus Baru -->
+                <!-- Kode Giscus dengan Lazy Loading -->
         <div class="post-comments">
             <div class="title">
                 <div class="title_inner">{{ ui_text.comments }}</div>
             </div>
             <div class="comments">
-                <script src="https://giscus.app/client.js"
-                    data-repo="tropicyou/tropicyou.github.io"
-                    data-repo-id="R_kgDOHnC-TA"
-                    data-category="Announcements"
-                    data-category-id="DIC_kwDOHnC-TM4C6SWk"
-                    data-mapping="pathname"
-                    data-strict="0"
-                    data-reactions-enabled="1"
-                    data-emit-metadata="0"
-                    data-input-position="bottom"
-                    data-theme="preferred_color_scheme"
-                    data-lang="id"
-                    crossorigin="anonymous"
-                    async>
+                <details id="giscus-details">
+                    <summary>💬 Tampilkan Komentar (Giscus)</summary>
+                    <div id="giscus-container"></div>
+                </details>
+                <script>
+                    (function() {
+                        var details = document.getElementById('giscus-details');
+                        var loaded = false;
+                        details.addEventListener('toggle', function() {
+                            if (details.open && !loaded) {
+                                loaded = true;
+                                var container = document.getElementById('giscus-container');
+                                var script = document.createElement('script');
+                                script.src = 'https://giscus.app/client.js';
+                                script.setAttribute('data-repo', 'tropicyou/tropicyou.github.io');
+                                script.setAttribute('data-repo-id', 'R_kgDOHnC-TA');
+                                script.setAttribute('data-category', 'Announcements');
+                                script.setAttribute('data-category-id', 'DIC_kwDOHnC-TM4C6SWk');
+                                script.setAttribute('data-mapping', 'pathname');
+                                script.setAttribute('data-strict', '0');
+                                script.setAttribute('data-reactions-enabled', '1');
+                                script.setAttribute('data-emit-metadata', '0');
+                                script.setAttribute('data-input-position', 'bottom');
+                                script.setAttribute('data-theme', 'preferred_color_scheme');
+                                script.setAttribute('data-lang', 'id');
+                                script.setAttribute('crossorigin', 'anonymous');
+                                script.async = true;
+                                container.appendChild(script);
+                            }
+                        });
+                    })();
                 </script>
             </div>
         </div>
