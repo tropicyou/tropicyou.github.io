@@ -2,7 +2,7 @@
 title: 2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami | Tropic You
 layout: post
 category:
-- shampo
+- shampoo
 - bodywash
 tags:
 - organic
@@ -18,8 +18,8 @@ date: '2026-04-08 10:00:00 +0700'
 author: Tropic You
 description: Shampo & body wash herbal non SLS, aman untuk kutu rambut, jerawat, ketombe,
   bau badan. 2-in-1 praktis, Rp15.000/250ml.
-permalink: "/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/"
-canonical_url: https://www.tropi.cyou/shampo/bodywash/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/
+permalink: /:categories/:year/:month/:day/:title/
+canonical_url: https://www.tropi.cyou/shampoo/bodywash/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/
 keywords:
 - shampo anti ketombe alami
 - sabun mandi jerawat
@@ -172,7 +172,7 @@ keywords:
     <h2 class="section-title">✨ Khasiat Utama</h2>
     <div class="grid-2">
       <div class="card">
-        <h3><i class="material-icons" style="color:#2b7a3e;">hair</i> Sebagai Shampoo</h3>
+        <h3><i class="fas fa-hand-sparkles" style="color:#2b7a3e;"></i> Sebagai Shampoo</h3>
         <ul style="margin-left: 20px;">
           <li>✔ Menghilangkan ketombe membandel</li>
           <li>✔ Mengatasi gatal pada kulit kepala</li>
@@ -182,7 +182,7 @@ keywords:
         </ul>
       </div>
       <div class="card">
-        <h3><i class="material-icons" style="color:#2b7a3e;">bath</i> Sebagai Sabun Mandi</h3>
+        <h3><i class="fas fa-hand-sparkles" style="color:#2b7a3e;"></i> Sebagai Sabun Mandi</h3>
         <ul style="margin-left: 20px;">
           <li>✔ Mencegah & mengobati jerawat badan</li>
           <li>✔ Menghilangkan bau badan secara alami</li>
@@ -236,11 +236,11 @@ keywords:
 
     <!-- CALL TO ACTION -->
     <div class="cta">
-      <i class="material-icons" style="font-size: 36px;">shopping_cart</i>
+      <i class="fas fa-shopping-cart" style="font-size: 36px;"></i>
       <h3 style="margin: 8px 0;">Beli Sekarang – Hanya 15 Ribu!</h3>
       <p>Pemesanan langsung via WhatsApp, siap kirim ke seluruh Indonesia.</p>
       <a href="https://wa.me/6287765451798?text=Halo%20Tropic%20You%2C%20saya%20tertarik%20dengan%20Natural%20Shampoo%20%26%20Body%20Wash%20250ml%20harga%2015rb.%20Mohon%20info%20stok%20dan%20ongkir." class="btn-wa" target="_blank" rel="noopener">
-        <i class="material-icons">chat</i> Chat WhatsApp
+        <i class="fab fa-whatsapp"></i> Chat WhatsApp
       </a>
     </div>
   </div>
