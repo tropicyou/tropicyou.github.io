@@ -1,5 +1,5 @@
 ---
-title: Tropic You Natural Shampoo Body Wash 2 In 1 Anti Ketombe Jerawat Bau Badan
+title: Tropic You Natural Shampoo Herbal Body Wash 2 In 1 Anti Ketombe Jerawat Kutu Rambut.
 layout: post
 category:
 - shampo
@@ -13,7 +13,7 @@ tags:
 image: https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp
 date: '2026-04-03 10:00:00'
 author: Tropic You
-description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur,
+description: Tropic You shampoo & body wash alami. herbal Mengandung Bio Active Sulfur,
   aman tanpa deterjen & alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya
   Rp15.000/250ml.
 ---
@@ -23,7 +23,7 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Tropic You Natural Shampoo & Body Wash - 2 in 1, Anti Ketombe, Jerawat & Bau Badan</title>
     <meta name="description" content="Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur, aman tanpa deterjen & alkohol. Atasi ketombe, kutu rambut, jerawat, bau badan. Hanya Rp15.000/250ml.">
-    <meta name="keywords" content="shampo anti ketombe alami, sabun mandi jerawat, body wash herbal, shampoo kutu rambut, sabun desinfektan alami, Tropic You, produk ramah lingkungan, sabun sulfur alami, harga shampoo 15rb, bodywash 250ml">
+    <meta name="keywords" content="shampo anti ketombe alami, sabun mandi jerawat, body wash herbal, shampoo kutu rambut, sabun desinfektan alami, Tropic You, shampo non sls , sabun sulfur alami, shampoo herbal, ">
     <meta name="author" content="Tropic You">
     <meta name="robots" content="index, follow">
 
@@ -157,10 +157,10 @@ description: Tropic You shampoo & body wash alami 2 in 1. Mengandung Bio Active 
         <!-- GALERI GAMBAR dengan URL absolut -->
         <div class="gallery">
             <img src="https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp" alt="Tropic You body wash praktis alami">
-            <img src="https://www.tropi.cyou/assets/img/bodywash/Kegunaan-Bodywash-Tropicyou.webp" alt="Kegunaan bodywash Tropic You untuk jerawat dan alergi">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/Kegunaan-Bodywash-Tropicyou.webp" alt="Kegunaan bodywash Tropic You untuk jerawat dan kutu rambut">
             <img src="https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp" alt="Kemasan bodywash 250 ml Tropic You">
             <img src="https://www.tropi.cyou/assets/img/bodywash/shampo-bio-active-sulfur.webp" alt="Shampo bio active sulfur anti ketombe">
-            <img src="https://www.tropi.cyou/assets/img/bodywash/shampo-natural-fresh.webp" alt="Shampo natural fresh tanpa bahan kimia">
+            <img src="https://www.tropi.cyou/assets/img/bodywash/shampo-natural-fresh.webp" alt="Shampo alami non sls tanpa bahan kimia">
         </div>
 
         <!-- VIDEO UTAMA (YouTube) -->
