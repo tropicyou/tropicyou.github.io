@@ -18,7 +18,7 @@ date: '2026-04-08 10:00:00 +0700'
 author: Tropic You
 description: Shampo & body wash herbal non SLS, aman untuk kutu rambut, jerawat, ketombe,
   bau badan. 2-in-1 praktis, Rp15.000/250ml.
-permalink: "/shampo-body-wash-alami-anti-kutu/"
+permalink: "/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/"
 canonical_url: https://www.tropi.cyou/shampo/bodywash/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/
 keywords:
 - shampo anti ketombe alami
