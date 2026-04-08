@@ -17,6 +17,14 @@ author: Hao
 description: Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas
   Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego. Langsung Pemilik, Siap
   Huni!
+keywords:
+- rumah SHM Malang
+- rumah dijual sukun malang murah
+- jual rumah type 54 Malang
+- rumah dijual murah Malang Kota langsung pemilik
+- harga rumah type 54 Malang Kota 2026
+- rumah tanpa perantara Malang
+- rumah type 54 siap huni Malang
 ---
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

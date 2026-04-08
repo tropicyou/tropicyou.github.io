@@ -21,6 +21,14 @@ author: Irene Natadihardja
 description: Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota.
   Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam
   renang, pertanian. Hubungi pemilik!
+keywords:
+- tanah murah Malang
+- investasi tanah Malang
+- jual tanah Kota Malang
+- tanah SHM siap bangun Malang
+- lokasi tanah yang bagus di Malang?
+- tanah untuk kavling Sukun Malang
+- tanah murah strategis di Malang Kota
 ---
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
