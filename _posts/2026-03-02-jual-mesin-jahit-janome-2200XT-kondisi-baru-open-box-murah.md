@@ -354,13 +354,6 @@ description: Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch
       "@type": "Person",
       "name": "Hao"
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "20"
   }
 }
 </script>

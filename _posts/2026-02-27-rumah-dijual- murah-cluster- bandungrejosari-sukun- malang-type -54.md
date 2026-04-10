@@ -363,13 +363,6 @@ keywords:
       "@type": "Person",
       "name": "Hao"
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "25"
   }
 }
 </script>

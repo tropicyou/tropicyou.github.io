@@ -314,13 +314,6 @@ keywords:
       "name": "Hao",
       "url": "https://www.tropi.cyou/contacts-image/"  // jika ada halaman kontak/profil
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "18"
-  }
+  }  
 }
 </script>

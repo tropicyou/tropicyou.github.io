@@ -352,13 +352,6 @@ date: '2026-03-01 04:33:14'
       "@type": "Person",
       "name": "Hao"
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.5",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "12"
   }
 }
 </script>

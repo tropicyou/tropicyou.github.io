@@ -499,14 +499,6 @@ image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
     "availability": "https://schema.org/InStock",
     "offerCount": "2"
   },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.5",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "124",
-    "reviewCount": "124"
-  },
   "additionalProperty": [
     {
       "@type": "PropertyValue",

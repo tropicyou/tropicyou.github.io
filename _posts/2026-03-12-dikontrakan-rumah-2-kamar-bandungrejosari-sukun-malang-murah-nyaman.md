@@ -343,13 +343,6 @@ description: Dikontrakan rumah 2 kamar di Bandungrejosari Sukun Malang. Luas ban
       "@type": "Person",
       "name": "Hao"
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.5",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "12"
   }
 }
 </script>
