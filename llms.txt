@@ -1,5 +1,5 @@
 # www.tropi.cyou
-> Blog pribadi tentang teknologi dan pengembangan web, khususnya Jekyll dan optimasi untuk AI.
+> Bergabung dengan TropicYou – Komunitas kreatif di Malang. Temukan tutorial merajut, desain, properti tanah kavling & rumah dijual, serta produk herbal shampoo anti kutu dan body wash 2-in-1. Ada galeri rajutan custom juga.
 
 ## Semua Artikel
 Tautan di bawah mengarah ke konten Markdown mentah yang siap dibaca AI.
