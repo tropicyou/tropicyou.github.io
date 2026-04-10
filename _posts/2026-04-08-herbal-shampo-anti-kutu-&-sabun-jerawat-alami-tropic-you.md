@@ -19,7 +19,7 @@ author: Tropic You
 description: Shampo & body wash herbal non SLS, aman untuk kutu rambut, jerawat, ketombe,
   bau badan. 2-in-1 praktis, Rp15.000/250ml.
 permalink: /:categories/:year/:month/:day/:title/
-canonical_url: https://www.tropi.cyou/shampoo/bodywash/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/
+canonical_url: https://www.tropi.cyou/shampoo/bodywash/2026/04/08/herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/
 keywords:
 - shampo anti ketombe alami
 - sabun mandi jerawat
@@ -262,7 +262,7 @@ keywords:
     "https://www.tropi.cyou/assets/img/bodywash/shampo-bio-active-sulfur.webp"
   ],
   "description": "Shampoo & body wash alami 2 in 1. Mengandung Bio Active Sulfur, anti ketombe, anti kutu rambut, anti jerawat, hilangkan bau badan. Bebas deterjen, alkohol, SLS. Harga Rp15.000/250ml.",
-  "sku": "TY-SBW250",
+  "sku": "0875206064",
   "brand": {
     "@type": "Brand",
     "name": "Tropic You"
