@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 permalink: /order-confirmation/
 ---
 
@@ -7,7 +7,6 @@ permalink: /order-confirmation/
 <html>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Konfirmasi Pesanan - Tropic You</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; padding: 40px; background: #f5f7fa; margin: 0; }
@@ -15,7 +14,6 @@ permalink: /order-confirmation/
         h1 { color: #2b7a3e; }
         .detail { background: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: left; }
         .error { color: red; }
-        .warning { color: #856404; background: #fff3cd; padding: 10px; border-radius: 6px; margin-top: 15px; }
     </style>
 </head>
 <body>
@@ -31,41 +29,38 @@ permalink: /order-confirmation/
 </div>
 
 <script>
-    // Fungsi membaca parameter URL
     function getQueryParam(param) {
         const urlParams = new URLSearchParams(window.location.search);
         return urlParams.get(param);
     }
 
-    // Ambil data dari URL
     const orderId = getQueryParam('order_id');
     const customerEmail = getQueryParam('email');
     const deliveryDate = getQueryParam('delivery_date');
+    const productGtin = getQueryParam('gtin');
 
     const detailsDiv = document.getElementById('order-details');
-
-    // Tampilkan data pesanan jika lengkap
-    if (orderId && customerEmail && deliveryDate) {
+    if (orderId && customerEmail && deliveryDate && productGtin) {
         detailsDiv.innerHTML = `
             <p><strong>🆔 ID Pesanan:</strong> ${orderId}</p>
             <p><strong>📧 Email:</strong> ${customerEmail}</p>
             <p><strong>📅 Estimasi pengiriman:</strong> ${deliveryDate}</p>
+            <p><strong>🆔 ID Produk:</strong> ${productGtin}</p>
         `;
     } else {
         detailsDiv.innerHTML = `<p class="error">⚠️ Data pesanan tidak lengkap. Silakan hubungi admin.</p>`;
     }
 </script>
 
-<!-- BEGIN GCR Opt-in Module Code (hanya muncul jika data lengkap) -->
+<!-- BEGIN GCR Opt-in Module Code -->
 <script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer></script>
 <script>
-    // Ambil data dari URL sekali lagi (untuk GCR)
     const gcrOrderId = new URLSearchParams(window.location.search).get('order_id');
     const gcrEmail = new URLSearchParams(window.location.search).get('email');
     const gcrDeliveryDate = new URLSearchParams(window.location.search).get('delivery_date');
-
-    // Hanya render jika semua data tersedia
-    const hasValidData = gcrOrderId && gcrEmail && gcrDeliveryDate;
+    const gcrProductGtin = new URLSearchParams(window.location.search).get('gtin');
+    
+    const hasValidData = gcrOrderId && gcrEmail && gcrDeliveryDate && gcrProductGtin;
 
     window.renderOptIn = function() {
         if (!hasValidData) {
@@ -78,7 +73,8 @@ permalink: /order-confirmation/
                 "order_id": gcrOrderId,
                 "email": gcrEmail,
                 "delivery_country": "ID",
-                "estimated_delivery_date": gcrDeliveryDate
+                "estimated_delivery_date": gcrDeliveryDate,
+                "products": [{"gtin": gcrProductGtin}] // <-- Baris kunci: mengirim GTIN dari URL
             });
         });
     }
