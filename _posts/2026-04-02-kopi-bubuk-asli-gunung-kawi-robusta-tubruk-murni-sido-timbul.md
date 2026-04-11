@@ -20,7 +20,7 @@ image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
     <meta name="author" content="Tropi.cyou">
     
     <!-- Canonical URL (ganti dengan domain asli) -->
-    <link rel="canonical" href="https://www.tropi.cyou/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/">
+    <link rel="canonical" href="https://www.tropi.cyou/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul/">
 
     <!-- Open Graph / Facebook (Perbaikan: URL absolut untuk gambar) -->
     <meta property="og:type" content="product">
@@ -485,9 +485,10 @@ image: assets/img/kopi/kopi-timbul-kemasan-100gr-250gr.webp
     "https://www.tropi.cyou/assets/img/kopi/kopi-tubruk-sido-timbul.webp"
   ],
   "description": "Kopi bubuk murni dari kawasan Gunung Kawi, tersedia varian robusta dan tubruk. 100% tanpa campuran. Ditanam dan diproduksi secara tradisional.",
-  "brand": {
+"sku": "TY-KST100",  
+"brand": {
     "@type": "Brand",
-    "name": "Tropi.cyou"
+    "name": "Sido Timbul"
   },
   "category": "Kopi",
   "keywords": "kopi robusta, kopi tubruk, kopi bubuk, kopi gunung kawi, kopi murni, oleh oleh malang",
