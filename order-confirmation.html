@@ -7,6 +7,7 @@ permalink: /order-confirmation/
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Konfirmasi Pesanan - Tropic You</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; padding: 40px; background: #f5f7fa; margin: 0; }
@@ -14,6 +15,7 @@ permalink: /order-confirmation/
         h1 { color: #2b7a3e; }
         .detail { background: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: left; }
         .error { color: red; }
+        ul { margin: 5px 0 0 20px; }
     </style>
 </head>
 <body>
@@ -34,18 +36,29 @@ permalink: /order-confirmation/
         return urlParams.get(param);
     }
 
+    function getAllQueryParams(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.getAll(param);
+    }
+
     const orderId = getQueryParam('order_id');
     const customerEmail = getQueryParam('email');
     const deliveryDate = getQueryParam('delivery_date');
-    const productGtin = getQueryParam('gtin');
+    const productGtins = getAllQueryParams('gtin[]');  // Ambil semua GTIN dari URL
 
     const detailsDiv = document.getElementById('order-details');
-    if (orderId && customerEmail && deliveryDate && productGtin) {
+    if (orderId && customerEmail && deliveryDate && productGtins.length > 0) {
+        let productsHtml = '<p><strong>🛍️ Produk yang dibeli:</strong></p><ul>';
+        productGtins.forEach(gtin => {
+            productsHtml += `<li>${gtin}</li>`;
+        });
+        productsHtml += '</ul>';
+        
         detailsDiv.innerHTML = `
             <p><strong>🆔 ID Pesanan:</strong> ${orderId}</p>
             <p><strong>📧 Email:</strong> ${customerEmail}</p>
             <p><strong>📅 Estimasi pengiriman:</strong> ${deliveryDate}</p>
-            <p><strong>🆔 ID Produk:</strong> ${productGtin}</p>
+            ${productsHtml}
         `;
     } else {
         detailsDiv.innerHTML = `<p class="error">⚠️ Data pesanan tidak lengkap. Silakan hubungi admin.</p>`;
@@ -58,15 +71,19 @@ permalink: /order-confirmation/
     const gcrOrderId = new URLSearchParams(window.location.search).get('order_id');
     const gcrEmail = new URLSearchParams(window.location.search).get('email');
     const gcrDeliveryDate = new URLSearchParams(window.location.search).get('delivery_date');
-    const gcrProductGtin = new URLSearchParams(window.location.search).get('gtin');
+    const gcrProductGtins = new URLSearchParams(window.location.search).getAll('gtin[]');
     
-    const hasValidData = gcrOrderId && gcrEmail && gcrDeliveryDate && gcrProductGtin;
+    const hasValidData = gcrOrderId && gcrEmail && gcrDeliveryDate && gcrProductGtins.length > 0;
 
     window.renderOptIn = function() {
         if (!hasValidData) {
             console.log("Data pesanan tidak lengkap. GCR opt-in tidak dimuat.");
             return;
         }
+        
+        // Buat array products untuk GCR
+        const productsArray = gcrProductGtins.map(gtin => ({ "gtin": gtin }));
+        
         window.gapi.load('surveyoptin', function() {
             window.gapi.surveyoptin.render({
                 "merchant_id": "5763655972",
@@ -74,7 +91,7 @@ permalink: /order-confirmation/
                 "email": gcrEmail,
                 "delivery_country": "ID",
                 "estimated_delivery_date": gcrDeliveryDate,
-                "products": [{"gtin": gcrProductGtin}] // <-- Baris kunci: mengirim GTIN dari URL
+                "products": productsArray   // Kirim semua produk
             });
         });
     }
