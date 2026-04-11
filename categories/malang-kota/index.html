@@ -1160,6 +1160,17 @@
 
 
 <!-- Main -->
-<script src="/assets/js/main.js"></script></body>
+<script src="/assets/js/main.js"></script><!-- BEGIN MerchantWidget Code -->
+<script id='merchantWidgetScript' src='https://www.gstatic.com/shopping/merchant/merchantwidget.js' defer></script>
+<script>
+  merchantWidgetScript.addEventListener('load', function () {
+    merchantwidget.start({
+      merchant_id: 5763655972, // Ganti dengan Merchant ID Anda
+      position: 'RIGHT_BOTTOM' // Pilihan: 'RIGHT_BOTTOM' atau 'LEFT_BOTTOM'
+    });
+  });
+</script>
+<!-- END MerchantWidget Code -->
+  </body>
 
 </html>
