@@ -13,7 +13,7 @@ tags:
 - Jin Seung-nam
 - murah
 - original
-image: assets/img/buku/100-dasar-kegiatan-ekonomi.webp
+image: /assets/img/buku/100-dasar-kegiatan-ekonomi.webp
 date: '2026-04-11 09:00:00 +0700'
 author: Bekas Buku Store
 description: Jual buku bekas 100 Dasar Kegiatan Ekonomi karya Kim Tae-kwan, Jeon Chul-gon,
