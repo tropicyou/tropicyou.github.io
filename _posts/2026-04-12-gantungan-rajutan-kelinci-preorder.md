@@ -20,7 +20,7 @@ image: https://www.tropi.cyou/assets/img/crochet/gantungan-rajutan-hiasan-kelinc
 date: '2026-04-12 10:00:00 +0700'
 author: Rajutan Tangan Store
 description: "Preorder gantungan rajutan kelinci telinga panjang ukuran 25cm, benang big ply. Cocok untuk hiasan tas sekolah, interior mobil, atau hadiah unik. Harga Rp100.000. Video tersedia. Buatan tangan berkualitas."
-permalink: /rajutan/:year/:month/:day/:title/
+permalink: /rajutan_tangan/crochet/hadiah_unik/:year/:month/:day/:title/
 canonical_url: https://www.tropi.cyou/rajutan/2026/04/12/gantungan-rajutan-kelinci-preorder/
 keywords:
 - gantungan rajutan kelinci
