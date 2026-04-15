@@ -242,21 +242,22 @@
             <div class="content-box">
                 <div class="single-post-text">
                     <style>
-  /* Gaya CSS (sama seperti milik Anda, sudah diperbaiki sedikit) */
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { 
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
-    background: #f5f7fa; 
+    background: #f0f2f5;  /* sedikit lebih lembut dari putih */
     padding: 12px; 
+    color: #222;          /* warna teks utama yang nyaman */
+    line-height: 1.5;
   }
   .product-container { 
     max-width: 1000px; 
     width: 100%;
     margin: 0 auto; 
-    background: white; 
+    background: #ffffff; 
     border-radius: 28px; 
     overflow: hidden; 
-    box-shadow: 0 20px 40px rgba(0,0,0,0.1); 
+    box-shadow: 0 20px 40px rgba(0,0,0,0.08); 
   }
   .hero { background: linear-gradient(135deg, #2b7a3e 0%, #1e5631 100%); color: white; padding: 30px 20px; text-align: center; }
   .hero h1 { font-size: 28px; margin-bottom: 8px; font-weight: 800; }
@@ -274,12 +275,12 @@
   }
   .gallery img:hover { transform: scale(1.02); }
   .section-title { font-size: 22px; font-weight: 700; color: #1e5631; border-left: 5px solid #2b7a3e; padding-left: 15px; margin: 25px 0 15px 0; }
-  .ingredient-list { background: #eef5ea; padding: 18px; border-radius: 20px; margin-bottom: 20px; }
+  .ingredient-list { background: #eef5ea; padding: 18px; border-radius: 20px; margin-bottom: 20px; color: #2c3e2f; }
   .ingredient-list ul { list-style: none; display: flex; flex-wrap: wrap; gap: 12px; }
   .ingredient-list li { background: white; padding: 6px 14px; border-radius: 40px; font-size: 14px; font-weight: 500; color: #2b7a3e; }
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 25px; }
-  .card { background: #fef9e6; padding: 18px; border-radius: 20px; border-left: 4px solid #ffb74d; }
-  .card h3 { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; color: #3c2a1f; }
+  .card { background: #fef9e6; padding: 18px; border-radius: 20px; border-left: 4px solid #ffb74d; color: #3c2a1f; }
+  .card h3 { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; color: #2b5e2b; }
   .video-wrapper { background: #000; border-radius: 20px; overflow: hidden; margin: 20px 0; aspect-ratio: 16/9; }
   .video-wrapper iframe { width: 100%; height: 100%; border: none; }
   .video-shorts-grid {
@@ -318,8 +319,37 @@
   .post-meta a { color: #1b5e20; text-decoration: none; font-weight: 500; }
   .post-meta a:hover { text-decoration: underline; }
   .tags-list { display: flex; flex-wrap: wrap; gap: 6px; }
-  .tags-list span { background: #e0e0e0; padding: 4px 10px; border-radius: 20px; font-size: 12px; }
+  .tags-list span { background: #e0e0e0; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #222; }
   .footer { background: #1e2a2e; color: #aaa; text-align: center; padding: 20px; font-size: 13px; }
+
+  /* FAQ STYLE */
+  .faq-section {
+    background: #f9f7e8;
+    border-radius: 24px;
+    padding: 20px;
+    margin: 30px 0 20px;
+    border: 1px solid #e0d6b5;
+  }
+  .faq-question {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #2b5e2b;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .faq-answer {
+    color: #2c3e2f;
+    margin-bottom: 16px;
+    line-height: 1.6;
+  }
+  .faq-tips {
+    background: #eef5ea;
+    padding: 12px 18px;
+    border-radius: 18px;
+    margin: 12px 0;
+  }
 
   @media (max-width: 640px) {
     body { padding: 8px; }
@@ -434,6 +464,41 @@
       <p style="margin-top: 10px;">Produk ini <strong>aman untuk lingkungan</strong> karena tidak mengandung deterjen sintetis, pewarna, atau alkohol. Limbahnya mudah terurai secara alami. Tropic You juga cocok digunakan oleh pemilik kulit sensitif, anak-anak, dan orang dewasa.</p>
       <p style="margin-top: 10px;"><strong>Harga spesial hanya Rp15.000 per botol 250ml</strong> – solusi hemat untuk perawatan rambut dan tubuh sekaligus. Dapatkan di toko terdekat atau pesan langsung via WhatsApp.</p>
     </div>
+
+    <!-- ========== FAQ: FASE TRANSISI ========== -->
+    <div class="faq-section">
+      <div class="faq-question">
+        ❓ Apakah rambut akan terasa kasar saat pertama kali pakai Tropic You?
+      </div>
+      <div class="faq-answer">
+        <p>Ya, hal itu wajar dan dikenal sebagai <strong>“Fase Transisi” (Transition Phase)</strong>. Saat beralih dari sampo komersial yang mengandung <strong>silikon &amp; sulfat</strong> ke sampo alami bebas bahan kimia, rambut membutuhkan waktu adaptasi (biasanya 1–6 minggu).</p>
+        <p>Selama fase ini, rambut mungkin terasa <strong>kasar, kesat, atau berminyak tidak merata</strong> karena lapisan silikon mulai terkelupas dan kelenjar minyak kulit kepala belajar menyeimbangkan produksi sebum secara alami.</p>
+        <div class="faq-tips">
+          <strong>💡 Tips mengurangi rasa kasar selama transisi:</strong>
+          <ul style="margin-left: 20px; margin-top: 6px;">
+            <li>➡️ Gunakan <strong>conditioner alami</strong> atau bilas dengan <strong>cuka apel encer</strong> (1:10 dengan air) setelah keramas – ini menutup kutikula rambut.</li>
+            <li>➡️ Tambahkan <strong>minyak rambut ringan</strong> (misal argan, jojoba) pada ujung rambut setelah keramas.</li>
+            <li>➡️ Bersabar dan tetap rutin menggunakan sampo alami – hasil maksimal akan terasa setelah fase transisi selesai.</li>
+          </ul>
+        </div>
+        <p><strong>Kesimpulan:</strong> Rasa kasar di awal <strong>bukan berarti produk tidak cocok</strong>, melainkan proses detoksifikasi alami. Setelah melewati fase ini, rambut akan terasa lebih sehat, berkilau, dan mudah diatur.</p>
+      </div>
+    </div>
+    <!-- ========== FAQ: RASA LICIN DI LANTAI KAMAR MANDI ========== -->
+    <div class="faq-section">
+      <div class="faq-question">
+        ❓ Kenapa lantai kamar mandi terasa licin setelah pakai sabun Tropic You?
+      </div>
+      <div class="faq-answer">
+        <p><strong>Kesimpulan:</strong> Licin yang terasa di lantai kamar mandi paling dominan disebabkan oleh reaksi sabun dengan <strong>air yang mengandung banyak mineral (air sadah)</strong>, bukan karena kotoran atau minyak tubuh. Semakin tinggi kandungan mineral di air daerah Anda, semakin terasa efek licinnya.</p>
+        <div class="faq-tips">
+          <strong>💡 Apakah Ini Berbahaya?</strong><br />
+          <strong>Tidak berbahaya.</strong> Endapan ini justru menandakan sabun alami Anda bekerja dengan benar dan tidak mengandung bahan kimia sintetis seperti SLS atau pengkelat yang sengaja ditambahkan untuk mencegah reaksi tersebut (seperti pada sabun komersial). Sabun komersial sering menambahkan EDTA atau sodium citrate untuk mengikat mineral air sehingga tidak terbentuk endapan licin.
+        </div>
+      </div>
+    </div>
+    <!-- ========== END FAQ LICIN ========== -->
+    <!-- ========== END FAQ ========== -->
 
     <!-- POST META (optional, bisa dihapus jika layout sudah menampilkan tags) -->
     <div class="post-meta">
