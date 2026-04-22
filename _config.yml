@@ -1,40 +1,31 @@
-# Site Settings
-title: "TropicYou | Tutorial Rajut, Properti, & Produk Alami"
-name: "TropicYou"
-description: "Komunitas kreatif & marketplace Malang. Temukan tutorial rajut, jual beli properti & barang bekas (tanah, rumah, sepeda), produk herbal shampoo anti kutu, serta galeri rajutan custom."  # 1-2 kalimat, max 160 karakter
+title: 'TropicYou | Tutorial Rajut, Properti, & Produk Alami'
+name: TropicYou
+description: >-
+  Komunitas kreatif & marketplace Malang. Temukan tutorial rajut, jual beli
+  properti & barang bekas (tanah, rumah, sepeda), produk herbal shampoo anti
+  kutu, serta galeri rajutan custom.
 email: mail@tropi.cyou
 author: Admin TropicYou
-url: "https://www.tropi.cyou"   # Pastikan tanpa garis miring di akhir
-baseurl: ""                      # Harus kosong
-date_format: "%d %B %Y"
-
-# SEO & Social
-lang: id # Menentukan bahasa utama website
-twitter_username: # Isi jika ada
-facebook_username: # Isi jika ada
-instagram_username: irenenatadihardja # Contoh, sesuaikan
-github_username: # Isi jika ada
-
-# Build Settings
+url: 'https://www.tropi.cyou'
+baseurl: ''
+date_format: '%d %B %Y'
+lang: id
+twitter_username: null
+facebook_username: null
+instagram_username: irenenatadihardja
+github_username: null
 paginate: 5
-paginate_path: "/artikel/page:num/"
-permalink: /:categories/:year/:month/:day/:title/ # 🔥 URL lebih pendek & rapi
-
-# Comments (Jika masih relevan)
-disqus_comments: "yes"
+paginate_path: '/artikel/page:num/'
+permalink: '/:categories/:year/:month/:day/:title/'
+disqus_comments: 'yes'
 disqus_shortname: glitche-jekyll-theme
-
-# Form Submission
 formsubmit_email: mail@tropi.cyou
-
-# Collections
 collections:
   works:
     output: true
-    permalink: /:collection/:path/
+    permalink: '/:collection/:path/'
   posts:
     output: true
-# Archives Settings
 jekyll-archives:
   enabled:
     - categories
@@ -43,19 +34,16 @@ jekyll-archives:
     category: archive
     tag: archive
   permalinks:
-    category: "/categories/:name/"
-    tag: "/tags/:name/"
-# 🔥 Daftar Plugin (Pastikan semua terinstal di Gemfile)
+    category: '/categories/:name/'
+    tag: '/tags/:name/'
 plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-include: [llms.txt]
-
-# Exclude files
+include:
+  - llms.txt
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -65,14 +53,11 @@ exclude:
   - node_modules/
   - vendor/
   - README.md
-
-# SASS & Markdown
 sass:
   style: compressed
 markdown: kramdown
 kramdown:
-  input: GFM          # Use GitHub Flavored Markdown
+  input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
-  auto_ids: true      # Automatically generate IDs for headings (good for anchor links)
-
+  auto_ids: true

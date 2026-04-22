@@ -18,7 +18,7 @@ about:
     - label: Status
       value: Available / Siap Melayani
     - label: Alamat
-      value: Bandungrejosari, Sukun, Malang Jawa Timur # Disarankan lebih spesifik
+      value: Perum Bale Bale Cluster B.2 Jln Kemantren Bandungrejosari Sukun Malang Jawa timur 65147 Indonesia # Disarankan lebih spesifik
     - label: Telepon
       value: 087765451798
     - label: E-mail
@@ -228,7 +228,7 @@ contacts_info:
       value: '<a href=''mailto:mail@tropi.cyou''>mail@tropi.cyou</a>'
     - label: Alamat (Kantor / Sekretariat)
       icon: fas fa-map-marker-alt
-      value: Jln Kemantren, Bandungrejosari 65147, Kota Malang, Jawa Timur
+      value: Perum Bale Bale Cluster B.2 Jln Kemantren Bandungrejosari Sukun Malang Jawa timur 65147 Indonesia
     - label: Pesanan Rajutan
       icon: fas fa-palette
       value: 'Terima pesanan via chat (karya unik dan personal)'
