@@ -312,7 +312,7 @@ keywords:
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "Tropic You Natural & Herbal Shampoo Body Wash",
-  "url": "https://www.tropi.cyou/natural-herbal/shampo-bodywash-alami-tropic-you/",
+  "url": "https://www.tropi.cyou/shampoo/bodywash/natural/herbal/2026/04/25/shampo-herbal-body-wash-alami-tropic-you/",
   "image": [
     "https://www.tropi.cyou/assets/img/bodywash/bodywash-praktis-natural.webp",
     "https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp",
