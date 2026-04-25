@@ -22,7 +22,7 @@ date: '2026-04-25 10:00:00 +0700'
 author: Tropic You
 description: Shampo herbal & body wash alami Tropic You. Tanpa SLS, paraben, pewarna, alkohol. Aman untuk anak, ibu hamil, kulit sensitif. 2-in-1 praktis, atasi ketombe, kutu, jerawat, bau badan. Rp15.000/250ml.
 permalink: /:categories/:year/:month/:day/:title/
-canonical_url: https://www.tropi.cyou/natural-herbal/shampo-bodywash-alami-tropic-you/
+canonical_url: https://www.tropi.cyou/shampoo/bodywash/natural/herbal/2026/04/25/shampo-herbal-body-wash-alami-tropic-you/
 keywords:
 - shampoo herbal alami
 - body wash organik
