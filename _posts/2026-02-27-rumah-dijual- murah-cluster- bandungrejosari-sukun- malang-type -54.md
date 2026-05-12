@@ -1,5 +1,6 @@
 ---
 title: Rumah Dijual Murah Cluster Bandungrejosari Sukun Malang Type 54
+sticky: true
 layout: post
 category:
 - dijual

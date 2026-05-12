@@ -1,7 +1,39 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-type: personal
+layout: default
 ---
+
+<!-- BAGIAN 1: POSTINGAN UNGGULAN -->
+{% assign sticky_posts = site.posts | where: "sticky", "true" %}
+{% if sticky_posts.size > 0 %}
+  <div class="featured-section">
+    <h2>Program Unggulan Kami</h2>
+    <div class="featured-grid">
+      {% for post in sticky_posts %}
+        <div class="post featured-post">
+          <div class="image"><img src="{{ post.image }}" alt="{{ post.title }}"></div>
+          <div class="desc">
+            <div class="date">{{ post.date | date: site.date_format }}</div>
+            <a href="{{ post.url }}" class="name">{{ post.title }}</a>
+            <div class="single-post-text">{{ post.excerpt }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <hr class="separator">
+{% endif %}
+
+<!-- BAGIAN 2: POSTINGAN BIASA (SEMUA) -->
+<div class="artikel-items">
+  {% for post in site.posts %}
+    {% unless post.sticky %}
+      <div class="artikel-col">
+        <div class="artikel-item content-box">
+          <div class="post">
+            <!-- ... struktur awal untuk menampilkan postingan seperti semula ... -->
+          </div>
+        </div>
+      </div>
+    {% endunless %}
+  {% endfor %}
+</div>

@@ -1,6 +1,6 @@
 ---
-title: Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang
-  Kota
+title: Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota
+sticky: true
 layout: post
 category:
 - dijual
