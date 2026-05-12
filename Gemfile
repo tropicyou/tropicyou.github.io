@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.3.4"
 
 group :jekyll_plugins do
   gem "jekyll-archives"
@@ -16,4 +16,4 @@ end
 gem "csv"
 gem "bigdecimal"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
