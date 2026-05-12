@@ -1,57 +1,67 @@
-# www.tropi.cyou
-> Bergabung dengan TropicYou – Komunitas kreatif di Malang. Temukan tutorial merajut, desain, properti tanah kavling & rumah dijual, serta produk herbal shampoo anti kutu dan body wash 2-in-1. Ada galeri rajutan custom juga.
+# TropicYou | Tutorial Rajut, Properti, & Produk Alami
 
-## Semua Artikel
-Tautan di bawah mengarah ke konten Markdown mentah yang siap dibaca AI.
+> Komunitas kreatif & marketplace Malang. Temukan tutorial rajut, jual beli properti & barang bekas (tanah, rumah, sepeda), produk herbal shampoo alami, serta galeri rajutan custom.
 
+- [llms-full.txt](/llms-full.txt): Complete contents of all pages
 
-- [Shampo Herbal & Body Wash Alami Tropic You - Bebas Bahan Kimia, Aman untuk Semua Usia](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-25-shampo-herbal-body-wash-alami-tropic-you.md)
+## Pages
 
-- [Koleksi Preorder Rajutan Tangan – Dompet Earphone, Gurita, Keychain Robin, Bebek, Rapunzel – Mulai Rp20.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-19-koleksi-crochet-preorder.md)
+- [404.html](/404.md)
+- [About](/about.md)
+- [Contacts](/contacts-image.md)
+- [Contacts](/contacts-map.md)
+- [Contacts](/contacts.md)
+- [Index Default](/index-default.md)
+- [Index Image](/index-image.md)
+- [Index Slider](/index-slider.md)
+- [Index Video](/index-video.md)
+- [Artikel](/artikel.md)
+- [Untitled](/index.md)
+- [Order Confirmation](/order-confirmation.md)
+- [Portfolio](/portfolio.md)
+- [Resume](/resume-image.md)
+- [Resume](/resume.md)
+- [Kebijakan Pengembalian Barang & Refund | TropicYou](/return-policy.md): Kebijakan pengembalian barang dan refund untuk pembelian properti, produk herbal, dan barang lainnya di TropicYou. Baca syarat dan ketentuan sebelum membeli.
+- [Artikel](/artikel/page2.md)
+- [Artikel](/artikel/page3.md)
+- [Artikel](/artikel/page4.md)
+- [Artikel](/artikel/page5.md)
 
-- [Preorder Gantungan Rajutan Kelinci Telinga Panjang – Big Ply 25cm – Hiasan Tas & Mobil – Rp100.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-12-gantungan-rajutan-kelinci-preorder.md)
+## Blog Posts
 
-- [Preorder Gantungan Rajutan Octopus – Hiasan Tas & Mobil – Rajutan Tangan Big Ply – Rp100.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-12-gantungan-rajutan-octopus-preorder.md)
+- [Mengenal Unsur Hara Pupuk NPK dan Pengaruhnya Terhadap Tanaman](/pupuk/2020/07/20/mengenal-unsur-hara-pupuk-npk-dan-pengaruhnya-terhadap-tanaman.md)
+- [Pertanian Organik Membuat Tanah yang Sehat](/pertanian/2022/07/07/pertanian-organik-membuat-tanah-yang-sehat.md)
+- [Burger Organic TropicYou](/jajanan/2023/01/16/burger-organic-tropicyou.md)
+- [Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota](/dijual/tanah/kavling/2026/02/17/di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun.md): Tanah untuk kavling 790 m² SHM di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan, ada greenhouse 6x12, sumur bor, gazebo. Cocok investasi, kolam renang, pertanian. Hubungi pemilik!
+- [Koleksi Rajutan Tangan & Boneka Amigurumi Custom Unik | Tropi.cyou](/galeri/rajutan_tangan/crochet/hadiah_unik/2026/02/22/koleksi-rajutan-tangan-boneka-amigurumi-custom-unik-tropicyou.md): Temukan koleksi rajutan tangan & boneka amigurumi custom yang unik dan menghangatkan hati. Hadiah terbaik untuk orang tersayang. Pesan sekarang di Tropi.cyou!
+- [Rumah Dijual Murah Cluster Bandungrejosari Sukun Malang Type 54](/dijual/rumah/malang_kota/2026/02/27/rumah-dijual-murah-cluster-bandungrejosari-sukun-malang-type-54.md): Dijual Rumah Type 54 di Cluster Bandungrejosari, Sukun, Malang. Luas Tanah 96m², SHM, 2 KT, 1 KM, Carport. Harga 650 Juta Nego. Langsung Pemilik, Siap Huni!
+- [Rumah Dijual Sukun Permai Malang - Luas 223m²](/dijual/rumah/malang_kota/2026/02/27/rumah-dijual-sukun-permai-malang-luas-223m.md): Dijual Rumah Mewah di Sukun Permai, Malang. Luas Tanah 223m², LB 250m², SHM, 4 KT, 4 KM, 2 Garasi. Harga 2,2 Miliar Nego. Lingkungan Aman & Nyaman.
+- [Jual Sepeda Mtb 20 Pacific X Cross 20 Full Suspension Bekas Murah](/dijual/sepeda/bekas/2026/03/01/jual-sepeda-mtb-20-pacific-x-cross-20-full-suspension-bekas-murah.md): Dijual Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas. Frame
+  Hi-Ten, Disc Brake, Shimano 7 Speed. Kondisi Bagus. Harga 1.2 Juta Nego. Langsung
+  Pemilik!
+- [Jual Mesin Jahit Janome 2200XT Kondisi Baru Open Box Murah](/dijual/elektronik/rumah_tangga/2026/03/01/jual-mesin-jahit-janome-2200XT-kondisi-baru-open-box-murah.md): Dijual Mesin Jahit Janome 2200XT Kondisi Baru (Open Box). 22 Stitch, Otomatis 4 Langkah, Lampu LED, Body Aluminium. Lengkap Aksesoris. Harga 2.15 Juta Nego.
+- [Kontrakan Murah 2 Kamar Bandungrejosari Sukun Malang - Sewa 8 Juta/Tahun](/kontrakan/sewa/malang_kota/2026/03/14/dikontrakan-rumah-2-kamar-bandungrejosari-sukun-malang-murah-nyaman.md): Dikontrakan rumah 2 kamar di Bandungrejosari Sukun Malang. Luas bangunan 31.5m², listrik 900VA, air sumur sanyo. Harga 8 juta/tahun. Lingkungan tenang, dekat fasilitas.
+- [Kopi Bubuk Asli Gunung Kawi Robusta Tubruk Murni Sido Timbul](/kopi/2026/04/02/kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul.md)
+- [2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami | Tropic You](/shampoo/bodywash/2026/04/08/herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you.md): Shampo & body wash herbal non SLS, aman untuk kutu rambut, jerawat, ketombe,bau badan. 2-in-1 praktis, Rp15.000/250ml.
+- [Jual Buku Bekas 100 Dasar Kegiatan Ekonomi – Kim Tae-kwan dkk – Harga Rp60.500](/buku/bekas/2026/04/11/100-dasar-kegiatan-ekonomi-bekas.md): Jual buku bekas 100 Dasar Kegiatan Ekonomi karya Kim Tae-kwan, Jeon Chul-gon, Jin Seung-nam. Kondisi bagus, halaman lengkap, harga hemat Rp60.500. Cocok untuk mahasiswa dan umum.
+- [Jual Buku Bekas Artist Acro – Sakurai Ato – Harga Rp7.000](/buku/bekas/manga/2026/04/11/artist-acro-sakurai-ato-bekas.md): Jual buku bekas Artist Acro karya Sakurai Ato. Kondisi masih bagus, halaman lengkap, harga super hemat hanya Rp7.000. Cocok untuk kolektor komik dan pembaca ringan.
+- [Jual Buku Bekas Doraemon Giant & Nobita Graffiti – Fujiko F. Fujio – Elex Media – Harga Rp36.000/buku](/buku/bekas/2026/04/11/doraemon-giant-nobita-graffiti-bekas.md): Jual buku bekas Doraemon Giant dan Doraemon Nobita Graffiti karya Fujiko F. Fujio, penerbit Elex Media Komputindo. Kondisi bagus, halaman lengkap. Hanya Rp36.000 per buku. Beli satu atau dua sekaligus.
+- [Jual Buku Bekas Kasus Terakhir (The Final Problem) – Sherlock Holmes – Elex Media – Harga Rp36.000](/buku/bekas/2026/04/11/kasus-terakhir-the-final-problem-bekas.md): Jual buku bekas Kasus Terakhir (The Final Problem) – adaptasi Sherlock Holmes karya Arthur Conan Doyle. Penerbit Elex Media Komputindo. Kondisi bagus, halaman lengkap. Hanya Rp36.000. Cocok untuk penggemar misteri.
+- [Jual Buku Bekas Motion and Energy 3 – Science Adventure – Perpindahan Panas & Rangkaian Listrik – Elex Media – Rp37.000](/buku/bekas/2026/04/11/motion-and-energy-3-science-adventure-bekas.md): Jual buku bekas Motion and Energy 3 – Science Adventure. Materi perpindahan panas dan rangkaian listrik. Penerbit Elex Media Komputindo. Kondisi bagus, halaman lengkap. Harga Rp37.000. Cocok untuk pelajar SD/SMP.
+- [Jual Buku Bekas Sains Eksperimen Sherlock Holmes – Penjahat Kelas Kakap (Charles Augustus Milverton) – Elex Media – Hanya Rp36.000](/buku/bekas/2026/04/11/penjahat-kelas-kakap-sains-eksperimen-sherlock-holmes-bekas.md): Jual buku bekas Sains Eksperimen Sherlock Holmes Volume 9 Penjahat Kelas Kakap (Charles Augustus Milverton). Penerbit Elex Media Komputindo. Berisi cerita detektif + eksperimen sains seru prinsip balon udara, cara kerja lift, & percobaan api dari bungkus permen + baterai. Harga Rp36.000.
+- [Jual 3 Buku Bekas Suprising Science – Atom & Molekul, Hukum Dasar Kimia, Virus – Masing-masing Rp60.500](/buku/bekas/2026/04/11/suprising-science-3-buku-atom-hukum-virus-bekas.md): Jual buku bekas seri Suprising Science Atom & Molekul, Hukum Dasar Kimia, Virus. Penulis Lee Hye Young, Lee Jin Hee, Jeon Mi Wha, Lee Kyeong Min, Kim Ji Ae, Kim Ju Hee. Kondisi bagus, halaman lengkap. Harga Rp60.500 per buku. Cocok untuk pelajar dan mahasiswa sains.
+- [Jual Koleksi Buku Bekas Twin Spica – Kou Yaginuma – Volume 3, 7, 8, 11 – Harga Mulai Rp5.000](/buku/bekas/2026/04/11/twin-spica-koleksi-3-7-8-11-bekas.md): Jual koleksi buku bekas Twin Spica karya Kou Yaginuma. Tersedia volume 3, 7, 8, 11. Kondisi bervariasi volume 7 & 8 minus halaman hilang (harga Rp5.000), volume 3 & 11 utuh (harga Rp10.000). Cocok untuk kolektor dan penggemar manga.
+- [Jual Koleksi Buku Bekas Why? – Komik Sains Elex Media – 10 Judul – Harga Mulai Rp70.000](/buku/bekas/2026/04/11/koleksi-buku-why-elex-media-bekas.md): Jual koleksi buku bekas seri Why? (Elex Media Komputindo) – komik sains populer. Tersedia 10 judul Gua, Pakaian & Fashion, Virus Komputer, Keselamatan Sehari-hari, Happy Math Tahun 2, Mengenal Manusia, Albert Schweitzer, Sains di Lingkungan Hidup, Survival Science, Tubuh Manusia. Harga bervariasi Rp70.000–Rp105.000. Beberapa buku minus coretan. Cocok untuk kolektor dan pelajar.
+- [Preorder Gantungan Rajutan Octopus – Hiasan Tas & Mobil – Rajutan Tangan Big Ply – Rp100.000](/rajutan_tangan/crochet/hadiah_unik/2026/04/12/gantungan-rajutan-octopus-preorder.md): Preorder gantungan hiasan rajutan pola octopus (gurita) ukuran 12cm, benang big ply. Cocok untuk hiasan tas sekolah, interior mobil, atau hadiah unik. Harga Rp100.000. Video tutorial tersedia. Buatan tangan berkualitas.
+- [Preorder Gantungan Rajutan Kelinci Telinga Panjang – Big Ply 25cm – Hiasan Tas & Mobil – Rp100.000](/rajutan_tangan/crochet/hadiah_unik/2026/04/12/gantungan-rajutan-kelinci-preorder.md): Preorder gantungan rajutan kelinci telinga panjang ukuran 25cm, benang big ply. Cocok untuk hiasan tas sekolah, interior mobil, atau hadiah unik. Harga Rp100.000. Video tersedia. Buatan tangan berkualitas.
+- [Koleksi Preorder Rajutan Tangan – Dompet Earphone, Gurita, Keychain Robin, Bebek, Rapunzel – Mulai Rp20.000](/rajutan_tangan/crochet/hadiah_unik/2026/04/19/koleksi-crochet-preorder.md): Koleksi preorder rajutan tangan: Dompet Earphone (Rp20.000), Gurita Pink (Rp20.000), Keychain Cewe Robin (Rp35.000), Rajutan Anak Bebek (Rp25.000), Rapunzel (Rp35.000). Buatan tangan berkualitas, video preview tersedia. Pesan via WhatsApp 087765451798.
+- [Shampo Herbal & Body Wash Alami Tropic You - Bebas Bahan Kimia, Aman untuk Semua Usia](/shampoo/bodywash/natural/herbal/2026/04/25/shampo-herbal-body-wash-alami-tropic-you.md): Shampo herbal & body wash alami Tropic You. Tanpa SLS, paraben, pewarna, alkohol. Aman untuk anak, ibu hamil, kulit sensitif. 2-in-1 praktis, atasi ketombe, kutu, jerawat, bau badan. Rp15.000/250ml.
 
-- [Jual Koleksi Buku Bekas Why? – Komik Sains Elex Media – 10 Judul – Harga Mulai Rp70.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-koleksi-buku-why-elex-media-bekas.md)
+## Works
 
-- [Jual Koleksi Buku Bekas Twin Spica – Kou Yaginuma – Volume 3, 7, 8, 11 – Harga Mulai Rp5.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-twin-spica-koleksi-3-7-8-11-bekas.md)
-
-- [Jual 3 Buku Bekas Suprising Science – Atom & Molekul, Hukum Dasar Kimia, Virus – Masing-masing Rp60.500](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-suprising-science-3-buku-atom-hukum-virus-bekas.md)
-
-- [Jual Buku Bekas Sains Eksperimen Sherlock Holmes – Penjahat Kelas Kakap (Charles Augustus Milverton) – Elex Media – Hanya Rp36.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-penjahat-kelas-kakap-sains-eksperimen-sherlock-holmes-bekas.md)
-
-- [Jual Buku Bekas Motion and Energy 3 – Science Adventure – Perpindahan Panas & Rangkaian Listrik – Elex Media – Rp37.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-motion-and-energy-3-science-adventure-bekas.md)
-
-- [Jual Buku Bekas Kasus Terakhir (The Final Problem) – Sherlock Holmes – Elex Media – Harga Rp36.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-kasus-terakhir-the-final-problem-bekas.md)
-
-- [Jual Buku Bekas Doraemon Giant & Nobita Graffiti – Fujiko F. Fujio – Elex Media – Harga Rp36.000/buku](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-doraemon-giant-nobita-graffiti-bekas.md)
-
-- [Jual Buku Bekas Artist Acro – Sakurai Ato – Harga Rp7.000](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-artist-acro-sakurai-ato-bekas.md)
-
-- [Jual Buku Bekas 100 Dasar Kegiatan Ekonomi – Kim Tae-kwan dkk – Harga Rp60.500](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-11-100-dasar-kegiatan-ekonomi-bekas.md)
-
-- [2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami | Tropic You](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-08-herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you.md)
-
-- [Kopi Bubuk Asli Gunung Kawi Robusta Tubruk Murni Sido Timbul](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-04-02-kopi-bubuk-asli-gunung-kawi-robusta-tubruk-murni-sido-timbul.md)
-
-- [Kontrakan Murah 2 Kamar Bandungrejosari Sukun Malang - Sewa 8 Juta/Tahun](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-03-12-dikontrakan-rumah-2-kamar-bandungrejosari-sukun-malang-murah-nyaman.md)
-
-- [Jual Mesin Jahit Janome 2200XT Kondisi Baru Open Box Murah](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-03-02-jual-mesin-jahit-janome-2200XT-kondisi-baru-open-box-murah.md)
-
-- [Jual Sepeda Mtb 20 Pacific X Cross 20 Full Suspension Bekas Murah](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-03-02-jual-sepeda-mtb-20-pacific-x-cross-20-full-suspension-bekas-murah.md)
-
-- [Rumah Dijual Sukun Permai Malang - Luas 223m²](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-03-01-rumah-dijual-sukun-permai-malang-luas-223m.md)
-
-- [Rumah Dijual Murah Cluster Bandungrejosari Sukun Malang Type 54](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-02-27-rumah-dijual- murah-cluster- bandungrejosari-sukun- malang-type -54.md)
-
-- [Koleksi Rajutan Tangan & Boneka Amigurumi Custom Unik | Tropi.cyou](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-02-22-koleksi-rajutan-tangan-boneka-amigurumi-custom-unik-tropicyou.md)
-
-- [Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2026-02-16-di-jual-tanah-untuk-kavling-strategis-di-malang-kota-siap-bangun.md)
-
-- [Burger Organic TropicYou](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2023-01-16-burger-organic-tropicyou.md)
-
-- [Pertanian Organik Membuat Tanah yang Sehat](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2022-07-07-pertanian-organik-membuat-tanah-yang-sehat.md)
-
-- [Mengenal Unsur Hara Pupuk NPK dan Pengaruhnya Terhadap Tanaman](https://raw.githubusercontent.com/tropicyou/tropicyou.github.io/refs/heads/main/_posts/2020-07-20-mengenal-unsur-hara-pupuk-npk-dan-pengaruhnya-terhadap-tanaman.md)
-
+- [Green House Organik](/works/green-house-organik.md)
+- [Portfolio Seni Alvida: Karya Sekolah](/works/ilustration.md)
+- [Rajutan Custom (Crochet)](/works/rajutan-custom.md)
+- [Resep Kuliner Nusantara](/works/resep-kuliner-nusantara.md)
+- [Suasana Lahan](/works/suasana-lahan.md)
+- [Tanah Untuk Kavling Malang Kota](/works/tanah-kavling-malang.md)

@@ -1,0 +1,98 @@
+> Last updated: 2026-05-12
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Konfirmasi Pesanan - Tropic You</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 40px; background: #f5f7fa; margin: 0; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #2b7a3e; }
+        .detail { background: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: left; }
+        .error { color: red; }
+        ul { margin: 5px 0 0 20px; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>✅ Terima kasih, pesanan Anda telah kami terima!</h1>
+    <p>Kami akan memproses pesanan Anda dalam 1x24 jam.</p>
+    
+    <div id="order-details" class="detail">
+        <p>Memuat detail pesanan...</p>
+    </div>
+
+    <p>Bukti pembayaran dapat dikirim ke WhatsApp <strong>0877-6545-1798</strong></p>
+</div>
+
+<script>
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    function getAllQueryParams(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.getAll(param);
+    }
+
+    const orderId = getQueryParam('order_id');
+    const customerEmail = getQueryParam('email');
+    const deliveryDate = getQueryParam('delivery_date');
+    const productGtins = getAllQueryParams('gtin[]');  // Ambil semua GTIN dari URL
+
+    const detailsDiv = document.getElementById('order-details');
+    if (orderId && customerEmail && deliveryDate && productGtins.length > 0) {
+        let productsHtml = '<p><strong>🛍️ Produk yang dibeli:</strong></p><ul>';
+        productGtins.forEach(gtin => {
+            productsHtml += `<li>${gtin}</li>`;
+        });
+        productsHtml += '</ul>';
+        
+        detailsDiv.innerHTML = `
+            <p><strong>🆔 ID Pesanan:</strong> ${orderId}</p>
+            <p><strong>📧 Email:</strong> ${customerEmail}</p>
+            <p><strong>📅 Estimasi pengiriman:</strong> ${deliveryDate}</p>
+            ${productsHtml}
+        `;
+    } else {
+        detailsDiv.innerHTML = `<p class="error">⚠️ Data pesanan tidak lengkap. Silakan hubungi admin.</p>`;
+    }
+</script>
+
+<!-- BEGIN GCR Opt-in Module Code -->
+<script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer></script>
+<script>
+    const gcrOrderId = new URLSearchParams(window.location.search).get('order_id');
+    const gcrEmail = new URLSearchParams(window.location.search).get('email');
+    const gcrDeliveryDate = new URLSearchParams(window.location.search).get('delivery_date');
+    const gcrProductGtins = new URLSearchParams(window.location.search).getAll('gtin[]');
+    
+    const hasValidData = gcrOrderId && gcrEmail && gcrDeliveryDate && gcrProductGtins.length > 0;
+
+    window.renderOptIn = function() {
+        if (!hasValidData) {
+            console.log("Data pesanan tidak lengkap. GCR opt-in tidak dimuat.");
+            return;
+        }
+        
+        // Buat array products untuk GCR
+        const productsArray = gcrProductGtins.map(gtin => ({ "gtin": gtin }));
+        
+        window.gapi.load('surveyoptin', function() {
+            window.gapi.surveyoptin.render({
+                "merchant_id": "5763655972",
+                "order_id": gcrOrderId,
+                "email": gcrEmail,
+                "delivery_country": "ID",
+                "estimated_delivery_date": gcrDeliveryDate,
+                "products": productsArray   // Kirim semua produk
+            });
+        });
+    }
+</script>
+<!-- END GCR Opt-in Module Code -->
+</body>
+</html>
