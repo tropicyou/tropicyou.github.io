@@ -1,4 +1,4 @@
-> Last updated: 2026-05-12
+> Last updated: 2026-06-20
 
 ## Program Unggulan Kami
 
@@ -16,6 +16,11 @@
 
 27 February 2026
 [Rumah Dijual Murah Cluster Bandungrejosari Sukun Malang Type 54](/dijual/rumah/malang_kota/2026/02/27/rumah-dijual-murah-cluster-bandungrejosari-sukun-malang-type-54/)
+
+ ![Investasi Aman di Malang Kota – Tanah Kavling 790 m² SHM, Strategis, Siap Bangun](assets/img/rumah/arah_timur.webp)
+
+17 February 2026
+[Investasi Aman di Malang Kota – Tanah Kavling 790 m² SHM, Strategis, Siap Bangun](/dijual/tanah/kavling/malang_kota/2026/02/17/investasi-aman-di-malang-kota-tanah-kavling-790-shm-siap-bangun/)
 
  ![Jual Tanah Kavling Strategis Siap Bangun di Bandungrejosari, Sukun, Malang Kota](assets/img/rumah/arah_timur.webp)
 

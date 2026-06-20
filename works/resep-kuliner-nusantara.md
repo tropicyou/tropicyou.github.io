@@ -1,6 +1,6 @@
 # Resep Kuliner Nusantara
 
-> Last updated: 2026-05-12
+> Last updated: 2026-06-20
 
 Kami mendokumentasikan dan membagikan resep-resep warisan keluarga dari berbagai daerah di Indonesia. Semua resep sudah diuji coba dan mudah diikuti.
 
