@@ -1,6 +1,6 @@
 > Kebijakan pengembalian barang dan refund untuk pembelian properti, produk herbal, dan barang lainnya di TropicYou. Baca syarat dan ketentuan sebelum membeli.
 
-> Last updated: 2026-06-20
+> Last updated: 2026-06-29
 
 # Kebijakan Pengembalian Barang & Refund
 

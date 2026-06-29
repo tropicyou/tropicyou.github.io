@@ -1,6 +1,11 @@
-> Last updated: 2026-06-20
+> Last updated: 2026-06-29
 
 ## Program Unggulan Kami
+
+ ![Flash Sale! Ruko 2 Lantai Strategis di Mayangkoro Bojonegoro – 1,3 M, SHM, Siap Huni](assets/img/ruko/ruko-strategis-mayangkoro-bojonegoro.webp)
+
+29 June 2026
+[Flash Sale! Ruko 2 Lantai Strategis di Mayangkoro Bojonegoro – 1,3 M, SHM, Siap Huni](/dijual/ruko/bojonegoro/2026/06/29/flash-sale-ruko-strategis-mayangkoro-bojonegoro/)
 
  ![Shampo Herbal & Body Wash Alami Tropic You - Bebas Bahan Kimia, Aman untuk Semua Usia](https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp)
 
