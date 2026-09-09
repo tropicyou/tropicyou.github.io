@@ -1,6 +1,7 @@
 ---
 title: Jual Koleksi Buku Bekas Why? – Komik Sains Elex Media – 10 Judul – Harga Mulai Rp70.000
 layout: post
+published: false
 category:
 - buku
 - bekas

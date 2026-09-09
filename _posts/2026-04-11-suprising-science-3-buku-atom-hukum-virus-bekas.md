@@ -1,6 +1,7 @@
 ---
 title: Jual 3 Buku Bekas Suprising Science – Atom & Molekul, Hukum Dasar Kimia, Virus – Masing-masing Rp60.500
 layout: post
+published: false
 category:
 - buku
 - bekas

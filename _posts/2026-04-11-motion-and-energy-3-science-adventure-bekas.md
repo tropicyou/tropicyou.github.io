@@ -1,6 +1,7 @@
 ---
 title: Jual Buku Bekas Motion and Energy 3 – Science Adventure – Perpindahan Panas & Rangkaian Listrik – Elex Media – Rp37.000
 layout: post
+published: false
 category:
 - buku
 - bekas

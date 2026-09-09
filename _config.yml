@@ -1,8 +1,8 @@
-title: 'TropicYou | Tutorial Rajut, Properti, & Produk Alami'
+title: 'TropicYou | Properti, & Produk Alami'
 name: TropicYou
 description: >-
-  Komunitas kreatif & marketplace Malang. Temukan tutorial rajut, jual beli
-  properti & barang bekas (tanah, rumah, sepeda), produk herbal shampoo alami, serta galeri rajutan custom.
+  Komunitas kreatif & marketplace Malang. jual beli
+  properti & barang bekas (tanah, rumah), produk herbal shampoo alami.
 email: mail@tropi.cyou
 author: Admin TropicYou
 url: 'https://www.tropi.cyou'
@@ -11,7 +11,7 @@ date_format: '%d %B %Y'
 lang: id
 jekyll_aeo:
   llms_txt:
-    description: "Komunitas kreatif & marketplace Malang. Temukan tutorial rajut, jual beli properti & barang bekas (tanah, rumah, sepeda), produk herbal shampoo alami, serta galeri rajutan custom."
+    description: "Komunitas kreatif & marketplace Malang. jual beli properti rumah tanah, produk herbal shampoo alami."
 twitter_username: null
 facebook_username: null
 instagram_username: irenenatadihardja

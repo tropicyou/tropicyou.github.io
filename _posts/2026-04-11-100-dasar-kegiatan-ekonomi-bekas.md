@@ -1,6 +1,7 @@
 ---
 title: Jual Buku Bekas 100 Dasar Kegiatan Ekonomi – Kim Tae-kwan dkk – Harga Rp60.500
 layout: post
+published: false
 category:
 - buku
 - bekas
