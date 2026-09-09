@@ -1,6 +1,6 @@
 # Green House Organik
 
-> Last updated: 2026-06-29
+> Last updated: 2026-09-09
 
 Green house siap pakai di lahan kavling Bandungrejosari, cocok untuk:
 

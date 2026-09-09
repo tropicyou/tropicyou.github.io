@@ -4,7 +4,7 @@
 
 > Last updated: 2026-04-08
 
-2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami Tropic You | TropicYou Tutorial Rajut, Properti, & Produk Alami
+2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami Tropic You | TropicYou Properti, & Produk Alami
 
 08 April 2026
 

@@ -1,6 +1,6 @@
 # Tanah Untuk Kavling Malang Kota
 
-> Last updated: 2026-06-29
+> Last updated: 2026-09-09
 
 🚀 **PENAWARAN TERBATAS – LANGSUNG PEMILIK, TANPA PERANTARA**
 

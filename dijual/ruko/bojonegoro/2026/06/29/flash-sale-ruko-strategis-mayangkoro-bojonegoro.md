@@ -4,7 +4,7 @@
 
 > Last updated: 2026-06-29
 
-Flash Sale! Ruko 2 Lantai Strategis di Mayangkoro Bojonegoro – 1,3 M, SHM, Siap Huni | TropicYou Tutorial Rajut, Properti, & Produk Alami
+Flash Sale! Ruko 2 Lantai Strategis di Mayangkoro Bojonegoro – 1,3 M, SHM, Siap Huni | TropicYou Properti, & Produk Alami
 
 29 June 2026
 

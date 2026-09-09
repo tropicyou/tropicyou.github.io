@@ -1,0 +1,8 @@
+ruang-keluarga-kanan.jpeg
+kamar-ruang-keluarga.jpeg
+samping-rumah.jpeg
+wordlist.txt
+tampak-depan-kiri.jpeg
+ruang-tamu.jpeg
+tampak-depan-kanan.jpeg
+ruang-keluarga-luas.jpeg

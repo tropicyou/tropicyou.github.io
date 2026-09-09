@@ -4,7 +4,7 @@
 
 > Last updated: 2026-02-17
 
-Investasi Aman di Malang Kota – Tanah Kavling 790 m² SHM, Strategis, Siap Bangun | TropicYou Tutorial Rajut, Properti, & Produk Alami
+Investasi Aman di Malang Kota – Tanah Kavling 790 m² SHM, Strategis, Siap Bangun | TropicYou Properti, & Produk Alami
 
 17 February 2026
 
