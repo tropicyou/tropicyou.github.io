@@ -1,7 +1,8 @@
 ---
 title: Shampo Herbal & Body Wash Alami Tropic You - Bebas Bahan Kimia, Aman untuk Semua Usia
-sticky: true
+sticky: false
 layout: post
+published: false
 category:
 - shampoo
 - bodywash

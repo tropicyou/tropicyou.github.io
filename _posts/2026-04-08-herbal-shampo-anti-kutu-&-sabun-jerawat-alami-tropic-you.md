@@ -1,7 +1,8 @@
 ---
 title: 2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami | Tropic You
-sticky: true
+sticky: false
 layout: post
+published: false
 category:
 - shampoo
 - bodywash

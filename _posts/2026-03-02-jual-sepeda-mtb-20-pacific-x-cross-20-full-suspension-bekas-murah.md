@@ -15,7 +15,7 @@ image: assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention.webp
 author: Hao
 description: |-
   Dijual Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas. Frame
-    Hi-Ten, Disc Brake, Shimano 7 Speed. Kondisi Bagus. Harga 1.2 Juta Nego. Langsung
+    Hi-Ten, Disc Brake, Shimano 7 Speed. Kondisi Bagus. Harga 900 Ribu Nego. Langsung
     Pemilik!
 date: '2026-03-01 04:33:14'
 ---
@@ -211,7 +211,7 @@ date: '2026-03-01 04:33:14'
     <div class="image-container">
         <img src="/assets/img/bekas/mtb-20-pacific-x-Cross-2.0-full-suspention-1.webp" alt="Sepeda MTB 20 Pacific X-Cross 2.0 Full Suspension Bekas Malang" class="main-image">
         <div class="price-tag">
-            1,2 Juta
+            900 Ribu
             <div class="price-note">NEGO TIPIS • Per Buah</div>
         </div>
     </div>
@@ -273,7 +273,7 @@ date: '2026-03-01 04:33:14'
                 <li>Rem: Disc Brake Cakram Mekanik (Depan & Belakang) - Stop Instan.</li>
                 <li>Groupset: Shimano 7 Speed - Pergigian Halus.</li>
             </ul>
-            <p>Tersedia <strong>2 unit</strong>. Dijual dengan harga <strong>Rp 1.200.000 per buah (Nego Tipis)</strong>. Barang sudah pasti mulus, langkah ringan, cocok untuk pemula yang ingin punya MTB performa bagus dengan harga terjangkau.</p>
+            <p>Tersedia <strong>2 unit</strong>. Dijual dengan harga <strong>Rp 900.000 per buah (Nego Tipis)</strong>. Barang sudah pasti mulus, langkah ringan, cocok untuk pemula yang ingin punya MTB performa bagus dengan harga terjangkau.</p>
         </div>
         
         <div class="section-title">
@@ -318,7 +318,7 @@ date: '2026-03-01 04:33:14'
                 <i class="material-icons">chat</i>
                 WhatsApp Sekarang
             </a>
-            <p style="margin-top: 12px; font-size: 13px; opacity: 0.9;">Harga 1.2 Juta Nego Tipis • Stok 2 Buah</p>
+            <p style="margin-top: 12px; font-size: 13px; opacity: 0.9;">Harga 900 Ribu Nego Tipis • Stok 2 Buah</p>
         </div>
     </div>
     
