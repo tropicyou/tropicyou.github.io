@@ -1,6 +1,6 @@
 # Rajutan Custom (Crochet)
 
-> Last updated: 2026-09-09
+> Last updated: 2026-11-19
 
 Kami menerima pesanan berbagai kerajinan rajutan tangan dengan kualitas premium:
 

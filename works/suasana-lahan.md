@@ -1,6 +1,6 @@
 # Suasana Lahan
 
-> Last updated: 2026-09-09
+> Last updated: 2026-11-19
 
 description: "Lokasi strategis di Bandungrejosari, Sukun, Malang Kota. Mepet perumahan padat, cocok untuk investasi atau hunian."
 details:

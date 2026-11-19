@@ -1,4 +1,4 @@
-> Last updated: 2026-09-09
+> Last updated: 2026-11-19
 
 ## Program Unggulan Kami
 
@@ -6,16 +6,6 @@
 
 29 June 2026
 [Flash Sale! Ruko 2 Lantai Strategis di Mayangkoro Bojonegoro – 1,3 M, SHM, Siap Huni](/dijual/ruko/bojonegoro/2026/06/29/flash-sale-ruko-strategis-mayangkoro-bojonegoro/)
-
- ![Shampo Herbal & Body Wash Alami Tropic You - Bebas Bahan Kimia, Aman untuk Semua Usia](https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp)
-
-25 April 2026
-[Shampo Herbal & Body Wash Alami Tropic You - Bebas Bahan Kimia, Aman untuk Semua Usia](/shampoo/bodywash/natural/herbal/2026/04/25/shampo-herbal-body-wash-alami-tropic-you/)
-
- ![2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami | Tropic You](https://www.tropi.cyou/assets/img/bodywash/kemasan-bodywash-250-popup.webp)
-
-08 April 2026
-[2-in-1 Herbal Shampo Anti Kutu & Sabun Jerawat Alami | Tropic You](/shampoo/bodywash/2026/04/08/herbal-shampo-anti-kutu-&-sabun-jerawat-alami-tropic-you/)
 
  ![Rumah Dijual Murah Cluster Bandungrejosari Sukun Malang Type 54](assets/img/rumah/tampak-depan.webp)
 
